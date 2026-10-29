@@ -1,0 +1,50 @@
+---
+title: "Packages"
+page-layout: full
+---
+
+```{ojs}
+import { sourceName, loadPackages, formatValue, packageHref, withSource } from "./site.js"
+
+source = sourceName()
+metricsInfo = FileAttachment("data/metrics.json").json()
+
+loaded = {
+  const t0 = performance.now();
+  const pkgs = await loadPackages(source);
+  return { pkgs, seconds: (performance.now() - t0) / 1000 };
+}
+pkgs = loaded.pkgs
+
+// Only show metric columns that occur in this PACKAGES file.
+metricCols = metricsInfo.map((m) => m.name).filter((n) => pkgs.some((p) => n in p.metrics))
+
+rows = pkgs.map((p) => ({ Package: p.Package, Version: p.Version, License: p.License, ...p.metrics }))
+```
+
+```{ojs}
+sourceLabels = ({
+  fixture: "val.meter-format fixture",
+  edge: "edge cases",
+  prod: "production (riskmetric scores, no val.meter metrics)"
+})
+
+md`${pkgs.length.toLocaleString("en-US")} packages loaded from the ${sourceLabels[source]}
+in ${loaded.seconds.toFixed(2)} s. Data:
+${Object.keys(sourceLabels).map((s) => s === source ? `**${s}**` : `[${s}](${withSource("index.html", s)})`).join(" · ")}`
+```
+
+```{ojs}
+viewof matches = Inputs.search(rows, { placeholder: "Search packages…" })
+
+Inputs.table(matches, {
+  columns: ["Package", "Version", "License", ...metricCols],
+  header: Object.fromEntries(metricsInfo.map((m) => [m.name, m.title])),
+  format: {
+    Package: (d) => htl.html`<a href=${packageHref(d, source)}>${d}</a>`,
+    ...Object.fromEntries(metricCols.map((c) => [c, formatValue]))
+  },
+  rows: 25,
+  layout: "auto"
+})
+```

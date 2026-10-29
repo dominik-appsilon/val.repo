@@ -1,0 +1,31 @@
+project:
+  type: website
+  render: [index.qmd, package.qmd]
+  resources: [dcf.js, site.js, data/PACKAGES, data/PACKAGES.edge, data/metrics.json]
+
+website:
+  title: "val.repo (POC)"
+  description: Client-side package reports built from PACKAGES.
+  search: false
+  open-graph: false
+  navbar:
+    left:
+      - href: index.qmd
+        text: Packages
+    right:
+      - icon: github
+        href: https://github.com/pharmaR/val.repo/issues/12
+        aria-label: GitHub issue
+
+execute:
+  echo: false
+
+format:
+  html:
+    theme:
+      light: [litera]
+      dark: [darkly]
+    css: styles.css
+    mainfont: "Atkinson Hyperlegible"
+    code-copy: false
+    code-overflow: wrap

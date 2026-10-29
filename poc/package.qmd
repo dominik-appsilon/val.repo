@@ -1,0 +1,81 @@
+---
+pagetitle: "Package report"
+---
+
+```{ojs}
+import { sourceName, loadPackages, formatValue, withSource } from "./site.js"
+
+source = sourceName()
+pkgName = new URLSearchParams(window.location.search).get("pkg")
+metricsInfo = FileAttachment("data/metrics.json").json()
+pkgs = loadPackages(source)
+
+// PACKAGES may hold more than one record per package; show all of them.
+matches = pkgs.filter((p) => p.Package === pkgName)
+```
+
+```{ojs}
+{
+  document.title = `${pkgName ?? "Package"} – val.repo (POC)`;
+  const back = htl.html`<p><a href=${withSource("index.html", source)}>← All packages</a></p>`;
+  if (!matches.length) {
+    return htl.html`${back}<h1>Package not found</h1>
+      <p>No package <code>${pkgName ?? ""}</code> in ${source === "prod" ? "production PACKAGES" : "the fixture"}.</p>`;
+  }
+  return htl.html`${back}${matches.map(report)}`;
+}
+```
+
+```{ojs}
+function report(p) {
+  const { metrics, ...fields } = p;
+  return htl.html`
+    <h1>${p.Package} <small class="text-muted">${p.Version}</small></h1>
+    <h2>Description</h2>
+    <table class="table table-sm desc-table"><tbody>
+      ${Object.entries(fields).map(([k, v]) => htl.html`<tr><td>${k}</td><td>${v}</td></tr>`)}
+    </tbody></table>
+    <h2>Metrics</h2>
+    ${metricSections(metrics)}
+    <h2>Reproduce</h2>
+    <p>Full run logs are not published. To recompute these metrics locally with
+    <a href="https://github.com/pharmaR/val.meter">val.meter</a>:</p>
+    <pre><code>${reproduceCode(p.Package)}</code></pre>`;
+}
+
+// Group metrics by their first tag; values missing from PACKAGES are flagged.
+function metricSections(metrics) {
+  const known = new Set(metricsInfo.map((m) => m.name));
+  const groups = d3.group(metricsInfo, (m) => m.tags[0] ?? "other");
+  const other = groups.get("other");
+  if (other) groups.delete("other"), groups.set("other", other);
+  const unknown = Object.keys(metrics).filter((n) => !known.has(n));
+  if (unknown.length) groups.set("no metadata", unknown.map((name) => ({ name, title: name, tags: [], permissions: [] })));
+  return [...groups].map(([tag, ms]) => htl.html`
+    <h3>${tag[0].toUpperCase() + tag.slice(1)}</h3>
+    <table class="table table-sm"><thead><tr><th>Metric</th><th>Value</th><th>Requires</th></tr></thead><tbody>
+      ${ms.map((m) => htl.html`<tr>
+        <td><strong>${rawHTML(m.title)}</strong>
+          <div class="metric-desc">${rawHTML(m.description ?? "")}</div></td>
+        <td>${m.name in metrics ? formatValue(metrics[m.name]) : htl.html`<em class="text-muted">not available</em>`}</td>
+        <td>${m.permissions.map((x) => htl.html`<span class="perm">${x}</span> `)}</td>
+      </tr>`)}
+    </tbody></table>`);
+}
+
+// metrics.json holds HTML converted from val.meter's Rd docs at build time.
+function rawHTML(s) {
+  const span = document.createElement("span");
+  span.innerHTML = s;
+  return span;
+}
+
+function reproduceCode(name) {
+  const perms = [...new Set(metricsInfo.flatMap((m) => m.permissions))];
+  const permArg = perms.length ? `, permissions = permissions(${perms.map((x) => JSON.stringify(x)).join(", ")})` : "";
+  return `# pak::pak("pharmaR/val.meter")
+library(val.meter)
+p <- pkg(${JSON.stringify(name)}${permArg})
+metrics(p)`;
+}
+```
