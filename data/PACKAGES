@@ -1,0 +1,4619 @@
+Format: Metrics
+
+Package: bplyr
+Version: 0.3.2
+Depends: R, bayesianpunctualclimate, contRibution, reclaimSurvey
+Imports: flattr, lovely.Keen, rwebaward, fragrant.goodly.test, regard.Hopeful, easytinythrift, leading.fortitude, healthBeloved, intelligence.Strong, Respite, adulation.Cohort, affable.time, survivalSurvival, industRious, valsharper
+LinkingTo: survpamperedness, cherish.Frolic
+Suggests: handsomegridR, waRm, ggrightness, Realistic, baRgain
+License: Phony License
+MD5sum: 7d1dd7333f616b7a9a6918d86631395c
+Metric/lint_count@R: 8
+Metric/has_current_news@R: TRUE
+Metric/lint_free_fraction@R: 0.854615386086516
+Metric/cran_reverse_dependencies_count@R: 2
+Metric/vignette_count@R: 4
+Metric/r_cmd_check_error_count@R: 0
+Metric/test_line_coverage_fraction@R: 0.777466523060919
+Metric/exports_help_coverage@R: 0.848228563461453
+Metric/test_expression_coverage_fraction@R: 0.695340354435296
+Metric/downloads_total@R: 166
+Metric/help_pages_with_examples_count@R: 13
+Metric/has_recognized_source@R: FALSE
+Metric/help_examples_coverage@R: 0.931661216891371
+Metric/dependency_count@R: 21
+Metric/has_website@R: FALSE
+
+Package: welcomeBlockbusterR
+Version: 4.8-1
+Depends: R, exubeRant, adulation.Cohort, vividclarity
+Imports: ggvouch, beneficentdesirablerevere, superiorColor, thinnr, patRiotic, daringtree, saluteHealth
+Suggests: easy.stable.top, sturdir, iRresistible, contRibution, faiR, unReal, survivalSurvival, shiny.word, easytable
+License: Phony License
+MD5sum: 0dd91f5055140c1694ae3a103ff8ee52
+Metric/lint_count@R: 6
+Metric/has_current_news@R: FALSE
+Metric/lint_free_fraction@R: 0.767285864823498
+Metric/cran_reverse_dependencies_count@R: 2
+Metric/vignette_count@R: 4
+Metric/r_cmd_check_error_count@R: 0
+Metric/test_line_coverage_fraction@R: 0.978879352566476
+Metric/exports_help_coverage@R: 0.975780052598566
+Metric/test_expression_coverage_fraction@R: 0.454158169540523
+Metric/downloads_total@R: 103990
+Metric/help_pages_with_examples_count@R: 29
+Metric/has_recognized_source@R: TRUE
+Metric/help_examples_coverage@R: 0.990158708882518
+Metric/dependency_count@R: 11
+Metric/has_website@R: FALSE
+
+Package: luckinessTable
+Version: 2.3-1
+Depends: R, fragrant.goodly.test
+Imports: nicr, superiorColor, ggrightness, earnestnessSaver, reachablesmartfairness, easytable
+Suggests: beneficentdesirablerevere, unmatched.richness, bReathtaking, flouRishing, contRibution, cher, roxyexcitedness, libeRation, Romantic
+License: Phony License
+MD5sum: 37070b3fde2989505bf67ba895d8dd48
+Metric/lint_count@R: 12
+Metric/has_current_news@R: TRUE
+Metric/lint_free_fraction@R: 0.730133235896937
+Metric/cran_reverse_dependencies_count@R: 6
+Metric/vignette_count@R: 1
+Metric/r_cmd_check_error_count@R: 0
+Metric/test_line_coverage_fraction@R: 0
+Metric/exports_help_coverage@R: 0.80053586717695
+Metric/test_expression_coverage_fraction@R: 0.898979004041382
+Metric/downloads_total@R: 4432
+Metric/help_pages_with_examples_count@R: 45
+Metric/has_recognized_source@R: TRUE
+Metric/help_examples_coverage@R: 0.853639040258713
+Metric/dependency_count@R: 8
+Metric/has_website@R: FALSE
+
+Package: bolsteR
+Version: 1.3
+Depends: R, Respite
+Imports: vouchCount, fulfillmentRedemption, charismaticzeal, Realistic, daringtree, space.Survival, earnestnessSaver, congenial.respite, laud.Illuminate, Rapturous, ggcuteness, shinyhappieramazement
+LinkingTo: contRibution
+Suggests: hardir, SWIFTWORD, bRotherly, healthBeloved, adulation.Cohort, authoRitative, easygoingshinyrespite
+License: Phony License
+MD5sum: 46e4305d127f9a18505e65f95a19e469
+Metric/lint_count@R: 11
+Metric/has_current_news@R: TRUE
+Metric/lint_free_fraction@R: 0.756290308572352
+Metric/cran_reverse_dependencies_count@R: 1
+Metric/vignette_count@R: 4
+Metric/r_cmd_check_error_count@R: 0
+Metric/test_line_coverage_fraction@R: 0.954259075698617
+Metric/exports_help_coverage@R: 0.893445914192125
+Metric/test_expression_coverage_fraction@R: 0
+Metric/downloads_total@R: 83496
+Metric/help_pages_with_examples_count@R: 26
+Metric/has_recognized_source@R: FALSE
+Metric/help_examples_coverage@R: 0.642010190174915
+Metric/dependency_count@R: 15
+Metric/has_website@R: FALSE
+
+Package: clevr
+Version: 1.3.3
+Depends: R, rwebaward, DeservingTensor, supr, cher, affable.time
+Imports: heroicclimate, righteousnessWord, suitablesplendor, tidywealthysmooth, bayesianpunctualclimate, lustr, survpamperedness, valrefund, saluteHealth, joyousvalorR, solaceCluster, authoRitative, DextrousSwift, reclaimSurvey
+LinkingTo: richHeroR
+Suggests: principledcourage, tensorGain, exhilaRation, tidydistR, compatible.valiant.cartography, Rvalmodern, Respite, roxyexcitedness, libeRation
+License: Phony License
+MD5sum: 25ce2111d75367cbd298b5cdd34447b8
+Metric/lint_count@R: 10
+Metric/has_current_news@R: FALSE
+Metric/lint_free_fraction@R: 0.70972573235631
+Metric/cran_reverse_dependencies_count@R: 2
+Metric/vignette_count@R: 1
+Metric/r_cmd_check_error_count@R: 0
+Metric/test_line_coverage_fraction@R: 0.858687415599079
+Metric/exports_help_coverage@R: 0.954764619236812
+Metric/test_expression_coverage_fraction@R: 0.914740390393576
+Metric/downloads_total@R: 71
+Metric/help_pages_with_examples_count@R: 48
+Metric/has_recognized_source@R: FALSE
+Metric/help_examples_coverage@R: 0.772750817704946
+Metric/dependency_count@R: 21
+Metric/has_website@R: FALSE
+
+Package: ggvouch
+Version: 0.6.1
+Depends: R, considerateglmtop, ggoverture
+Imports: SWIFTWORD, cherubSampling, fertileresolutetime, joyousvalorR, baRgain, impaRtiality, pRosper
+LinkingTo: accommodativebayesianbest
+Suggests: cleaRer, hardir, handsomegridR, enchanting.congratulation, panoramicdiff, rwebaward, tidywealthysmooth, reassuranceCooperative, colorConfidence, fluttr, richHeroR, roxyexcitedness, Rapturous
+License: Phony License
+MD5sum: f0765b64bc45b3d13fd81e57cc03b325
+Metric/lint_count@R: 13
+Metric/has_current_news@R: TRUE
+Metric/lint_free_fraction@R: 0.944757675612345
+Metric/cran_reverse_dependencies_count@R: 5
+Metric/vignette_count@R: 1
+Metric/r_cmd_check_error_count@R: 0
+Metric/test_line_coverage_fraction@R: 0.939493154333292
+Metric/exports_help_coverage@R: 0.89737077280879
+Metric/test_expression_coverage_fraction@R: 0.992271420780075
+Metric/downloads_total@R: 14
+Metric/help_pages_with_examples_count@R: 49
+Metric/has_recognized_source@R: TRUE
+Metric/help_examples_coverage@R: 0.703340036561713
+Metric/dependency_count@R: 11
+Metric/has_website@R: FALSE
+
+Package: cleaRer
+Version: 1.5.5
+Depends: R, cherubSampling, renownGlitter, conciliatoRy
+Imports: easy.stable.top, regard.Tree, principledcourage, RIngeniousPortable, bRotherly, cohortSurvival, zjplyr, Rtinysolace, webgentle, visdignity, vividclarity, Romantic
+LinkingTo: tidydiff
+Suggests: exhilaRation, leading.fortitude, saluteHealth, intelligence.Strong, faiR, easyhallmark, pRosper, spatialgenoadvocate, amicableexcitement, survivalSurvival, thRilling, reachablesmartfairness, easytable
+License: Phony License
+MD5sum: 777deb120317fb9c1c9ff07cd738bb42
+Metric/lint_count@R: 9
+Metric/has_current_news@R: TRUE
+Metric/lint_free_fraction@R: 0.902297460963018
+Metric/cran_reverse_dependencies_count@R: 2
+Metric/vignette_count@R: 4
+Metric/r_cmd_check_error_count@R: 1
+Metric/test_line_coverage_fraction@R: 0.399794803093705
+Metric/exports_help_coverage@R: 0.861229593073949
+Metric/test_expression_coverage_fraction@R: 0.798849774170575
+Metric/downloads_total@R: 15752
+Metric/help_pages_with_examples_count@R: 49
+Metric/has_recognized_source@R: TRUE
+Metric/help_examples_coverage@R: 0.669166874606162
+Metric/dependency_count@R: 17
+Metric/has_website@R: FALSE
+
+Package: accommodativebayesianbest
+Version: 4.1.1
+Depends: R, vouchCount, authoRitative
+Imports: sinceRity, fResher, bonnyHug, Respite, space.Survival, Remedy, DextrousSwift, renownGlitter, Rapturous
+Suggests: bRotherly, cohortSurvival, charismaticzeal, compatible.valiant.cartography, dignitySurveyR, impaRtiality, affable.time, roxyexcitedness
+License: Phony License
+MD5sum: 857c2300ffa2de1699f0f50c68491189
+Metric/lint_count@R: 7
+Metric/has_current_news@R: TRUE
+Metric/lint_free_fraction@R: 0.918933323491365
+Metric/cran_reverse_dependencies_count@R: 2
+Metric/vignette_count@R: 3
+Metric/r_cmd_check_error_count@R: 0
+Metric/test_line_coverage_fraction@R: 0
+Metric/exports_help_coverage@R: 0.991940234135836
+Metric/test_expression_coverage_fraction@R: 0.671217542404759
+Metric/downloads_total@R: 3899
+Metric/help_pages_with_examples_count@R: 12
+Metric/has_recognized_source@R: TRUE
+Metric/help_examples_coverage@R: 0.501116319326684
+Metric/dependency_count@R: 12
+Metric/has_website@R: FALSE
+
+Package: wondr
+Version: 2.1.6
+Depends: R, enchanting.congratulation, iRresistible
+Imports: flattr, exubeRant, fragrant.goodly.test, eco.sharpR, tidydistR, DeservingTensor, honoRable, space.Survival, laud.Illuminate, libeRation, thRilling, astoundingeager, stunning.bargain
+Suggests: survluster, Rtinysolace, contRibution, promotr, spatialgenoadvocate, solaceCluster, easytable, maneuveRable
+License: Phony License
+MD5sum: b80878c3bd777a65eb4024de0720188f
+Metric/lint_count@R: 15
+Metric/has_current_news@R: TRUE
+Metric/lint_free_fraction@R: 0.955658135609701
+Metric/cran_reverse_dependencies_count@R: 3
+Metric/vignette_count@R: 1
+Metric/r_cmd_check_error_count@R: 0
+Metric/test_line_coverage_fraction@R: 0.756971311365204
+Metric/exports_help_coverage@R: 0.94835746679455
+Metric/test_expression_coverage_fraction@R: 0
+Metric/downloads_total@R: 51
+Metric/help_pages_with_examples_count@R: 7
+Metric/has_recognized_source@R: TRUE
+Metric/help_examples_coverage@R: 0.883912492077798
+Metric/dependency_count@R: 16
+Metric/has_website@R: FALSE
+
+Package: hardir
+Version: 3.2.3
+Depends: R, solaceCluster, reachablesmartfairness
+Imports: earnestnessFortitude, nicr, survword, survluster, fancir, bolstr, integRal, DextrousSwift, reverenceNice, stunning.bargain
+Suggests: empoweRment, rwebaward, SWIFTWORD, talentedFriendly, easytinythrift, comfypowerfuldelicacy, Rtinysolace, Realistic, roxyexcitedness, easytable
+License: Phony License
+MD5sum: 4a70a2bb121b59558f75ae9b664ef088
+Metric/lint_count@R: 14
+Metric/has_current_news@R: FALSE
+Metric/lint_free_fraction@R: 0.819867488159798
+Metric/cran_reverse_dependencies_count@R: 4
+Metric/vignette_count@R: 2
+Metric/r_cmd_check_error_count@R: 0
+Metric/test_line_coverage_fraction@R: 0.552403661680487
+Metric/exports_help_coverage@R: 0.968508517369628
+Metric/test_expression_coverage_fraction@R: 0.927073700598003
+Metric/downloads_total@R: 2000
+Metric/help_pages_with_examples_count@R: 38
+Metric/has_recognized_source@R: TRUE
+Metric/help_examples_coverage@R: 0.726927405921742
+Metric/dependency_count@R: 13
+Metric/has_website@R: FALSE
+
+Package: zenith.Test
+Version: 0.3.5
+Depends: R, authoRitative
+Imports: providenceSamplingR, webgentle, pRosper, jubilateTest, spatialgenoadvocate
+Suggests: SpatialLoveliness, talentedFriendly, Respite, superiorhealthybreathlessness, amicableexcitement, considerateglmtop, laud.Illuminate, shiny.word, shinyhappieramazement
+License: Phony License
+MD5sum: 5d8a1de838fd6836c129c9b455d30476
+Metric/lint_count@R: 13
+Metric/has_current_news@R: TRUE
+Metric/lint_free_fraction@R: 0.948424639017321
+Metric/cran_reverse_dependencies_count@R: 3
+Metric/vignette_count@R: 4
+Metric/r_cmd_check_error_count@R: 0
+Metric/test_line_coverage_fraction@R: 0.591962114377797
+Metric/exports_help_coverage@R: 0.931722578313202
+Metric/test_expression_coverage_fraction@R: 0.0695138728473108
+Metric/downloads_total@R: 802332
+Metric/help_pages_with_examples_count@R: 40
+Metric/has_recognized_source@R: FALSE
+Metric/help_examples_coverage@R: 0.874507183791138
+Metric/dependency_count@R: 7
+Metric/has_website@R: FALSE
+
+Package: sinceRity
+Version: 3.6.5
+Depends: R, beneficentdesirablerevere, pRowess, jubilateTest
+Imports: tidydiff, patRiotic, iRresistible, saluteHealth, finr
+LinkingTo: thRilling
+Suggests: forecastGreatness, unmatched.richness, panoramicdiff, survword, sublime.code, cherish.Frolic, impaRtiality, dataRicher
+License: Phony License
+MD5sum: 45efd74ab278eefcfcd09a548fff7a45
+Metric/lint_count@R: 11
+Metric/has_current_news@R: TRUE
+Metric/lint_free_fraction@R: 0.702818819507956
+Metric/cran_reverse_dependencies_count@R: 1
+Metric/vignette_count@R: 4
+Metric/r_cmd_check_error_count@R: 0
+Metric/test_line_coverage_fraction@R: 0.564923597373334
+Metric/exports_help_coverage@R: 0.869592271372676
+Metric/test_expression_coverage_fraction@R: 0.787309485579005
+Metric/downloads_total@R: 104
+Metric/help_pages_with_examples_count@R: 22
+Metric/has_recognized_source@R: FALSE
+Metric/help_examples_coverage@R: 0.667826713644899
+Metric/dependency_count@R: 10
+Metric/has_website@R: FALSE
+
+Package: handsomegridR
+Version: 4.6.0
+Depends: R, waRm, affirmativehottestbeloved, roxyexcitedness
+Imports: gg.useful, ScenicProtection, beneficentdesirablerevere, lovely.Keen, SWIFTWORD, fragrant.goodly.test, adorr, sublime.code, survluster, iRresistible, industRious
+LinkingTo: shiny.word
+Suggests: READWITTY, earnestnessFortitude, unReal, Remedy, libeRation
+License: Phony License
+MD5sum: 2e04a2e813d588188fee30aa7c0b7a33
+Metric/lint_count@R: 12
+Metric/has_current_news@R: FALSE
+Metric/lint_free_fraction@R: 0.921087759966031
+Metric/cran_reverse_dependencies_count@R: 3
+Metric/vignette_count@R: 3
+Metric/r_cmd_check_error_count@R: 0
+Metric/test_line_coverage_fraction@R: 0.978594070385089
+Metric/exports_help_coverage@R: 0.839318296127021
+Metric/test_expression_coverage_fraction@R: 0
+Metric/downloads_total@R: 1192911
+Metric/help_pages_with_examples_count@R: 24
+Metric/has_recognized_source@R: TRUE
+Metric/help_examples_coverage@R: 0.674681148841046
+Metric/dependency_count@R: 16
+Metric/has_website@R: FALSE
+
+Package: soil.Saintliness
+Version: 4.6.4
+Depends: R, enlightenmentSafety
+Imports: earnestnessFortitude, flouRishing, thinnr, fertileresolutetime, joyousvalorR, ggoverture, ggcuteness
+LinkingTo: rwebaward, cherubSampling
+Suggests: tidyforesight, sublime.code, fulfillmentRedemption, ecouplift, fluttr, bRainy, affable.time, rightnessSurvey, suRv, valsharper
+License: Phony License
+MD5sum: 214f3f86cfb4f97ca3dec5e04eaf546e
+Metric/lint_count@R: 7
+Metric/has_current_news@R: FALSE
+Metric/lint_free_fraction@R: 0.787737616919912
+Metric/cran_reverse_dependencies_count@R: 5
+Metric/vignette_count@R: 4
+Metric/r_cmd_check_error_count@R: 0
+Metric/test_line_coverage_fraction@R: 0.65696590981337
+Metric/exports_help_coverage@R: 0.9345338832587
+Metric/test_expression_coverage_fraction@R: 0
+Metric/downloads_total@R: 65
+Metric/help_pages_with_examples_count@R: 40
+Metric/has_recognized_source@R: TRUE
+Metric/help_examples_coverage@R: 0.823239229153842
+Metric/dependency_count@R: 11
+Metric/has_website@R: FALSE
+
+Package: forecastGreatness
+Version: 2.0.2
+Depends: R, superiorColor, cohortSurvival
+Imports: handir, expansiveconciliatorysafety, space.Survival, impaRtiality, Rapturous
+Suggests: SpatialLoveliness, flouRishing, survluster, unReal, easyhallmark, smoothr, congenial.respite, vishumility, flplyr, tidyfuzzyhooray
+License: Phony License
+MD5sum: 771f9f1fac4d5d54c201ef330fa33755
+Metric/lint_count@R: 9
+Metric/has_current_news@R: TRUE
+Metric/lint_free_fraction@R: 0.948900186014362
+Metric/cran_reverse_dependencies_count@R: 2
+Metric/vignette_count@R: 5
+Metric/r_cmd_check_error_count@R: 0
+Metric/test_line_coverage_fraction@R: 0
+Metric/exports_help_coverage@R: 0.890869873110205
+Metric/test_expression_coverage_fraction@R: 0.775622614968844
+Metric/downloads_total@R: 15643
+Metric/help_pages_with_examples_count@R: 7
+Metric/has_recognized_source@R: TRUE
+Metric/help_examples_coverage@R: 0.662018061848357
+Metric/dependency_count@R: 8
+Metric/has_website@R: FALSE
+
+Package: webkindnessR
+Version: 1.5.3
+Depends: R, robustspatialardor
+Imports: enchanting.congratulation, cherubSampling, lustr, shiny.instrumental.better, supr, eaRnestness, baRgain, Remedy, roxyexcitedness, survivalSurvival
+Suggests: bRotherly, robustprincipledglow, vallucky, pRowess, comfypowerfuldelicacy, healthBeloved, bolstr, dignitySurveyR
+License: Phony License
+MD5sum: 1c5baf1d98e7032db026fd8c5f6d802e
+Metric/lint_count@R: 12
+Metric/has_current_news@R: TRUE
+Metric/lint_free_fraction@R: 0.720056652999483
+Metric/cran_reverse_dependencies_count@R: 1
+Metric/vignette_count@R: 3
+Metric/r_cmd_check_error_count@R: 0
+Metric/test_line_coverage_fraction@R: 0.992296168641201
+Metric/exports_help_coverage@R: 0.820769178215414
+Metric/test_expression_coverage_fraction@R: 0.728954543572018
+Metric/downloads_total@R: 833
+Metric/help_pages_with_examples_count@R: 10
+Metric/has_recognized_source@R: TRUE
+Metric/help_examples_coverage@R: 0.596707827062346
+Metric/dependency_count@R: 12
+Metric/has_website@R: FALSE
+
+Package: gg.useful
+Version: 1.1.4
+Depends: R
+Imports: rwebaward, nicr, iRresistible, webgentle, INGENUITY.VIRTUE
+Suggests: providenceSamplingR, exhilaRation, healthystaunch, vouchCount, comfypowerfuldelicacy, zjplyr, Remedy, tidyfuzzyhooray
+License: Phony License
+MD5sum: a5df9c8fdf00f773a9d7ad0067e024b7
+Metric/lint_count@R: 12
+Metric/has_current_news@R: TRUE
+Metric/lint_free_fraction@R: 0.890825442271307
+Metric/cran_reverse_dependencies_count@R: 1
+Metric/vignette_count@R: 1
+Metric/r_cmd_check_error_count@R: 0
+Metric/test_line_coverage_fraction@R: 0.635998278876364
+Metric/exports_help_coverage@R: 0.964323388552293
+Metric/test_expression_coverage_fraction@R: 0
+Metric/downloads_total@R: 166
+Metric/help_pages_with_examples_count@R: 13
+Metric/has_recognized_source@R: TRUE
+Metric/help_examples_coverage@R: 0.673672772594728
+Metric/dependency_count@R: 6
+Metric/has_website@R: FALSE
+
+Package: easy.stable.top
+Version: 3.4-5
+Depends: R, vallucky, intelligence.Strong, thRilling
+Imports: Rtinywealthytest, cherubSampling, talentedFriendly, survluster, visdignity, valrosy, reclaimSurvey, suRv
+LinkingTo: empoweRment
+Suggests: panoramicdiff, ggrightness, visenthusiasm, webgentle, deservingdynamicempowerment, momentousspectrallifesaver, flplyr, reachablesmartfairness
+License: Phony License
+MD5sum: a0247e39fc78361336f6d92792eca118
+Metric/lint_count@R: 11
+Metric/has_current_news@R: FALSE
+Metric/lint_free_fraction@R: 0.749349332787096
+Metric/cran_reverse_dependencies_count@R: 2
+Metric/vignette_count@R: 1
+Metric/r_cmd_check_error_count@R: 2
+Metric/test_line_coverage_fraction@R: 0.982351408737238
+Metric/exports_help_coverage@R: 0.847193409083411
+Metric/test_expression_coverage_fraction@R: 0.433822610046254
+Metric/downloads_total@R: 66
+Metric/help_pages_with_examples_count@R: 37
+Metric/has_recognized_source@R: TRUE
+Metric/help_examples_coverage@R: 0.748173247324303
+Metric/dependency_count@R: 13
+Metric/has_website@R: FALSE
+
+Package: regard.Tree
+Version: 0.2.1
+Depends: R, cherish.Frolic, visdignity, adulation.Cohort
+Imports: charismaticzeal, honoRable, inventiveeasyfame
+Suggests: principledcourage, regard.Hopeful, shiny.instrumental.better, joyousvalorR, suRv
+License: Phony License
+MD5sum: c7462315bbb6f94d0e742ff72a204825
+Metric/lint_count@R: 8
+Metric/has_current_news@R: TRUE
+Metric/lint_free_fraction@R: 0.726057934318669
+Metric/cran_reverse_dependencies_count@R: 2
+Metric/vignette_count@R: 1
+Metric/r_cmd_check_error_count@R: 2
+Metric/test_line_coverage_fraction@R: 0.864011648479128
+Metric/exports_help_coverage@R: 0.912916861241683
+Metric/test_expression_coverage_fraction@R: 0.310944219444971
+Metric/downloads_total@R: 150
+Metric/help_pages_with_examples_count@R: 33
+Metric/has_recognized_source@R: TRUE
+Metric/help_examples_coverage@R: 0.693017306155525
+Metric/dependency_count@R: 7
+Metric/has_website@R: FALSE
+
+Package: tidyforesight
+Version: 4.5.0
+Depends: R, daringWarmer, reclaimSurvey, shinyhappieramazement
+Imports: ScenicProtection, suitablesplendor, lustr, pRowess, easytinythrift, handir, unReal, INGENUITY.VIRTUE, flplyr
+Suggests: propr, jplyr, thRilling, DextrousSwift, conciliatoRy
+License: Phony License
+MD5sum: e0700b9332d58bc21047a0a3f20ff4ab
+Metric/lint_count@R: 4
+Metric/has_current_news@R: FALSE
+Metric/lint_free_fraction@R: 0.749115291330963
+Metric/cran_reverse_dependencies_count@R: 1
+Metric/vignette_count@R: 3
+Metric/r_cmd_check_error_count@R: 0
+Metric/test_line_coverage_fraction@R: 0.92314186521049
+Metric/exports_help_coverage@R: 0.84411935438402
+Metric/test_expression_coverage_fraction@R: 0.982980205063534
+Metric/downloads_total@R: 457
+Metric/help_pages_with_examples_count@R: 48
+Metric/has_recognized_source@R: TRUE
+Metric/help_examples_coverage@R: 0.610796123277396
+Metric/dependency_count@R: 13
+Metric/has_website@R: FALSE
+
+Package: READWITTY
+Version: 2.2-4
+Depends: R, Rtinysolace, rightnessSurvey, Romantic
+Imports: survluster, comfypowerfuldelicacy, fancir, honoRable, inventiveeasyfame, fluttr, Read
+LinkingTo: cherubSampling, Realistic, finr
+Suggests: vis.divine, empoweRment, iRresistible, easyobsession, thRilling
+License: Phony License
+MD5sum: f22c714b57f4c8c4cc9822317c2770e8
+Metric/lint_count@R: 15
+Metric/has_current_news@R: FALSE
+Metric/lint_free_fraction@R: 0.942227024538443
+Metric/cran_reverse_dependencies_count@R: 5
+Metric/vignette_count@R: 3
+Metric/r_cmd_check_error_count@R: 0
+Metric/test_line_coverage_fraction@R: 0.788842126169203
+Metric/exports_help_coverage@R: 0.989892990142107
+Metric/test_expression_coverage_fraction@R: 0.817750304145244
+Metric/downloads_total@R: 3964
+Metric/help_pages_with_examples_count@R: 26
+Metric/has_recognized_source@R: TRUE
+Metric/help_examples_coverage@R: 0.845210952684283
+Metric/dependency_count@R: 14
+Metric/has_website@R: FALSE
+
+Package: principledcourage
+Version: 2.7.3
+Depends: R, bolstr
+Imports: visenthusiasm, faiR, industRious, shiny.word
+LinkingTo: fancir
+Suggests: panoramicdiff, bRotherly, suitablesplendor, cher, dataRicher, ggoverture, authoRitative, soplyr, conciliatoRy
+License: Phony License
+MD5sum: 5bcaab220eaf0e1237d001bed1ef0d0f
+Metric/lint_count@R: 13
+Metric/has_current_news@R: FALSE
+Metric/lint_free_fraction@R: 0.840282811108045
+Metric/cran_reverse_dependencies_count@R: 3
+Metric/vignette_count@R: 1
+Metric/r_cmd_check_error_count@R: 0
+Metric/test_line_coverage_fraction@R: 0.884415277747042
+Metric/exports_help_coverage@R: 0.818070094147697
+Metric/test_expression_coverage_fraction@R: 0.000237677454509422
+Metric/downloads_total@R: 773
+Metric/help_pages_with_examples_count@R: 17
+Metric/has_recognized_source@R: TRUE
+Metric/help_examples_coverage@R: 0.79676176875364
+Metric/dependency_count@R: 7
+Metric/has_website@R: FALSE
+
+Package: vis.divine
+Version: 0.1.7
+Depends: R
+Imports: lovely.Keen, leading.fortitude, expansiveconciliatorysafety, contRibution, Realistic, valrefund, integRal, dignitySurveyR, pRosper, rightnessSurvey, valsharper
+LinkingTo: ggoverture
+Suggests: tidycompassion, wsplyr, panoramicdiff, shiny.instrumental.better, charismaticzeal, TrustingEloquence, impaRtiality, maneuveRable
+License: Phony License
+MD5sum: 6a35169abfce19df91d05469aa07224a
+Metric/lint_count@R: 2
+Metric/has_current_news@R: FALSE
+Metric/lint_free_fraction@R: 0.90317931373138
+Metric/cran_reverse_dependencies_count@R: 1
+Metric/vignette_count@R: 3
+Metric/r_cmd_check_error_count@R: 0
+Metric/test_line_coverage_fraction@R: 0.640543157200678
+Metric/exports_help_coverage@R: 0.992085605021566
+Metric/test_expression_coverage_fraction@R: 0.768231804915991
+Metric/downloads_total@R: 15422
+Metric/help_pages_with_examples_count@R: 49
+Metric/has_recognized_source@R: FALSE
+Metric/help_examples_coverage@R: 0.741076793521643
+Metric/dependency_count@R: 13
+Metric/has_website@R: FALSE
+
+Package: providenceSamplingR
+Version: 3.6.6
+Depends: R
+Imports: RIngeniousPortable, baRgain, congenial.respite, suppoRt, industRious
+LinkingTo: daringWarmer
+Suggests: graph.Versatility, waRm, fancir, faiR
+License: Phony License
+MD5sum: af9b8d61fb3acd7d6e9fe22a8732249a
+Metric/lint_count@R: 7
+Metric/has_current_news@R: FALSE
+Metric/lint_free_fraction@R: 0.953124676807783
+Metric/cran_reverse_dependencies_count@R: 0
+Metric/vignette_count@R: 2
+Metric/r_cmd_check_error_count@R: 1
+Metric/test_line_coverage_fraction@R: 0.610436211103055
+Metric/exports_help_coverage@R: 0.976508397888392
+Metric/test_expression_coverage_fraction@R: 0.97194657147657
+Metric/downloads_total@R: 22
+Metric/help_pages_with_examples_count@R: 28
+Metric/has_recognized_source@R: TRUE
+Metric/help_examples_coverage@R: 0.771566777490079
+Metric/dependency_count@R: 7
+Metric/has_website@R: FALSE
+
+Package: enchanting.congratulation
+Version: 0.3-7
+Depends: R, survpamperedness
+Imports: waRm, righteousnessWord, ggeasing, tidydistR, Rvalmodern, easygoingshinyrespite, ggcuteness
+LinkingTo: baRgain
+Suggests: ScenicProtection, exubeRant, bRotherly, SpatialLoveliness, flouRishing, pRowess, tidydiff, compatible.valiant.cartography, honoRable, dataRicher, conciliatoRy
+License: Phony License
+MD5sum: e7e75015e40c540faa1391e4a9d88dee
+Metric/lint_count@R: 6
+Metric/has_current_news@R: FALSE
+Metric/lint_free_fraction@R: 0.839175831945613
+Metric/cran_reverse_dependencies_count@R: 1
+Metric/vignette_count@R: 6
+Metric/r_cmd_check_error_count@R: 1
+Metric/test_line_coverage_fraction@R: 0.990226872842158
+Metric/exports_help_coverage@R: 0.989293158659711
+Metric/test_expression_coverage_fraction@R: 0.336090973753532
+Metric/downloads_total@R: 2727
+Metric/help_pages_with_examples_count@R: 33
+Metric/has_recognized_source@R: TRUE
+Metric/help_examples_coverage@R: 0.742676170077175
+Metric/dependency_count@R: 10
+Metric/has_website@R: FALSE
+
+Package: tidycompassion
+Version: 0.4.2
+Depends: R, lovely.Keen, reclaimSurvey
+Imports: daringWarmer, adorr, shinyforesight, contRibution, bolstr, spatialgenoadvocate
+LinkingTo: honoRable
+Suggests: vmplyr, beneficentdesirablerevere, championCompliment, exubeRant, bayesianpunctualclimate, leading.fortitude, superiorhealthybreathlessness, vishumility
+License: Phony License
+MD5sum: bf1351c34c4151b5a755db5c79e7d79b
+Metric/lint_count@R: 7
+Metric/has_current_news@R: FALSE
+Metric/lint_free_fraction@R: 0.806773464893922
+Metric/cran_reverse_dependencies_count@R: 2
+Metric/vignette_count@R: 7
+Metric/r_cmd_check_error_count@R: 0
+Metric/test_line_coverage_fraction@R: 0.514202278698175
+Metric/exports_help_coverage@R: 0.971227410435677
+Metric/test_expression_coverage_fraction@R: 0.949523317620311
+Metric/downloads_total@R: 6199
+Metric/help_pages_with_examples_count@R: 11
+Metric/has_recognized_source@R: TRUE
+Metric/help_examples_coverage@R: 0.818402334931307
+Metric/dependency_count@R: 10
+Metric/has_website@R: FALSE
+
+Package: tensorGain
+Version: 5.5.5
+Depends: R, earnestnessFortitude, easyhallmark
+Imports: bRotherly, survword, talentedFriendly, thinnr, ggrightness, shiny.instrumental.better, unReal, finr
+Suggests: nicr, flouRishing, regard.Hopeful, survivalSurvival, maneuveRable
+License: Phony License
+MD5sum: d01156c6b97df7606ea0a1884ca79363
+Metric/lint_count@R: 14
+Metric/has_current_news@R: TRUE
+Metric/lint_free_fraction@R: 0.943562435777858
+Metric/cran_reverse_dependencies_count@R: 0
+Metric/vignette_count@R: 4
+Metric/r_cmd_check_error_count@R: 0
+Metric/test_line_coverage_fraction@R: 0.819359904997938
+Metric/exports_help_coverage@R: 0.839069021027535
+Metric/test_expression_coverage_fraction@R: 0.870477017663078
+Metric/downloads_total@R: 5930
+Metric/help_pages_with_examples_count@R: 6
+Metric/has_recognized_source@R: TRUE
+Metric/help_examples_coverage@R: 0.992045997292735
+Metric/dependency_count@R: 11
+Metric/has_website@R: FALSE
+
+Package: vmplyr
+Version: 2.4.5
+Depends: R, unmatched.richness, saluteHealth, dignitySurveyR
+Imports: heroicclimate, fResher, comfypowerfuldelicacy, iRresistible, healthBeloved, adulation.Cohort, pRosper, survivalSurvival, reclaimSurvey, conciliatoRy, easygoingshinyrespite
+LinkingTo: easytable
+Suggests: graph.Versatility, earnestnessFortitude, thinnr, bayesianpunctualclimate, ggrightness, tidydiff, leading.fortitude, deservingdynamicempowerment, richHeroR, roxyexcitedness, congenial.respite
+License: Phony License
+MD5sum: 8b76268fa2689aaabf4d4a80d3a4fc4f
+Metric/lint_count@R: 4
+Metric/has_current_news@R: FALSE
+Metric/lint_free_fraction@R: 0.992629316449165
+Metric/cran_reverse_dependencies_count@R: 4
+Metric/vignette_count@R: 4
+Metric/r_cmd_check_error_count@R: 2
+Metric/test_line_coverage_fraction@R: 0.93675392366687
+Metric/exports_help_coverage@R: 0.941423241375014
+Metric/test_expression_coverage_fraction@R: 0.8941435532723
+Metric/downloads_total@R: 207794
+Metric/help_pages_with_examples_count@R: 8
+Metric/has_recognized_source@R: TRUE
+Metric/help_examples_coverage@R: 0.976794670568779
+Metric/dependency_count@R: 16
+Metric/has_website@R: FALSE
+
+Package: graph.Versatility
+Version: 2.5-5
+Depends: R, reassuranceCooperative
+Imports: waRm, panoramicdiff, tidy.blossom, industRious, reachablesmartfairness, valsharper
+Suggests: ScenicProtection, sturdir, tidydiff, expansiveconciliatorysafety, cherish.Frolic, supr, fluttr, astoundingeager
+License: Phony License
+MD5sum: 9ac6fbed66b4516f120125dacaef5396
+Metric/lint_count@R: 9
+Metric/has_current_news@R: FALSE
+Metric/lint_free_fraction@R: 0.891204191348515
+Metric/cran_reverse_dependencies_count@R: 1
+Metric/vignette_count@R: 4
+Metric/r_cmd_check_error_count@R: 0
+Metric/test_line_coverage_fraction@R: 0.91228920419737
+Metric/exports_help_coverage@R: 0.906610863422975
+Metric/test_expression_coverage_fraction@R: 0
+Metric/downloads_total@R: 32123
+Metric/help_pages_with_examples_count@R: 30
+Metric/has_recognized_source@R: TRUE
+Metric/help_examples_coverage@R: 0.893436244688928
+Metric/dependency_count@R: 8
+Metric/has_website@R: FALSE
+
+Package: ScenicProtection
+Version: 1.1.5
+Depends: R, fulfillmentRedemption
+Imports: exubeRant, bonnyHug, zjplyr, charismaticzeal, exubeRance
+LinkingTo: SWIFTWORD
+Suggests: vouchCount, patRiotic, saluteHealth, bRainy, Read, jubilateTest, roxyexcitedness, ggcuteness, easytable
+License: Phony License
+MD5sum: 426fd323ed7a6bb107a7b64abd3f70e7
+Metric/lint_count@R: 8
+Metric/has_current_news@R: TRUE
+Metric/lint_free_fraction@R: 0.763111334294081
+Metric/cran_reverse_dependencies_count@R: 4
+Metric/vignette_count@R: 4
+Metric/r_cmd_check_error_count@R: 0
+Metric/test_line_coverage_fraction@R: 0.436835554438829
+Metric/exports_help_coverage@R: 0.890618778485805
+Metric/test_expression_coverage_fraction@R: 0.932311198354184
+Metric/downloads_total@R: 8990
+Metric/help_pages_with_examples_count@R: 42
+Metric/has_recognized_source@R: TRUE
+Metric/help_examples_coverage@R: 0.734860812895931
+Metric/dependency_count@R: 8
+Metric/has_website@R: FALSE
+
+Package: empoweRment
+Version: 3.4-4
+Depends: R
+Imports: daringWarmer, bReathtaking, survword, momentousspectrallifesaver, jubilateTest
+LinkingTo: bRainy
+Suggests: propr, cherubSampling, flouRishing, ggrightness, inventiveeasyfame, space.Survival, dignitySurveyR, Remedy, finr, rightnessSurvey, authoRitative
+License: Phony License
+MD5sum: 444633ac7892e506c56650a89976a298
+Metric/lint_count@R: 6
+Metric/has_current_news@R: FALSE
+Metric/lint_free_fraction@R: 0.896177671756595
+Metric/cran_reverse_dependencies_count@R: 4
+Metric/vignette_count@R: 4
+Metric/r_cmd_check_error_count@R: 0
+Metric/test_line_coverage_fraction@R: 0.993203437905143
+Metric/exports_help_coverage@R: 0.985615386767313
+Metric/test_expression_coverage_fraction@R: 0.904131961510692
+Metric/downloads_total@R: 82
+Metric/help_pages_with_examples_count@R: 6
+Metric/has_recognized_source@R: TRUE
+Metric/help_examples_coverage@R: 0.562223540968262
+Metric/dependency_count@R: 7
+Metric/has_website@R: FALSE
+
+Package: exhilaRation
+Version: 4.3.3
+Depends: R, championCompliment, inventiveeasyfame, INGENUITY.VIRTUE, spatialgenoadvocate
+Imports: cohortSurvival, zjplyr, bolstr, dignitySurveyR, stunning.bargain
+Suggests: Rtinywealthytest, regard.Hopeful, charismaticzeal, adulation.Cohort, dataRicher
+License: Phony License
+MD5sum: 2f3209e2c7050d63230a1d8d0510926b
+Metric/lint_count@R: 6
+Metric/has_current_news@R: FALSE
+Metric/lint_free_fraction@R: 0.837179653765634
+Metric/cran_reverse_dependencies_count@R: 4
+Metric/vignette_count@R: 1
+Metric/r_cmd_check_error_count@R: 0
+Metric/test_line_coverage_fraction@R: 0.91340528951842
+Metric/exports_help_coverage@R: 0.944582102401182
+Metric/test_expression_coverage_fraction@R: 0.81014589532855
+Metric/downloads_total@R: 19
+Metric/help_pages_with_examples_count@R: 30
+Metric/has_recognized_source@R: FALSE
+Metric/help_examples_coverage@R: 0.522713630460203
+Metric/dependency_count@R: 10
+Metric/has_website@R: FALSE
+
+Package: earnestnessFortitude
+Version: 0.4.3
+Depends: R
+Imports: fragrant.goodly.test, tidydiff, easytinythrift, fancir, handir, bolstr, faiR, inventiveeasyfame, dignitySurveyR, pRosper, suppoRt
+Suggests: regard.Hopeful, DeservingTensor, space.Survival, jubilateTest, spatialgenoadvocate
+License: Phony License
+MD5sum: 773cb2f665d4b83bb3a18f8dc2d621f9
+Metric/lint_count@R: 8
+Metric/has_current_news@R: TRUE
+Metric/lint_free_fraction@R: 0.918735693860799
+Metric/cran_reverse_dependencies_count@R: 3
+Metric/vignette_count@R: 3
+Metric/r_cmd_check_error_count@R: 0
+Metric/test_line_coverage_fraction@R: 0.942240697170163
+Metric/exports_help_coverage@R: 0.945513668935746
+Metric/test_expression_coverage_fraction@R: 0.918139071404273
+Metric/downloads_total@R: 6523
+Metric/help_pages_with_examples_count@R: 25
+Metric/has_recognized_source@R: FALSE
+Metric/help_examples_coverage@R: 0.630926401703618
+Metric/dependency_count@R: 12
+Metric/has_website@R: FALSE
+
+Package: propr
+Version: 0.4.4
+Depends: R, fancir, patRiotic, tidyfuzzyhooray
+Imports: flattr, lovely.Keen, rwebaward, RIngeniousPortable, vallucky, fertileresolutetime, cohortSurvival, Rtinysolace, colorConfidence, cher, pRosper, soplyr, flplyr
+Suggests: championCompliment, bRotherly, ggeasing, leading.fortitude, easyhallmark, valrosy, reverenceNice
+License: Phony License
+MD5sum: 4f26899cb48a0cbc32e0711df5bca12e
+Metric/lint_count@R: 12
+Metric/has_current_news@R: FALSE
+Metric/lint_free_fraction@R: 0.755452596722171
+Metric/cran_reverse_dependencies_count@R: 2
+Metric/vignette_count@R: 3
+Metric/r_cmd_check_error_count@R: 1
+Metric/test_line_coverage_fraction@R: 0.632387556447401
+Metric/exports_help_coverage@R: 0.911884582135826
+Metric/test_expression_coverage_fraction@R: 0.909608993839758
+Metric/downloads_total@R: 1164
+Metric/help_pages_with_examples_count@R: 30
+Metric/has_recognized_source@R: TRUE
+Metric/help_examples_coverage@R: 0.614853071747348
+Metric/dependency_count@R: 17
+Metric/has_website@R: FALSE
+
+Package: beneficentdesirablerevere
+Version: 0.4.3
+Depends: R, tidydistR, Rtinysolace
+Imports: cherubSampling, tidywealthysmooth, shiny.instrumental.better, easyhallmark, Respite, ggoverture, renownGlitter, easygoingshinyrespite, ggcuteness, Romantic
+LinkingTo: eco.sharpR, smoothr
+Suggests: sturdir, compatible.valiant.cartography, visenthusiasm, webgentle, joyousvalorR, impaRtiality, survivalSurvival, exubeRance
+License: Phony License
+MD5sum: ebf62e0c03df1ee541c0756593fa9210
+Metric/lint_count@R: 8
+Metric/has_current_news@R: FALSE
+Metric/lint_free_fraction@R: 0.709244843781926
+Metric/cran_reverse_dependencies_count@R: 1
+Metric/vignette_count@R: 3
+Metric/r_cmd_check_error_count@R: 0
+Metric/test_line_coverage_fraction@R: 0.714528776298975
+Metric/exports_help_coverage@R: 0.918235491169617
+Metric/test_expression_coverage_fraction@R: 0.998259791147633
+Metric/downloads_total@R: 964
+Metric/help_pages_with_examples_count@R: 8
+Metric/has_recognized_source@R: TRUE
+Metric/help_examples_coverage@R: 0.916778495186009
+Metric/dependency_count@R: 15
+Metric/has_website@R: FALSE
+
+Package: waRm
+Version: 3.8.4
+Depends: R, supr
+Imports: tidywealthysmooth, fResher, vallucky, webclimate, compatible.valiant.cartography, impaRtiality, jubilateTest, richHeroR, smoothr, Romantic
+LinkingTo: ecouplift, dataRicher
+Suggests: wsplyr, lovely.Keen, tidy.blossom, tidydistR, Rvalmodern, joyousvalorR, easyobsession, suRv
+License: Phony License
+MD5sum: 289d4588998b9b3a9cec8da1e7c8fabd
+Metric/lint_count@R: 13
+Metric/has_current_news@R: TRUE
+Metric/lint_free_fraction@R: 0.963987257587723
+Metric/cran_reverse_dependencies_count@R: 0
+Metric/vignette_count@R: 7
+Metric/r_cmd_check_error_count@R: 0
+Metric/test_line_coverage_fraction@R: 0.942872209414641
+Metric/exports_help_coverage@R: 0.842565834196285
+Metric/test_expression_coverage_fraction@R: 0.912007346642619
+Metric/downloads_total@R: 523176
+Metric/help_pages_with_examples_count@R: 28
+Metric/has_recognized_source@R: TRUE
+Metric/help_examples_coverage@R: 0.90038892289158
+Metric/dependency_count@R: 14
+Metric/has_website@R: FALSE
+
+Package: unmatched.richness
+Version: 3.4.1
+Depends: R, Rapturous
+Imports: sturdir, shiny.instrumental.better, charismaticzeal, contRibution, supr, promotr, soplyr
+LinkingTo: jubilateTest, smoothr
+Suggests: flattr, flouRishing, bayesianpunctualclimate, shinyforesight, Rtinysolace, Realistic, eaRnestness, INGENUITY.VIRTUE, fluttr, Respite, reachablesmartfairness
+License: Phony License
+MD5sum: 8ebead210b6628ecc6fa13009c59ee76
+Metric/lint_count@R: 9
+Metric/has_current_news@R: FALSE
+Metric/lint_free_fraction@R: 0.802467786008492
+Metric/cran_reverse_dependencies_count@R: 3
+Metric/vignette_count@R: 5
+Metric/r_cmd_check_error_count@R: 0
+Metric/test_line_coverage_fraction@R: 0.154263988941753
+Metric/exports_help_coverage@R: 0.830986905563623
+Metric/test_expression_coverage_fraction@R: 0.910721327454256
+Metric/downloads_total@R: 687114
+Metric/help_pages_with_examples_count@R: 14
+Metric/has_recognized_source@R: TRUE
+Metric/help_examples_coverage@R: 0.976010257611051
+Metric/dependency_count@R: 11
+Metric/has_website@R: FALSE
+
+Package: heroicclimate
+Version: 0.3.4
+Depends: R, flattr, bayesianpunctualclimate, sublime.code
+Imports: Rtinywealthytest, Realistic, momentousspectrallifesaver, dataRicher, exubeRance
+Suggests: vouchCount, cherish.Frolic, suppoRt, vishumility, DextrousSwift
+License: Phony License
+MD5sum: fae19be370957f629bae2719c5cf4f27
+Metric/lint_count@R: 17
+Metric/has_current_news@R: TRUE
+Metric/lint_free_fraction@R: 0.886576100182719
+Metric/cran_reverse_dependencies_count@R: 3
+Metric/vignette_count@R: 5
+Metric/r_cmd_check_error_count@R: 0
+Metric/test_line_coverage_fraction@R: 0
+Metric/exports_help_coverage@R: 0.926774351717904
+Metric/test_expression_coverage_fraction@R: 0.360934216277955
+Metric/downloads_total@R: 125
+Metric/help_pages_with_examples_count@R: 17
+Metric/has_recognized_source@R: TRUE
+Metric/help_examples_coverage@R: 0.520488035166636
+Metric/dependency_count@R: 9
+Metric/has_website@R: FALSE
+
+Package: wsplyr
+Version: 1.5-6
+Depends: R
+Imports: regard.Hopeful, lustr, easytinythrift, cohortSurvival, compatible.valiant.cartography, valrefund, richHeroR, vividclarity, conciliatoRy
+LinkingTo: righteousnessWord
+Suggests: eco.sharpR, healthBeloved, DeservingTensor, reassuranceCooperative, ecouplift, cher, earnestnessSaver
+License: Phony License
+MD5sum: f188a16227c47cd45becd9b3998d18bc
+Metric/lint_count@R: 10
+Metric/has_current_news@R: TRUE
+Metric/lint_free_fraction@R: 0.847117562475614
+Metric/cran_reverse_dependencies_count@R: 4
+Metric/vignette_count@R: 2
+Metric/r_cmd_check_error_count@R: 0
+Metric/test_line_coverage_fraction@R: 0.421622038445811
+Metric/exports_help_coverage@R: 0.821143336594105
+Metric/test_expression_coverage_fraction@R: 0.967439192311542
+Metric/downloads_total@R: 81268
+Metric/help_pages_with_examples_count@R: 43
+Metric/has_recognized_source@R: FALSE
+Metric/help_examples_coverage@R: 0.651304381317459
+Metric/dependency_count@R: 11
+Metric/has_website@R: FALSE
+
+Package: flattr
+Version: 5.6.4
+Depends: R, talentedFriendly, baRgain
+Imports: superiorColor, robustspatialardor, comfypowerfuldelicacy, leading.fortitude, DeservingTensor, webgentle, visdignity, easyhallmark, pRosper, smoothr, amicableexcitement, enviousgrin, Rapturous
+LinkingTo: jplyr, adulation.Cohort
+Suggests: tidy.blossom, flouRishing, thinnr, sublime.code, fertileresolutetime, honoRable, intelligence.Strong, Rvalmodern, space.Survival, congenial.respite
+License: Phony License
+MD5sum: 5bee283746d47676ed9d1bab96f01325
+Metric/lint_count@R: 12
+Metric/has_current_news@R: TRUE
+Metric/lint_free_fraction@R: 0.734064220031723
+Metric/cran_reverse_dependencies_count@R: 3
+Metric/vignette_count@R: 4
+Metric/r_cmd_check_error_count@R: 0
+Metric/test_line_coverage_fraction@R: 0.647019380104952
+Metric/exports_help_coverage@R: 0.85571339991875
+Metric/test_expression_coverage_fraction@R: 0.994111287663893
+Metric/downloads_total@R: 1032620
+Metric/help_pages_with_examples_count@R: 6
+Metric/has_recognized_source@R: FALSE
+Metric/help_examples_coverage@R: 0.62382167740725
+Metric/dependency_count@R: 18
+Metric/has_website@R: FALSE
+
+Package: lovely.Keen
+Version: 2.2.4
+Depends: R, talentedFriendly, lustr, comfypowerfuldelicacy, contRibution, soplyr
+Imports: pRowess, ecouplift, unReal, joyousvalorR, impaRtiality, ggoverture, enviousgrin
+Suggests: easytinythrift, handir, bolstr, easyobsession, momentousspectrallifesaver, Rapturous
+License: Phony License
+MD5sum: f900f27c810bc407140cdc9f1ef64357
+Metric/lint_count@R: 12
+Metric/has_current_news@R: TRUE
+Metric/lint_free_fraction@R: 0.911235303920694
+Metric/cran_reverse_dependencies_count@R: 3
+Metric/vignette_count@R: 3
+Metric/r_cmd_check_error_count@R: 0
+Metric/test_line_coverage_fraction@R: 0.9907682539726
+Metric/exports_help_coverage@R: 0.886070293048397
+Metric/test_expression_coverage_fraction@R: 0.767673743293879
+Metric/downloads_total@R: 720
+Metric/help_pages_with_examples_count@R: 15
+Metric/has_recognized_source@R: TRUE
+Metric/help_examples_coverage@R: 0.552377240150236
+Metric/dependency_count@R: 13
+Metric/has_website@R: FALSE
+
+Package: championCompliment
+Version: 3.5.1
+Depends: R
+Imports: panoramicdiff, fragrant.goodly.test, pRosper, reverenceNice
+Suggests: tidy.blossom, bReathtaking, robustspatialardor, valsharper
+License: Phony License
+MD5sum: 6382079304f70c8e70cdbbb1cc631a95
+Metric/lint_count@R: 3
+Metric/has_current_news@R: FALSE
+Metric/lint_free_fraction@R: 0.892508036550134
+Metric/cran_reverse_dependencies_count@R: 3
+Metric/vignette_count@R: 2
+Metric/r_cmd_check_error_count@R: 0
+Metric/test_line_coverage_fraction@R: 0.461937299461788
+Metric/exports_help_coverage@R: 0.972586163785309
+Metric/test_expression_coverage_fraction@R: 0.388719182106093
+Metric/downloads_total@R: 957
+Metric/help_pages_with_examples_count@R: 19
+Metric/has_recognized_source@R: TRUE
+Metric/help_examples_coverage@R: 0.547351065790281
+Metric/dependency_count@R: 5
+Metric/has_website@R: FALSE
+
+Package: panoramicdiff
+Version: 0.2.5
+Depends: R, jplyr, visdignity
+Imports: easytinythrift
+LinkingTo: reachablesmartfairness
+Suggests: eco.sharpR, impaRtiality, rightnessSurvey
+License: Phony License
+MD5sum: dfabeb6842724318904f11cbb8086335
+Metric/lint_count@R: 3
+Metric/has_current_news@R: FALSE
+Metric/lint_free_fraction@R: 0.702513579023071
+Metric/cran_reverse_dependencies_count@R: 2
+Metric/vignette_count@R: 1
+Metric/r_cmd_check_error_count@R: 0
+Metric/test_line_coverage_fraction@R: 0.777073753755355
+Metric/exports_help_coverage@R: 0.880325898109004
+Metric/test_expression_coverage_fraction@R: 0.788278892755825
+Metric/downloads_total@R: 13691
+Metric/help_pages_with_examples_count@R: 21
+Metric/has_recognized_source@R: TRUE
+Metric/help_examples_coverage@R: 0.536703029531054
+Metric/dependency_count@R: 5
+Metric/has_website@R: FALSE
+
+Package: rwebaward
+Version: 4.4.1
+Depends: R, SpatialLoveliness, talentedFriendly
+Imports: ggeasing, lustr, comfypowerfuldelicacy, cher, conciliatoRy, Rapturous, Romantic
+LinkingTo: iRresistible
+Suggests: bReathtaking, thinnr, survluster, robustspatialardor, roxyexcitedness
+License: Phony License
+MD5sum: 8f8287f12f7270b668bc283849744a52
+Metric/lint_count@R: 10
+Metric/has_current_news@R: FALSE
+Metric/lint_free_fraction@R: 0.950310753658414
+Metric/cran_reverse_dependencies_count@R: 3
+Metric/vignette_count@R: 3
+Metric/r_cmd_check_error_count@R: 1
+Metric/test_line_coverage_fraction@R: 0.957664940976312
+Metric/exports_help_coverage@R: 0.954057347448543
+Metric/test_expression_coverage_fraction@R: 0.551183102684482
+Metric/downloads_total@R: 384
+Metric/help_pages_with_examples_count@R: 6
+Metric/has_recognized_source@R: TRUE
+Metric/help_examples_coverage@R: 0.659152714419179
+Metric/dependency_count@R: 11
+Metric/has_website@R: FALSE
+
+Package: daringWarmer
+Version: 2.2.3
+Depends: R, shiny.instrumental.better, fulfillmentRedemption, congenial.respite
+Imports: survword, fluttr, survivalSurvival
+LinkingTo: tidy.blossom
+Suggests: robustspatialardor, unReal
+License: Phony License
+MD5sum: c91ca26a74eb8a6d9d14fbeb1d18aa10
+Metric/lint_count@R: 14
+Metric/has_current_news@R: TRUE
+Metric/lint_free_fraction@R: 0.935843349481001
+Metric/cran_reverse_dependencies_count@R: 1
+Metric/vignette_count@R: 2
+Metric/r_cmd_check_error_count@R: 1
+Metric/test_line_coverage_fraction@R: 0
+Metric/exports_help_coverage@R: 0.997512207552791
+Metric/test_expression_coverage_fraction@R: 0
+Metric/downloads_total@R: 23
+Metric/help_pages_with_examples_count@R: 48
+Metric/has_recognized_source@R: FALSE
+Metric/help_examples_coverage@R: 0.933079587412067
+Metric/dependency_count@R: 8
+Metric/has_website@R: FALSE
+
+Package: RIngeniousPortable
+Version: 1.4-1
+Depends: R, rightnessSurvey
+Imports: fResher, valrefund, colorConfidence, inventiveeasyfame, Read, vishumility
+LinkingTo: visdignity
+Suggests: bRotherly, fancir, Rvalmodern, unReal, fluttr, dignitySurveyR, ggoverture, conciliatoRy, Rapturous, maneuveRable, valsharper
+License: Phony License
+MD5sum: 6f7bda9623a3ccb1af86c42b58a9eacf
+Metric/lint_count@R: 14
+Metric/has_current_news@R: FALSE
+Metric/lint_free_fraction@R: 0.988375958660617
+Metric/cran_reverse_dependencies_count@R: 4
+Metric/vignette_count@R: 3
+Metric/r_cmd_check_error_count@R: 0
+Metric/test_line_coverage_fraction@R: 0.969474936040877
+Metric/exports_help_coverage@R: 0.884738260367885
+Metric/test_expression_coverage_fraction@R: 0.851684586932414
+Metric/downloads_total@R: 366018
+Metric/help_pages_with_examples_count@R: 28
+Metric/has_recognized_source@R: TRUE
+Metric/help_examples_coverage@R: 0.568355254712515
+Metric/dependency_count@R: 9
+Metric/has_website@R: FALSE
+
+Package: SWIFTWORD
+Version: 0.3.2
+Depends: R, unReal
+Imports: thinnr, purposefulfutilebreeze, patRiotic, daringtree, amicableexcitement, conciliatoRy
+LinkingTo: suitablesplendor
+Suggests: nicr, enlightenmentSafety, tidydiff, roxyexcitedness, congenial.respite, thRilling, DextrousSwift, reachablesmartfairness
+License: Phony License
+MD5sum: 8e74598ec9bdf6150236039ef26255c9
+Metric/lint_count@R: 9
+Metric/has_current_news@R: FALSE
+Metric/lint_free_fraction@R: 0.838329275581054
+Metric/cran_reverse_dependencies_count@R: 3
+Metric/vignette_count@R: 5
+Metric/r_cmd_check_error_count@R: 1
+Metric/test_line_coverage_fraction@R: 0.247905664783782
+Metric/exports_help_coverage@R: 0.809303078893572
+Metric/test_expression_coverage_fraction@R: 0.795633648765462
+Metric/downloads_total@R: 268
+Metric/help_pages_with_examples_count@R: 24
+Metric/has_recognized_source@R: TRUE
+Metric/help_examples_coverage@R: 0.873165733064525
+Metric/dependency_count@R: 9
+Metric/has_website@R: FALSE
+
+Package: Rtinywealthytest
+Version: 1.0.2
+Depends: R, adulation.Cohort, affirmativehottestbeloved
+Imports: expansiveconciliatorysafety, bolstr, astoundingeager, stunning.bargain, maneuveRable
+Suggests: ggeasing, survword, colorConfidence, TrustingEloquence, congenial.respite, vishumility, exubeRance
+License: Phony License
+MD5sum: 881cfe8e42eff0556242aede1a86392d
+Metric/lint_count@R: 11
+Metric/has_current_news@R: TRUE
+Metric/lint_free_fraction@R: 0.782960746763274
+Metric/cran_reverse_dependencies_count@R: 0
+Metric/vignette_count@R: 3
+Metric/r_cmd_check_error_count@R: 0
+Metric/test_line_coverage_fraction@R: 0.993908747603737
+Metric/exports_help_coverage@R: 0.892343257507309
+Metric/test_expression_coverage_fraction@R: 0
+Metric/downloads_total@R: 172
+Metric/help_pages_with_examples_count@R: 41
+Metric/has_recognized_source@R: TRUE
+Metric/help_examples_coverage@R: 0.958782160538249
+Metric/dependency_count@R: 8
+Metric/has_website@R: FALSE
+
+Package: nicr
+Version: 1.1.3
+Depends: R
+Imports: exubeRant, purposefulfutilebreeze, eco.sharpR, contRibution, reassuranceCooperative, momentousspectrallifesaver
+Suggests: ggeasing, fResher, baRgain, easyobsession, earnestnessSaver, jubilateTest, valrosy, suRv
+License: Phony License
+MD5sum: 5239d957c1048e6b8103c45619cfc22b
+Metric/lint_count@R: 13
+Metric/has_current_news@R: TRUE
+Metric/lint_free_fraction@R: 0.799523856397718
+Metric/cran_reverse_dependencies_count@R: 1
+Metric/vignette_count@R: 0
+Metric/r_cmd_check_error_count@R: 0
+Metric/test_line_coverage_fraction@R: 0.330459203283428
+Metric/exports_help_coverage@R: 0.872424917900935
+Metric/test_expression_coverage_fraction@R: 0.140346399514893
+Metric/downloads_total@R: 894
+Metric/help_pages_with_examples_count@R: 48
+Metric/has_recognized_source@R: TRUE
+Metric/help_examples_coverage@R: 0.971320093609393
+Metric/dependency_count@R: 7
+Metric/has_website@R: FALSE
+
+Package: superiorColor
+Version: 0.2.1
+Depends: R, jplyr
+Imports: regard.Hopeful, bayesianpunctualclimate, deservingdynamicempowerment, integRal, pRosper, soplyr
+Suggests: talentedFriendly, tidywealthysmooth, fulfillmentRedemption, DeservingTensor, reassuranceCooperative, impaRtiality, jubilateTest, promotr, roxyexcitedness, thRilling, stunning.bargain, exubeRance, valsharper
+License: Phony License
+MD5sum: 037c0cfd021314bc5f66eb815e614af3
+Metric/lint_count@R: 10
+Metric/has_current_news@R: FALSE
+Metric/lint_free_fraction@R: 0.871602583490312
+Metric/cran_reverse_dependencies_count@R: 5
+Metric/vignette_count@R: 4
+Metric/r_cmd_check_error_count@R: 0
+Metric/test_line_coverage_fraction@R: 0.917998796988859
+Metric/exports_help_coverage@R: 0.894463876727968
+Metric/test_expression_coverage_fraction@R: 0.362997123170858
+Metric/downloads_total@R: 10672
+Metric/help_pages_with_examples_count@R: 32
+Metric/has_recognized_source@R: TRUE
+Metric/help_examples_coverage@R: 0.641231256653555
+Metric/dependency_count@R: 8
+Metric/has_website@R: FALSE
+
+Package: enlightenmentSafety
+Version: 2.2.7
+Depends: R
+Imports: bRotherly, robustprincipledglow, jplyr, superiorhealthybreathlessness, valrosy
+Suggests: healthBeloved, Rvalmodern, easyhallmark, easyobsession, dataRicher, authoRitative, ggcuteness, valsharper
+License: Phony License
+MD5sum: ded7eda7a6c7949784ff841df713206f
+Metric/lint_count@R: 9
+Metric/has_current_news@R: TRUE
+Metric/lint_free_fraction@R: 0.792288030614145
+Metric/cran_reverse_dependencies_count@R: 3
+Metric/vignette_count@R: 1
+Metric/r_cmd_check_error_count@R: 0
+Metric/test_line_coverage_fraction@R: 0.727671716964712
+Metric/exports_help_coverage@R: 0.822331735957414
+Metric/test_expression_coverage_fraction@R: 0.918225414201522
+Metric/downloads_total@R: 76314
+Metric/help_pages_with_examples_count@R: 17
+Metric/has_recognized_source@R: TRUE
+Metric/help_examples_coverage@R: 0.991342884721234
+Metric/dependency_count@R: 6
+Metric/has_website@R: FALSE
+
+Package: righteousnessWord
+Version: 3.7.2
+Depends: R
+Imports: tidydiff, shiny.instrumental.better, spatialgenoadvocate, considerateglmtop
+LinkingTo: tidywealthysmooth
+Suggests: tidy.blossom, pRowess, webgentle, jplyr, pRosper, finr, suppoRt, ggoverture
+License: Phony License
+MD5sum: a532b45374d60e9e253204432fd3496c
+Metric/lint_count@R: 11
+Metric/has_current_news@R: TRUE
+Metric/lint_free_fraction@R: 0.976066162460484
+Metric/cran_reverse_dependencies_count@R: 3
+Metric/vignette_count@R: 3
+Metric/r_cmd_check_error_count@R: 0
+Metric/test_line_coverage_fraction@R: 0.7085316561344
+Metric/exports_help_coverage@R: 0.995922127133235
+Metric/test_expression_coverage_fraction@R: 0.998883801521241
+Metric/downloads_total@R: 26
+Metric/help_pages_with_examples_count@R: 10
+Metric/has_recognized_source@R: TRUE
+Metric/help_examples_coverage@R: 0.990260358783416
+Metric/dependency_count@R: 6
+Metric/has_website@R: FALSE
+
+Package: exubeRant
+Version: 2.8
+Depends: R, suitablesplendor, charismaticzeal
+Imports: vallucky, eaRnestness, webgentle, Rvalmodern, easyhallmark, affable.time, laud.Illuminate, ggoverture, survivalSurvival, exubeRance
+Suggests: Remedy
+License: Phony License
+MD5sum: 58c88f2c220bbfdb90f2f629d87c0e41
+Metric/lint_count@R: 9
+Metric/has_current_news@R: FALSE
+Metric/lint_free_fraction@R: 0.909636941412464
+Metric/cran_reverse_dependencies_count@R: 3
+Metric/vignette_count@R: 2
+Metric/r_cmd_check_error_count@R: 0
+Metric/test_line_coverage_fraction@R: 0.190286316212237
+Metric/exports_help_coverage@R: 0.993640100676566
+Metric/test_expression_coverage_fraction@R: 0.780998353960979
+Metric/downloads_total@R: 2964
+Metric/help_pages_with_examples_count@R: 39
+Metric/has_recognized_source@R: FALSE
+Metric/help_examples_coverage@R: 0.819834466441534
+Metric/dependency_count@R: 13
+Metric/has_website@R: FALSE
+
+Package: fragrant.goodly.test
+Version: 2.3-3
+Depends: R, renownGlitter, maneuveRable
+Imports: bRotherly, easytinythrift, fulfillmentRedemption, healthBeloved, soplyr, DextrousSwift
+Suggests: talentedFriendly, purposefulfutilebreeze, tidydiff, shiny.instrumental.better, tidydistR, valrefund, supr, intelligence.Strong, ggoverture, ggcuteness
+License: Phony License
+MD5sum: fade93191d428d6019555d41219ec5ff
+Metric/lint_count@R: 7
+Metric/has_current_news@R: TRUE
+Metric/lint_free_fraction@R: 0.721738341194577
+Metric/cran_reverse_dependencies_count@R: 2
+Metric/vignette_count@R: 2
+Metric/r_cmd_check_error_count@R: 0
+Metric/test_line_coverage_fraction@R: 0.628605039219435
+Metric/exports_help_coverage@R: 0.953454987239093
+Metric/test_expression_coverage_fraction@R: 0.806852889676776
+Metric/downloads_total@R: 410
+Metric/help_pages_with_examples_count@R: 24
+Metric/has_recognized_source@R: FALSE
+Metric/help_examples_coverage@R: 0.920344244223088
+Metric/dependency_count@R: 9
+Metric/has_website@R: FALSE
+
+Package: bRotherly
+Version: 3.5-4
+Depends: R, daringtree, valsharper
+Imports: survword, purposefulfutilebreeze, tidydiff, Realistic, jplyr, visdignity, cher, adulation.Cohort, Romantic
+LinkingTo: zjplyr
+Suggests: shiny.instrumental.better, valrefund, supr, intelligence.Strong, fluttr, richHeroR
+License: Phony License
+MD5sum: ec0dceb5d81b64b1bbc25bef73bb109e
+Metric/lint_count@R: 9
+Metric/has_current_news@R: FALSE
+Metric/lint_free_fraction@R: 0.718970334320329
+Metric/cran_reverse_dependencies_count@R: 2
+Metric/vignette_count@R: 3
+Metric/r_cmd_check_error_count@R: 0
+Metric/test_line_coverage_fraction@R: 0.998826477873082
+Metric/exports_help_coverage@R: 0.991655724355951
+Metric/test_expression_coverage_fraction@R: 0.634862920471311
+Metric/downloads_total@R: 77
+Metric/help_pages_with_examples_count@R: 49
+Metric/has_recognized_source@R: FALSE
+Metric/help_examples_coverage@R: 0.579499226761982
+Metric/dependency_count@R: 13
+Metric/has_website@R: FALSE
+
+Package: adorr
+Version: 2.3.3
+Depends: R, cohortSurvival, jplyr, affable.time
+Imports: talentedFriendly, flouRishing, easytinythrift, leading.fortitude, valrosy, authoRitative, astoundingeager
+LinkingTo: valrefund, congenial.respite
+Suggests: bReathtaking, contRibution, fluttr, affirmativehottestbeloved, vividclarity, considerateglmtop
+License: Phony License
+MD5sum: 30d4b9c6d26eb3592c0bc7c32987ceca
+Metric/lint_count@R: 14
+Metric/has_current_news@R: TRUE
+Metric/lint_free_fraction@R: 0.801983818202279
+Metric/cran_reverse_dependencies_count@R: 1
+Metric/vignette_count@R: 3
+Metric/r_cmd_check_error_count@R: 0
+Metric/test_line_coverage_fraction@R: 0.0821360285186729
+Metric/exports_help_coverage@R: 0.855620098346844
+Metric/test_expression_coverage_fraction@R: 0.98798611932157
+Metric/downloads_total@R: 47097
+Metric/help_pages_with_examples_count@R: 38
+Metric/has_recognized_source@R: TRUE
+Metric/help_examples_coverage@R: 0.687242822954431
+Metric/dependency_count@R: 13
+Metric/has_website@R: FALSE
+
+Package: robustprincipledglow
+Version: 0.3.3
+Depends: R, lustr
+Imports: shinyforesight, vallucky, healthBeloved, fluttr, easyhallmark, jubilateTest, affable.time
+Suggests: sublime.code, purposefulfutilebreeze, shiny.instrumental.better, survpamperedness, Respite, superiorhealthybreathlessness, reverenceNice
+License: Phony License
+MD5sum: bef4a54ea6cba071e54ef1f33128230b
+Metric/lint_count@R: 10
+Metric/has_current_news@R: FALSE
+Metric/lint_free_fraction@R: 0.844442595075816
+Metric/cran_reverse_dependencies_count@R: 0
+Metric/vignette_count@R: 2
+Metric/r_cmd_check_error_count@R: 0
+Metric/test_line_coverage_fraction@R: 0.928763759452406
+Metric/exports_help_coverage@R: 0.883933251723647
+Metric/test_expression_coverage_fraction@R: 0.777262295670934
+Metric/downloads_total@R: 117723
+Metric/help_pages_with_examples_count@R: 41
+Metric/has_recognized_source@R: FALSE
+Metric/help_examples_coverage@R: 0.786674123490229
+Metric/dependency_count@R: 9
+Metric/has_website@R: FALSE
+
+Package: cherubSampling
+Version: 1.5.3
+Depends: R, purposefulfutilebreeze, survivalSurvival
+Imports: robustspatialardor, vouchCount, visdignity, renownGlitter, ggcuteness, exubeRance
+Suggests: iRresistible, tidydistR, inventiveeasyfame, Remedy, affirmativehottestbeloved, enviousgrin, authoRitative, DextrousSwift, Romantic
+License: Phony License
+MD5sum: b12b718ad3c6642f268fa9abd122a283
+Metric/lint_count@R: 13
+Metric/has_current_news@R: FALSE
+Metric/lint_free_fraction@R: 0.848792383167893
+Metric/cran_reverse_dependencies_count@R: 1
+Metric/vignette_count@R: 2
+Metric/r_cmd_check_error_count@R: 1
+Metric/test_line_coverage_fraction@R: 0.00875085672555109
+Metric/exports_help_coverage@R: 0.983231743890792
+Metric/test_expression_coverage_fraction@R: 0.800586893460852
+Metric/downloads_total@R: 14
+Metric/help_pages_with_examples_count@R: 26
+Metric/has_recognized_source@R: FALSE
+Metric/help_examples_coverage@R: 0.656193087343127
+Metric/dependency_count@R: 9
+Metric/has_website@R: FALSE
+
+Package: ggeasing
+Version: 2.1-5
+Depends: R
+Imports: sturdir, vallucky, lustr, leading.fortitude, eco.sharpR, Realistic, easyhallmark, cher, jubilateTest, valrosy, rightnessSurvey, considerateglmtop
+LinkingTo: flplyr
+Suggests: healthystaunch, thinnr, valrefund, fluttr
+License: Phony License
+MD5sum: 550103b32b4f39141e7c3424b18670fd
+Metric/lint_count@R: 11
+Metric/has_current_news@R: TRUE
+Metric/lint_free_fraction@R: 0.722507844609208
+Metric/cran_reverse_dependencies_count@R: 3
+Metric/vignette_count@R: 7
+Metric/r_cmd_check_error_count@R: 1
+Metric/test_line_coverage_fraction@R: 0.670387305187267
+Metric/exports_help_coverage@R: 0.96702859508805
+Metric/test_expression_coverage_fraction@R: 0.259925950492765
+Metric/downloads_total@R: 5168
+Metric/help_pages_with_examples_count@R: 15
+Metric/has_recognized_source@R: TRUE
+Metric/help_examples_coverage@R: 0.507035480812192
+Metric/dependency_count@R: 14
+Metric/has_website@R: FALSE
+
+Package: sturdir
+Version: 1.1.3
+Depends: R, congenial.respite, Romantic
+Imports: purposefulfutilebreeze, webgentle, jubilateTest, ggoverture
+Suggests: impaRtiality, maneuveRable
+License: Phony License
+MD5sum: 24bed15db61267df3858c13c4e90f891
+Metric/lint_count@R: 7
+Metric/has_current_news@R: TRUE
+Metric/lint_free_fraction@R: 0.758002528059296
+Metric/cran_reverse_dependencies_count@R: 0
+Metric/vignette_count@R: 3
+Metric/r_cmd_check_error_count@R: 1
+Metric/test_line_coverage_fraction@R: 0.947540671889345
+Metric/exports_help_coverage@R: 0.872596631478518
+Metric/test_expression_coverage_fraction@R: 0
+Metric/downloads_total@R: 118
+Metric/help_pages_with_examples_count@R: 9
+Metric/has_recognized_source@R: TRUE
+Metric/help_examples_coverage@R: 0.932691534049809
+Metric/dependency_count@R: 7
+Metric/has_website@R: FALSE
+
+Package: tidy.blossom
+Version: 1.1.8
+Depends: R, lustr, jubilateTest
+Imports: pRowess, daringtree, Read, finr, renownGlitter, industRious
+LinkingTo: vividclarity
+Suggests: eco.sharpR, charismaticzeal, Remedy, richHeroR
+License: Phony License
+MD5sum: d177cd4d73dd38d4f2c73b6a062c3e2a
+Metric/lint_count@R: 9
+Metric/has_current_news@R: FALSE
+Metric/lint_free_fraction@R: 0.808292738348246
+Metric/cran_reverse_dependencies_count@R: 4
+Metric/vignette_count@R: 3
+Metric/r_cmd_check_error_count@R: 1
+Metric/test_line_coverage_fraction@R: 0.79426673826144
+Metric/exports_help_coverage@R: 0.843736123386771
+Metric/test_expression_coverage_fraction@R: 0.855928496545384
+Metric/downloads_total@R: 54179
+Metric/help_pages_with_examples_count@R: 10
+Metric/has_recognized_source@R: TRUE
+Metric/help_examples_coverage@R: 0.902294355328195
+Metric/dependency_count@R: 10
+Metric/has_website@R: FALSE
+
+Package: bReathtaking
+Version: 2.0.4
+Depends: R
+Imports: survword, purposefulfutilebreeze, daringtree, unReal, space.Survival, impaRtiality
+Suggests: flouRishing, regard.Hopeful, fResher, robustspatialardor, intelligence.Strong, thRilling, astoundingeager
+License: Phony License
+MD5sum: ba2c45a3a2d1506cbbf1ad679edcf2bf
+Metric/lint_count@R: 10
+Metric/has_current_news@R: FALSE
+Metric/lint_free_fraction@R: 0.719170919270255
+Metric/cran_reverse_dependencies_count@R: 1
+Metric/vignette_count@R: 0
+Metric/r_cmd_check_error_count@R: 0
+Metric/test_line_coverage_fraction@R: 0.381915645178281
+Metric/exports_help_coverage@R: 0.950939709227532
+Metric/test_expression_coverage_fraction@R: 0.362381597630736
+Metric/downloads_total@R: 3195
+Metric/help_pages_with_examples_count@R: 29
+Metric/has_recognized_source@R: TRUE
+Metric/help_examples_coverage@R: 0.900499582639895
+Metric/dependency_count@R: 7
+Metric/has_website@R: FALSE
+
+Package: survword
+Version: 0.4.1
+Depends: R
+Imports: healthystaunch, vallucky, fancir, fulfillmentRedemption, iRresistible, earnestnessSaver, roxyexcitedness, Rapturous, flplyr, astoundingeager
+LinkingTo: bayesianpunctualclimate
+Suggests: pRowess, leading.fortitude, webclimate, integRal, bRainy, promotr, industRious
+License: Phony License
+MD5sum: 309bf6cc00afac8959a08437c197f036
+Metric/lint_count@R: 5
+Metric/has_current_news@R: FALSE
+Metric/lint_free_fraction@R: 0.719938175007701
+Metric/cran_reverse_dependencies_count@R: 0
+Metric/vignette_count@R: 4
+Metric/r_cmd_check_error_count@R: 1
+Metric/test_line_coverage_fraction@R: 0.109646597562259
+Metric/exports_help_coverage@R: 0.921925882995129
+Metric/test_expression_coverage_fraction@R: 0.99711015135163
+Metric/downloads_total@R: 396910
+Metric/help_pages_with_examples_count@R: 28
+Metric/has_recognized_source@R: TRUE
+Metric/help_examples_coverage@R: 0.634574965224601
+Metric/dependency_count@R: 12
+Metric/has_website@R: FALSE
+
+Package: SpatialLoveliness
+Version: 4.4.2
+Depends: R, supr, ecouplift, Read, soplyr
+Imports: tidydistR, eaRnestness, dignitySurveyR, superiorhealthybreathlessness, pRosper, Romantic, shinyhappieramazement
+Suggests: saluteHealth, baRgain, smoothr, suppoRt, shiny.word
+License: Phony License
+MD5sum: 166c445be61884de21520815ca50e18d
+Metric/lint_count@R: 8
+Metric/has_current_news@R: TRUE
+Metric/lint_free_fraction@R: 0.798166762082837
+Metric/cran_reverse_dependencies_count@R: 0
+Metric/vignette_count@R: 5
+Metric/r_cmd_check_error_count@R: 0
+Metric/test_line_coverage_fraction@R: 0
+Metric/exports_help_coverage@R: 0.99501760546118
+Metric/test_expression_coverage_fraction@R: 0
+Metric/downloads_total@R: 80
+Metric/help_pages_with_examples_count@R: 31
+Metric/has_recognized_source@R: TRUE
+Metric/help_examples_coverage@R: 0.506220325012691
+Metric/dependency_count@R: 12
+Metric/has_website@R: FALSE
+
+Package: healthystaunch
+Version: 4.3.5
+Depends: R, easyhallmark
+Imports: contRibution, Realistic, visenthusiasm, cher, bRainy, jubilateTest, vishumility
+Suggests: shinyforesight, pRowess, tidydiff, easytinythrift, fertileresolutetime, daringtree, earnestnessSaver, affable.time, survivalSurvival
+License: Phony License
+MD5sum: 6cac324d3d57f6f3087dcda58d34dea6
+Metric/lint_count@R: 15
+Metric/has_current_news@R: FALSE
+Metric/lint_free_fraction@R: 0.704653345420957
+Metric/cran_reverse_dependencies_count@R: 4
+Metric/vignette_count@R: 3
+Metric/r_cmd_check_error_count@R: 0
+Metric/test_line_coverage_fraction@R: 0
+Metric/exports_help_coverage@R: 0.998197693843395
+Metric/test_expression_coverage_fraction@R: 0.838931130391755
+Metric/downloads_total@R: 6660
+Metric/help_pages_with_examples_count@R: 13
+Metric/has_recognized_source@R: TRUE
+Metric/help_examples_coverage@R: 0.90680343459826
+Metric/dependency_count@R: 9
+Metric/has_website@R: FALSE
+
+Package: talentedFriendly
+Version: 4.5.4
+Depends: R, Read
+Imports: tidydiff, eco.sharpR, expansiveconciliatorysafety, healthBeloved, supr, easyobsession, suppoRt
+LinkingTo: finr
+Suggests: ggrightness, survluster, easytinythrift, Rtinysolace, contRibution, dignitySurveyR, affable.time, valrosy, easytable
+License: Phony License
+MD5sum: df9e6a8dd96392af6a697ea226505a55
+Metric/lint_count@R: 9
+Metric/has_current_news@R: TRUE
+Metric/lint_free_fraction@R: 0.9437654171139
+Metric/cran_reverse_dependencies_count@R: 1
+Metric/vignette_count@R: 3
+Metric/r_cmd_check_error_count@R: 0
+Metric/test_line_coverage_fraction@R: 0.864385760992103
+Metric/exports_help_coverage@R: 0.885283301677555
+Metric/test_expression_coverage_fraction@R: 0.999647701531808
+Metric/downloads_total@R: 856
+Metric/help_pages_with_examples_count@R: 35
+Metric/has_recognized_source@R: FALSE
+Metric/help_examples_coverage@R: 0.589595786412247
+Metric/dependency_count@R: 10
+Metric/has_website@R: FALSE
+
+Package: flouRishing
+Version: 2.5.5
+Depends: R, baRgain
+Imports: purposefulfutilebreeze, shiny.instrumental.better, intelligence.Strong, momentousspectrallifesaver
+Suggests: bonnyHug, zjplyr, patRiotic, TrustingEloquence, bRainy, finr, rightnessSurvey, conciliatoRy, reverenceNice
+License: Phony License
+MD5sum: 198c37a2dcc047a4c0c0ff50c1d9f629
+Metric/lint_count@R: 8
+Metric/has_current_news@R: TRUE
+Metric/lint_free_fraction@R: 0.85595719453413
+Metric/cran_reverse_dependencies_count@R: 1
+Metric/vignette_count@R: 4
+Metric/r_cmd_check_error_count@R: 1
+Metric/test_line_coverage_fraction@R: 0.997036112989989
+Metric/exports_help_coverage@R: 0.893890408985317
+Metric/test_expression_coverage_fraction@R: 0.706162026293169
+Metric/downloads_total@R: 357
+Metric/help_pages_with_examples_count@R: 25
+Metric/has_recognized_source@R: TRUE
+Metric/help_examples_coverage@R: 0.901878325035796
+Metric/dependency_count@R: 6
+Metric/has_website@R: FALSE
+
+Package: thinnr
+Version: 4.2.3
+Depends: R, fResher, suppoRt
+Imports: survluster, saluteHealth, intelligence.Strong, TrustingEloquence, finr, reachablesmartfairness
+LinkingTo: lustr
+Suggests: zjplyr, Rtinysolace, cher, deservingdynamicempowerment, affable.time, roxyexcitedness, congenial.respite
+License: Phony License
+MD5sum: 5e1280924708b8ad723a14a5c3bd20ff
+Metric/lint_count@R: 9
+Metric/has_current_news@R: FALSE
+Metric/lint_free_fraction@R: 0.904188833502121
+Metric/cran_reverse_dependencies_count@R: 1
+Metric/vignette_count@R: 4
+Metric/r_cmd_check_error_count@R: 0
+Metric/test_line_coverage_fraction@R: 0.991413525631319
+Metric/exports_help_coverage@R: 0.935286692483351
+Metric/test_expression_coverage_fraction@R: 0.91317551794476
+Metric/downloads_total@R: 1873
+Metric/help_pages_with_examples_count@R: 38
+Metric/has_recognized_source@R: TRUE
+Metric/help_examples_coverage@R: 0.859132628655061
+Metric/dependency_count@R: 10
+Metric/has_website@R: FALSE
+
+Package: regard.Hopeful
+Version: 1.1.6
+Depends: R, webgentle, easyhallmark, promotr
+Imports: reassuranceCooperative, valrefund, jplyr, integRal, jubilateTest, exubeRance
+LinkingTo: eaRnestness
+Suggests: fResher, webclimate, charismaticzeal, ggoverture, survivalSurvival
+License: Phony License
+MD5sum: c86e6937f3f051a49fb6d26769072cf6
+Metric/lint_count@R: 12
+Metric/has_current_news@R: FALSE
+Metric/lint_free_fraction@R: 0.973219660180621
+Metric/cran_reverse_dependencies_count@R: 3
+Metric/vignette_count@R: 5
+Metric/r_cmd_check_error_count@R: 0
+Metric/test_line_coverage_fraction@R: 0.208401223939349
+Metric/exports_help_coverage@R: 0.896148928860202
+Metric/test_expression_coverage_fraction@R: 0.545436813181633
+Metric/downloads_total@R: 7238
+Metric/help_pages_with_examples_count@R: 42
+Metric/has_recognized_source@R: TRUE
+Metric/help_examples_coverage@R: 0.959221446770243
+Metric/dependency_count@R: 11
+Metric/has_website@R: FALSE
+
+Package: suitablesplendor
+Version: 6.3.1
+Depends: R, pRosper, solaceCluster
+Imports: eaRnestness, Read, soplyr
+LinkingTo: eco.sharpR
+Suggests: tidywealthysmooth, fResher, visenthusiasm, valrefund, unReal, cher, integRal, laud.Illuminate, ggcuteness, exubeRance
+License: Phony License
+MD5sum: f8bd5190c15d67ee3baced68272abefc
+Metric/lint_count@R: 6
+Metric/has_current_news@R: TRUE
+Metric/lint_free_fraction@R: 0.930959876673296
+Metric/cran_reverse_dependencies_count@R: 2
+Metric/vignette_count@R: 4
+Metric/r_cmd_check_error_count@R: 0
+Metric/test_line_coverage_fraction@R: 0.181949443934793
+Metric/exports_help_coverage@R: 0.845459819445387
+Metric/test_expression_coverage_fraction@R: 0.693266773993772
+Metric/downloads_total@R: 368672
+Metric/help_pages_with_examples_count@R: 38
+Metric/has_recognized_source@R: TRUE
+Metric/help_examples_coverage@R: 0.742351379711181
+Metric/dependency_count@R: 7
+Metric/has_website@R: FALSE
+
+Package: tidywealthysmooth
+Version: 0.3-1
+Depends: R, suRv
+Imports: easytinythrift, eaRnestness, joyousvalorR, vishumility, thRilling, reclaimSurvey
+Suggests: Read
+License: Phony License
+MD5sum: bd650db8a9b1f44574877dba26d92f74
+Metric/lint_count@R: 11
+Metric/has_current_news@R: TRUE
+Metric/lint_free_fraction@R: 0.958436527033336
+Metric/cran_reverse_dependencies_count@R: 5
+Metric/vignette_count@R: 5
+Metric/r_cmd_check_error_count@R: 0
+Metric/test_line_coverage_fraction@R: 0.896290539462125
+Metric/exports_help_coverage@R: 0.934250670252368
+Metric/test_expression_coverage_fraction@R: 0.997958582936291
+Metric/downloads_total@R: 836144
+Metric/help_pages_with_examples_count@R: 32
+Metric/has_recognized_source@R: FALSE
+Metric/help_examples_coverage@R: 0.867158600827679
+Metric/dependency_count@R: 8
+Metric/has_website@R: FALSE
+
+Package: bayesianpunctualclimate
+Version: 0.4.3
+Depends: R, adulation.Cohort
+Imports: shinyforesight, tidydiff, intelligence.Strong, Rvalmodern, pRosper, affirmativehottestbeloved, smoothr, vividclarity, thRilling, easygoingshinyrespite
+LinkingTo: reachablesmartfairness
+Suggests: vallucky, expansiveconciliatorysafety, inventiveeasyfame, TrustingEloquence, Read, suRv
+License: Phony License
+MD5sum: 813278f7f85a894e38ea608108565547
+Metric/lint_count@R: 16
+Metric/has_current_news@R: TRUE
+Metric/lint_free_fraction@R: 0.736842641071416
+Metric/cran_reverse_dependencies_count@R: 2
+Metric/vignette_count@R: 3
+Metric/r_cmd_check_error_count@R: 0
+Metric/test_line_coverage_fraction@R: 0.947430221774587
+Metric/exports_help_coverage@R: 0.968561654118821
+Metric/test_expression_coverage_fraction@R: 0.643753481157581
+Metric/downloads_total@R: 86
+Metric/help_pages_with_examples_count@R: 37
+Metric/has_recognized_source@R: TRUE
+Metric/help_examples_coverage@R: 0.732039387454279
+Metric/dependency_count@R: 13
+Metric/has_website@R: FALSE
+
+Package: ggrightness
+Version: 2.2.0
+Depends: R
+Imports: eco.sharpR, faiR
+Suggests: shinyforesight, compatible.valiant.cartography, Rvalmodern, joyousvalorR, easyobsession, deservingdynamicempowerment, adulation.Cohort, finr, vividclarity, congenial.respite, easygoingshinyrespite
+License: Phony License
+MD5sum: d7148561a09a5f219aaddd7cfbcc3229
+Metric/lint_count@R: 7
+Metric/has_current_news@R: FALSE
+Metric/lint_free_fraction@R: 0.756627652095631
+Metric/cran_reverse_dependencies_count@R: 2
+Metric/vignette_count@R: 2
+Metric/r_cmd_check_error_count@R: 1
+Metric/test_line_coverage_fraction@R: 0
+Metric/exports_help_coverage@R: 0.994935322087258
+Metric/test_expression_coverage_fraction@R: 0.999999391057396
+Metric/downloads_total@R: 40
+Metric/help_pages_with_examples_count@R: 16
+Metric/has_recognized_source@R: TRUE
+Metric/help_examples_coverage@R: 0.607481634477153
+Metric/dependency_count@R: 3
+Metric/has_website@R: FALSE
+
+Package: sublime.code
+Version: 1.5.5
+Depends: R
+Imports: faiR, congenial.respite, stunning.bargain
+Suggests: easytinythrift, comfypowerfuldelicacy, Remedy, enviousgrin
+License: Phony License
+MD5sum: 4051cb624f4357d48ec7a7b00397f350
+Metric/lint_count@R: 12
+Metric/has_current_news@R: TRUE
+Metric/lint_free_fraction@R: 0.85328962940257
+Metric/cran_reverse_dependencies_count@R: 0
+Metric/vignette_count@R: 2
+Metric/r_cmd_check_error_count@R: 1
+Metric/test_line_coverage_fraction@R: 0.801740954271445
+Metric/exports_help_coverage@R: 0.845626150257885
+Metric/test_expression_coverage_fraction@R: 0.206145321801304
+Metric/downloads_total@R: 178383
+Metric/help_pages_with_examples_count@R: 32
+Metric/has_recognized_source@R: TRUE
+Metric/help_examples_coverage@R: 0.720632800133899
+Metric/dependency_count@R: 4
+Metric/has_website@R: FALSE
+
+Package: fResher
+Version: 2.1.10
+Depends: R
+Imports: easytinythrift, tidydistR, survpamperedness, daringtree, superiorhealthybreathlessness, roxyexcitedness
+Suggests: shinyforesight, comfypowerfuldelicacy, iRresistible, reassuranceCooperative, intelligence.Strong, ggoverture
+License: Phony License
+MD5sum: 56bfa21cc0e67df797bfe05d17344308
+Metric/lint_count@R: 6
+Metric/has_current_news@R: TRUE
+Metric/lint_free_fraction@R: 0.798828326491639
+Metric/cran_reverse_dependencies_count@R: 3
+Metric/vignette_count@R: 6
+Metric/r_cmd_check_error_count@R: 0
+Metric/test_line_coverage_fraction@R: 0.850963623873662
+Metric/exports_help_coverage@R: 0.911282243626192
+Metric/test_expression_coverage_fraction@R: 0.025517138438631
+Metric/downloads_total@R: 287622
+Metric/help_pages_with_examples_count@R: 17
+Metric/has_recognized_source@R: TRUE
+Metric/help_examples_coverage@R: 0.81771206331905
+Metric/dependency_count@R: 7
+Metric/has_website@R: FALSE
+
+Package: purposefulfutilebreeze
+Version: 5.2.8
+Depends: R
+Imports: tidydiff, contRibution, unReal
+Suggests: healthBeloved, bolstr, easyobsession, amicableexcitement, dataRicher
+License: Phony License
+MD5sum: 6edb5a6c2270c5772e23c3da865d177e
+Metric/lint_count@R: 16
+Metric/has_current_news@R: TRUE
+Metric/lint_free_fraction@R: 0.836709733260795
+Metric/cran_reverse_dependencies_count@R: 2
+Metric/vignette_count@R: 2
+Metric/r_cmd_check_error_count@R: 0
+Metric/test_line_coverage_fraction@R: 0.721953408024808
+Metric/exports_help_coverage@R: 0.89505006452091
+Metric/test_expression_coverage_fraction@R: 0.999992662824584
+Metric/downloads_total@R: 77962
+Metric/help_pages_with_examples_count@R: 27
+Metric/has_recognized_source@R: TRUE
+Metric/help_examples_coverage@R: 0.767153518507257
+Metric/dependency_count@R: 4
+Metric/has_website@R: FALSE
+
+Package: bonnyHug
+Version: 0.1
+Depends: R, leading.fortitude
+Imports: iRresistible, bolstr, eaRnestness, richHeroR, enviousgrin, maneuveRable
+Suggests: robustspatialardor, reassuranceCooperative, solaceCluster, reclaimSurvey, reachablesmartfairness
+License: Phony License
+MD5sum: 5685d57fff9194c69dbe694ef7a0e615
+Metric/lint_count@R: 10
+Metric/has_current_news@R: TRUE
+Metric/lint_free_fraction@R: 0.923012617789209
+Metric/cran_reverse_dependencies_count@R: 2
+Metric/vignette_count@R: 2
+Metric/r_cmd_check_error_count@R: 0
+Metric/test_line_coverage_fraction@R: 0
+Metric/exports_help_coverage@R: 0.990467344643548
+Metric/test_expression_coverage_fraction@R: 0.204412963372692
+Metric/downloads_total@R: 781
+Metric/help_pages_with_examples_count@R: 40
+Metric/has_recognized_source@R: TRUE
+Metric/help_examples_coverage@R: 0.911339978454635
+Metric/dependency_count@R: 8
+Metric/has_website@R: FALSE
+
+Package: survluster
+Version: 2.4.1
+Depends: R, survpamperedness, fluttr, bRainy
+Imports: cohortSurvival, richHeroR, libeRation
+Suggests: leading.fortitude, eco.sharpR, supr, Read, impaRtiality, rightnessSurvey, exubeRance
+License: Phony License
+MD5sum: 640d08da59f4d89dc9a175733fbf4a6b
+Metric/lint_count@R: 11
+Metric/has_current_news@R: FALSE
+Metric/lint_free_fraction@R: 0.742012577224523
+Metric/cran_reverse_dependencies_count@R: 0
+Metric/vignette_count@R: 2
+Metric/r_cmd_check_error_count@R: 0
+Metric/test_line_coverage_fraction@R: 0.993826161451041
+Metric/exports_help_coverage@R: 0.934194200439379
+Metric/test_expression_coverage_fraction@R: 0.706127878224133
+Metric/downloads_total@R: 11251
+Metric/help_pages_with_examples_count@R: 12
+Metric/has_recognized_source@R: TRUE
+Metric/help_examples_coverage@R: 0.916359024005942
+Metric/dependency_count@R: 7
+Metric/has_website@R: FALSE
+
+Package: shinyforesight
+Version: 2.1.1
+Depends: R, survpamperedness
+Imports: vouchCount, baRgain, easyhallmark, deservingdynamicempowerment, adulation.Cohort, finr, conciliatoRy
+LinkingTo: earnestnessSaver
+Suggests: saluteHealth, fluttr
+License: Phony License
+MD5sum: 3e5c0f8843ac35160ef959c61aa27b4c
+Metric/lint_count@R: 16
+Metric/has_current_news@R: FALSE
+Metric/lint_free_fraction@R: 0.989322379673831
+Metric/cran_reverse_dependencies_count@R: 1
+Metric/vignette_count@R: 4
+Metric/r_cmd_check_error_count@R: 0
+Metric/test_line_coverage_fraction@R: 0.872801326030388
+Metric/exports_help_coverage@R: 0.924104635836557
+Metric/test_expression_coverage_fraction@R: 0.969908509747144
+Metric/downloads_total@R: 251
+Metric/help_pages_with_examples_count@R: 37
+Metric/has_recognized_source@R: TRUE
+Metric/help_examples_coverage@R: 0.774140059365891
+Metric/dependency_count@R: 10
+Metric/has_website@R: FALSE
+
+Package: vallucky
+Version: 2.1.2
+Depends: R, saluteHealth, Rvalmodern, Read
+Imports: shiny.instrumental.better, pRosper, affirmativehottestbeloved, vishumility, renownGlitter, reachablesmartfairness, stunning.bargain, exubeRance
+Suggests: fancir, reassuranceCooperative, visenthusiasm, intelligence.Strong, visdignity, amicableexcitement, vividclarity, easytable
+License: Phony License
+MD5sum: cf45dab54470f893eb6aaf11fd3b00c8
+Metric/lint_count@R: 4
+Metric/has_current_news@R: FALSE
+Metric/lint_free_fraction@R: 0.832729725819081
+Metric/cran_reverse_dependencies_count@R: 3
+Metric/vignette_count@R: 1
+Metric/r_cmd_check_error_count@R: 0
+Metric/test_line_coverage_fraction@R: 0.685707295197674
+Metric/exports_help_coverage@R: 0.938895393628627
+Metric/test_expression_coverage_fraction@R: 0.774606795852328
+Metric/downloads_total@R: 3001
+Metric/help_pages_with_examples_count@R: 43
+Metric/has_recognized_source@R: FALSE
+Metric/help_examples_coverage@R: 0.649344875942916
+Metric/dependency_count@R: 12
+Metric/has_website@R: FALSE
+
+Package: robustspatialardor
+Version: 1.10
+Depends: R, Romantic
+Imports: leading.fortitude, compatible.valiant.cartography, colorConfidence, thRilling
+LinkingTo: stunning.bargain
+Suggests: vouchCount, cher, bRainy, enviousgrin, reclaimSurvey
+License: Phony License
+MD5sum: e0a19cf944c7ae87cc0996b88cc55643
+Metric/lint_count@R: 4
+Metric/has_current_news@R: FALSE
+Metric/lint_free_fraction@R: 0.805039224401116
+Metric/cran_reverse_dependencies_count@R: 3
+Metric/vignette_count@R: 2
+Metric/r_cmd_check_error_count@R: 0
+Metric/test_line_coverage_fraction@R: 0.426646620183853
+Metric/exports_help_coverage@R: 0.953643715428188
+Metric/test_expression_coverage_fraction@R: 0
+Metric/downloads_total@R: 16311
+Metric/help_pages_with_examples_count@R: 11
+Metric/has_recognized_source@R: TRUE
+Metric/help_examples_coverage@R: 0.607296103495173
+Metric/dependency_count@R: 7
+Metric/has_website@R: FALSE
+
+Package: vouchCount
+Version: 1.6.3
+Depends: R
+Imports: shiny.instrumental.better, contRibution, Rvalmodern, inventiveeasyfame, ggoverture, enviousgrin, maneuveRable
+Suggests: cohortSurvival, eco.sharpR, faiR, considerateglmtop, congenial.respite, flplyr
+License: Phony License
+MD5sum: 4ccc5979c3c25eaa1579cb091f13c7f2
+Metric/lint_count@R: 7
+Metric/has_current_news@R: FALSE
+Metric/lint_free_fraction@R: 0.879340635379776
+Metric/cran_reverse_dependencies_count@R: 1
+Metric/vignette_count@R: 2
+Metric/r_cmd_check_error_count@R: 0
+Metric/test_line_coverage_fraction@R: 0.809073915324207
+Metric/exports_help_coverage@R: 0.917581768985838
+Metric/test_expression_coverage_fraction@R: 0.993147111744861
+Metric/downloads_total@R: 37493
+Metric/help_pages_with_examples_count@R: 10
+Metric/has_recognized_source@R: TRUE
+Metric/help_examples_coverage@R: 0.801891848212108
+Metric/dependency_count@R: 8
+Metric/has_website@R: FALSE
+
+Package: lustr
+Version: 1.2.1
+Depends: R
+Imports: patRiotic, contRibution, roxyexcitedness, considerateglmtop, ggoverture, flplyr, suRv, easytable
+Suggests: visenthusiasm, TrustingEloquence, Read, survivalSurvival, reclaimSurvey, Rapturous
+License: Phony License
+MD5sum: a38528761bb0978d7ed70ab4e1a6fcef
+Metric/lint_count@R: 10
+Metric/has_current_news@R: FALSE
+Metric/lint_free_fraction@R: 0.878319034702145
+Metric/cran_reverse_dependencies_count@R: 2
+Metric/vignette_count@R: 1
+Metric/r_cmd_check_error_count@R: 0
+Metric/test_line_coverage_fraction@R: 0.886945148038129
+Metric/exports_help_coverage@R: 0.994025761540979
+Metric/test_expression_coverage_fraction@R: 0.999527323999423
+Metric/downloads_total@R: 15295
+Metric/help_pages_with_examples_count@R: 46
+Metric/has_recognized_source@R: TRUE
+Metric/help_examples_coverage@R: 0.929863796569407
+Metric/dependency_count@R: 9
+Metric/has_website@R: FALSE
+
+Package: pRowess
+Version: 2.1.2
+Depends: R, ecouplift, suppoRt
+Imports: easytinythrift, honoRable, cherish.Frolic, webgentle, colorConfidence, unReal
+LinkingTo: momentousspectrallifesaver
+Suggests: faiR, earnestnessSaver, ggoverture, ggcuteness
+License: Phony License
+MD5sum: 3002e889dd2f869f1ff651cf1c5e4954
+Metric/lint_count@R: 10
+Metric/has_current_news@R: FALSE
+Metric/lint_free_fraction@R: 0.729681902122684
+Metric/cran_reverse_dependencies_count@R: 4
+Metric/vignette_count@R: 1
+Metric/r_cmd_check_error_count@R: 0
+Metric/test_line_coverage_fraction@R: 0.623949918118622
+Metric/exports_help_coverage@R: 0.982373840780929
+Metric/test_expression_coverage_fraction@R: 0
+Metric/downloads_total@R: 2583
+Metric/help_pages_with_examples_count@R: 23
+Metric/has_recognized_source@R: TRUE
+Metric/help_examples_coverage@R: 0.709419483901002
+Metric/dependency_count@R: 10
+Metric/has_website@R: FALSE
+
+Package: tidydiff
+Version: 3.1.2
+Depends: R, cherish.Frolic
+Imports: patRiotic, Realistic, suRv
+LinkingTo: vividclarity
+Suggests: tidydistR, intelligence.Strong, space.Survival, dignitySurveyR, laud.Illuminate, stunning.bargain, valsharper
+License: Phony License
+MD5sum: d26d596be6d31137bfc56298d8c60efe
+Metric/lint_count@R: 12
+Metric/has_current_news@R: TRUE
+Metric/lint_free_fraction@R: 0.881477289926261
+Metric/cran_reverse_dependencies_count@R: 0
+Metric/vignette_count@R: 6
+Metric/r_cmd_check_error_count@R: 0
+Metric/test_line_coverage_fraction@R: 0.596842015167707
+Metric/exports_help_coverage@R: 0.854414734523743
+Metric/test_expression_coverage_fraction@R: 0.933226039492542
+Metric/downloads_total@R: 344
+Metric/help_pages_with_examples_count@R: 9
+Metric/has_recognized_source@R: TRUE
+Metric/help_examples_coverage@R: 0.849728637724183
+Metric/dependency_count@R: 6
+Metric/has_website@R: FALSE
+
+Package: easytinythrift
+Version: 0.3.3
+Depends: R
+Imports: fancir, unReal, suRv
+Suggests: honoRable, TrustingEloquence
+License: Phony License
+MD5sum: efabadfb7b12e802595741b8b9e6c503
+Metric/lint_count@R: 14
+Metric/has_current_news@R: FALSE
+Metric/lint_free_fraction@R: 0.905308403889649
+Metric/cran_reverse_dependencies_count@R: 1
+Metric/vignette_count@R: 6
+Metric/r_cmd_check_error_count@R: 0
+Metric/test_line_coverage_fraction@R: 0.632965257250812
+Metric/exports_help_coverage@R: 0.917713262094185
+Metric/test_expression_coverage_fraction@R: 0.164066929601651
+Metric/downloads_total@R: 633118
+Metric/help_pages_with_examples_count@R: 33
+Metric/has_recognized_source@R: TRUE
+Metric/help_examples_coverage@R: 0.90179285116028
+Metric/dependency_count@R: 4
+Metric/has_website@R: FALSE
+
+Package: fertileresolutetime
+Version: 1.2.1
+Depends: R, integRal
+Imports: Rtinysolace, daringtree, congenial.respite
+LinkingTo: intelligence.Strong
+Suggests: shiny.instrumental.better, Rvalmodern, visdignity, valrosy, easygoingshinyrespite
+License: Phony License
+MD5sum: 27a22654bcf78ff8c8466ba265eb0dcc
+Metric/lint_count@R: 5
+Metric/has_current_news@R: TRUE
+Metric/lint_free_fraction@R: 0.756915835966356
+Metric/cran_reverse_dependencies_count@R: 4
+Metric/vignette_count@R: 4
+Metric/r_cmd_check_error_count@R: 0
+Metric/test_line_coverage_fraction@R: 0.817600894571023
+Metric/exports_help_coverage@R: 0.896126760495827
+Metric/test_expression_coverage_fraction@R: 0.997211334157773
+Metric/downloads_total@R: 1946
+Metric/help_pages_with_examples_count@R: 15
+Metric/has_recognized_source@R: TRUE
+Metric/help_examples_coverage@R: 0.524944199132733
+Metric/dependency_count@R: 6
+Metric/has_website@R: FALSE
+
+Package: comfypowerfuldelicacy
+Version: 4.3.2
+Depends: R
+Imports: baRgain, deservingdynamicempowerment, affable.time
+Suggests: iRresistible, expansiveconciliatorysafety, bolstr, webgentle, superiorhealthybreathlessness, easytable
+License: Phony License
+MD5sum: 9017ec6b8309a2ce6e8adbb1cefede88
+Metric/lint_count@R: 7
+Metric/has_current_news@R: FALSE
+Metric/lint_free_fraction@R: 0.813298547337763
+Metric/cran_reverse_dependencies_count@R: 2
+Metric/vignette_count@R: 3
+Metric/r_cmd_check_error_count@R: 0
+Metric/test_line_coverage_fraction@R: 0.13539877905785
+Metric/exports_help_coverage@R: 0.841038998216391
+Metric/test_expression_coverage_fraction@R: 0
+Metric/downloads_total@R: 295209
+Metric/help_pages_with_examples_count@R: 25
+Metric/has_recognized_source@R: FALSE
+Metric/help_examples_coverage@R: 0.921247867983766
+Metric/dependency_count@R: 4
+Metric/has_website@R: FALSE
+
+Package: cohortSurvival
+Version: 2.3.3
+Depends: R
+Imports: bolstr, eaRnestness, deservingdynamicempowerment, exubeRance
+LinkingTo: visdignity, maneuveRable
+Suggests: richHeroR, vividclarity
+License: Phony License
+MD5sum: 934cba231a38bf9b678823b015b2c15b
+Metric/lint_count@R: 4
+Metric/has_current_news@R: FALSE
+Metric/lint_free_fraction@R: 0.739847657713108
+Metric/cran_reverse_dependencies_count@R: 2
+Metric/vignette_count@R: 3
+Metric/r_cmd_check_error_count@R: 0
+Metric/test_line_coverage_fraction@R: 0.586453841409557
+Metric/exports_help_coverage@R: 0.994720005523413
+Metric/test_expression_coverage_fraction@R: 0.842060286653901
+Metric/downloads_total@R: 795
+Metric/help_pages_with_examples_count@R: 35
+Metric/has_recognized_source@R: FALSE
+Metric/help_examples_coverage@R: 0.581832484924234
+Metric/dependency_count@R: 7
+Metric/has_website@R: FALSE
+
+Package: fancir
+Version: 0.3.5
+Depends: R
+Imports: iRresistible, visenthusiasm, valrefund, saluteHealth, fluttr
+Suggests: TrustingEloquence, rightnessSurvey, considerateglmtop, ggoverture, enviousgrin
+License: Phony License
+MD5sum: 1005f7b6d6d5d0d27baa7c913f8e6f5b
+Metric/lint_count@R: 11
+Metric/has_current_news@R: FALSE
+Metric/lint_free_fraction@R: 0.758176713087596
+Metric/cran_reverse_dependencies_count@R: 1
+Metric/vignette_count@R: 2
+Metric/r_cmd_check_error_count@R: 0
+Metric/test_line_coverage_fraction@R: 0.674623095900789
+Metric/exports_help_coverage@R: 0.930084104370326
+Metric/test_expression_coverage_fraction@R: 0.963460023943392
+Metric/downloads_total@R: 48407
+Metric/help_pages_with_examples_count@R: 41
+Metric/has_recognized_source@R: FALSE
+Metric/help_examples_coverage@R: 0.751880871364847
+Metric/dependency_count@R: 6
+Metric/has_website@R: FALSE
+
+Package: shiny.instrumental.better
+Version: 2.8
+Depends: R
+Imports: compatible.valiant.cartography, ecouplift, visdignity, integRal, considerateglmtop
+Suggests: Rtinysolace, webgentle, jubilateTest, valrosy, roxyexcitedness, thRilling, shiny.word
+License: Phony License
+MD5sum: 045558cff7e9edea857d37426e68492a
+Metric/lint_count@R: 11
+Metric/has_current_news@R: FALSE
+Metric/lint_free_fraction@R: 0.737556051393039
+Metric/cran_reverse_dependencies_count@R: 2
+Metric/vignette_count@R: 5
+Metric/r_cmd_check_error_count@R: 0
+Metric/test_line_coverage_fraction@R: 0.856811365113763
+Metric/exports_help_coverage@R: 0.932111657969654
+Metric/test_expression_coverage_fraction@R: 0.962208089816897
+Metric/downloads_total@R: 20609
+Metric/help_pages_with_examples_count@R: 14
+Metric/has_recognized_source@R: FALSE
+Metric/help_examples_coverage@R: 0.6247207748238
+Metric/dependency_count@R: 6
+Metric/has_website@R: FALSE
+
+Package: leading.fortitude
+Version: 2.0.2
+Depends: R
+Imports: deservingdynamicempowerment, thRilling, shiny.word
+Suggests: faiR, richHeroR, vividclarity, Rapturous
+License: Phony License
+MD5sum: 7bf0028032e4a00b8bb8b5c3c4fb7d02
+Metric/lint_count@R: 15
+Metric/has_current_news@R: TRUE
+Metric/lint_free_fraction@R: 0.924396215681918
+Metric/cran_reverse_dependencies_count@R: 1
+Metric/vignette_count@R: 1
+Metric/r_cmd_check_error_count@R: 0
+Metric/test_line_coverage_fraction@R: 0.717658231895655
+Metric/exports_help_coverage@R: 0.84184147734195
+Metric/test_expression_coverage_fraction@R: 0.0675585065716843
+Metric/downloads_total@R: 439
+Metric/help_pages_with_examples_count@R: 26
+Metric/has_recognized_source@R: TRUE
+Metric/help_examples_coverage@R: 0.73347099928651
+Metric/dependency_count@R: 4
+Metric/has_website@R: FALSE
+
+Package: eco.sharpR
+Version: 1.3.5
+Depends: R
+Imports: pRosper, promotr, spatialgenoadvocate, rightnessSurvey, reclaimSurvey
+LinkingTo: adulation.Cohort, affable.time
+Suggests: zjplyr, survpamperedness, valrefund, cherish.Frolic, richHeroR, vividclarity, shinyhappieramazement
+License: Phony License
+MD5sum: 089437ed0b8128026e309d5c77747db8
+Metric/lint_count@R: 10
+Metric/has_current_news@R: FALSE
+Metric/lint_free_fraction@R: 0.796538924262859
+Metric/cran_reverse_dependencies_count@R: 1
+Metric/vignette_count@R: 4
+Metric/r_cmd_check_error_count@R: 0
+Metric/test_line_coverage_fraction@R: 0.913070132671978
+Metric/exports_help_coverage@R: 0.862728542787954
+Metric/test_expression_coverage_fraction@R: 0.209945584538852
+Metric/downloads_total@R: 4432
+Metric/help_pages_with_examples_count@R: 27
+Metric/has_recognized_source@R: TRUE
+Metric/help_examples_coverage@R: 0.822793069761246
+Metric/dependency_count@R: 8
+Metric/has_website@R: FALSE
+
+Package: zjplyr
+Version: 1.2.6
+Depends: R, survpamperedness
+Imports: jplyr, deservingdynamicempowerment, momentousspectrallifesaver, adulation.Cohort, congenial.respite, flplyr
+Suggests: iRresistible, inventiveeasyfame, exubeRance
+License: Phony License
+MD5sum: 42c4d42acc259428847c0773e3c61ecf
+Metric/lint_count@R: 7
+Metric/has_current_news@R: FALSE
+Metric/lint_free_fraction@R: 0.911481027374975
+Metric/cran_reverse_dependencies_count@R: 0
+Metric/vignette_count@R: 3
+Metric/r_cmd_check_error_count@R: 0
+Metric/test_line_coverage_fraction@R: 0.185430612804999
+Metric/exports_help_coverage@R: 0.894616719661281
+Metric/test_expression_coverage_fraction@R: 0.857987788725913
+Metric/downloads_total@R: 27
+Metric/help_pages_with_examples_count@R: 19
+Metric/has_recognized_source@R: TRUE
+Metric/help_examples_coverage@R: 0.505049137980677
+Metric/dependency_count@R: 8
+Metric/has_website@R: FALSE
+
+Package: patRiotic
+Version: 1.7.8
+Depends: R
+Imports: healthBeloved, tidydistR
+Suggests: handir, ggoverture
+License: Phony License
+MD5sum: f613af392f2c00bbf7c70572784b7957
+Metric/lint_count@R: 11
+Metric/has_current_news@R: FALSE
+Metric/lint_free_fraction@R: 0.776131415343843
+Metric/cran_reverse_dependencies_count@R: 6
+Metric/vignette_count@R: 2
+Metric/r_cmd_check_error_count@R: 1
+Metric/test_line_coverage_fraction@R: 0.586950236783314
+Metric/exports_help_coverage@R: 0.970934293465689
+Metric/test_expression_coverage_fraction@R: 0.85993336895652
+Metric/downloads_total@R: 185
+Metric/help_pages_with_examples_count@R: 30
+Metric/has_recognized_source@R: TRUE
+Metric/help_examples_coverage@R: 0.537943597999401
+Metric/dependency_count@R: 3
+Metric/has_website@R: FALSE
+
+Package: fulfillmentRedemption
+Version: 2.4.7
+Depends: R, tidydistR, laud.Illuminate, exubeRance
+Imports: ecouplift, inventiveeasyfame, visdignity, roxyexcitedness, soplyr, tidyfuzzyhooray, shinyhappieramazement
+Suggests: charismaticzeal, honoRable, considerateglmtop
+License: Phony License
+MD5sum: c49865328eec089439e24679052127b8
+Metric/lint_count@R: 14
+Metric/has_current_news@R: TRUE
+Metric/lint_free_fraction@R: 0.978452974138781
+Metric/cran_reverse_dependencies_count@R: 1
+Metric/vignette_count@R: 4
+Metric/r_cmd_check_error_count@R: 0
+Metric/test_line_coverage_fraction@R: 0.997372470888441
+Metric/exports_help_coverage@R: 0.820639403443784
+Metric/test_expression_coverage_fraction@R: 0.993475647950137
+Metric/downloads_total@R: 753
+Metric/help_pages_with_examples_count@R: 36
+Metric/has_recognized_source@R: FALSE
+Metric/help_examples_coverage@R: 0.557387895300053
+Metric/dependency_count@R: 11
+Metric/has_website@R: FALSE
+
+Package: webclimate
+Version: 1.2.6
+Depends: R, reassuranceCooperative
+Imports: Rtinysolace, vishumility
+Suggests: solaceCluster, enviousgrin, astoundingeager
+License: Phony License
+MD5sum: 357fd738750462d0c74dd8168d0ef42b
+Metric/lint_count@R: 7
+Metric/has_current_news@R: FALSE
+Metric/lint_free_fraction@R: 0.94059147760272
+Metric/cran_reverse_dependencies_count@R: 2
+Metric/vignette_count@R: 4
+Metric/r_cmd_check_error_count@R: 0
+Metric/test_line_coverage_fraction@R: 0.250985812910301
+Metric/exports_help_coverage@R: 0.847060562111437
+Metric/test_expression_coverage_fraction@R: 0.424203656852772
+Metric/downloads_total@R: 196
+Metric/help_pages_with_examples_count@R: 41
+Metric/has_recognized_source@R: TRUE
+Metric/help_examples_coverage@R: 0.991860704263672
+Metric/dependency_count@R: 4
+Metric/has_website@R: FALSE
+
+Package: iRresistible
+Version: 3.4.3
+Depends: R
+Imports: charismaticzeal, eaRnestness, webgentle, considerateglmtop, renownGlitter, astoundingeager
+Suggests: intelligence.Strong, jplyr, congenial.respite
+License: Phony License
+MD5sum: 3fbb2d8ae2a9384b47a362d72f7d21e0
+Metric/lint_count@R: 13
+Metric/has_current_news@R: TRUE
+Metric/lint_free_fraction@R: 0.775702467258088
+Metric/cran_reverse_dependencies_count@R: 1
+Metric/vignette_count@R: 1
+Metric/r_cmd_check_error_count@R: 0
+Metric/test_line_coverage_fraction@R: 0.283687402222075
+Metric/exports_help_coverage@R: 0.818390012625605
+Metric/test_expression_coverage_fraction@R: 0.927501177646007
+Metric/downloads_total@R: 180128
+Metric/help_pages_with_examples_count@R: 5
+Metric/has_recognized_source@R: TRUE
+Metric/help_examples_coverage@R: 0.889811565517448
+Metric/dependency_count@R: 7
+Metric/has_website@R: FALSE
+
+Package: handir
+Version: 4.2.4
+Depends: R, inventiveeasyfame
+Imports: Rtinysolace, daringtree
+LinkingTo: exubeRance
+Suggests: charismaticzeal, survpamperedness, DeservingTensor, visdignity, space.Survival, enviousgrin
+License: Phony License
+MD5sum: 44a712a37226f07fb6b6c081f2d763b2
+Metric/lint_count@R: 13
+Metric/has_current_news@R: FALSE
+Metric/lint_free_fraction@R: 0.869965522922575
+Metric/cran_reverse_dependencies_count@R: 2
+Metric/vignette_count@R: 3
+Metric/r_cmd_check_error_count@R: 1
+Metric/test_line_coverage_fraction@R: 0.0487621430376436
+Metric/exports_help_coverage@R: 0.843208993552253
+Metric/test_expression_coverage_fraction@R: 0.986350351056203
+Metric/downloads_total@R: 88
+Metric/help_pages_with_examples_count@R: 49
+Metric/has_recognized_source@R: TRUE
+Metric/help_examples_coverage@R: 0.833096226793714
+Metric/dependency_count@R: 5
+Metric/has_website@R: FALSE
+
+Package: expansiveconciliatorysafety
+Version: 6.5
+Depends: R
+Imports: Rtinysolace, superiorhealthybreathlessness, soplyr, conciliatoRy, reverenceNice, easytable, maneuveRable
+Suggests: intelligence.Strong, TrustingEloquence, astoundingeager, Romantic
+License: Phony License
+MD5sum: c0955a0ed1e0a2585ff28e492214ad57
+Metric/lint_count@R: 12
+Metric/has_current_news@R: FALSE
+Metric/lint_free_fraction@R: 0.725687013030983
+Metric/cran_reverse_dependencies_count@R: 1
+Metric/vignette_count@R: 4
+Metric/r_cmd_check_error_count@R: 0
+Metric/test_line_coverage_fraction@R: 0.645291118862635
+Metric/exports_help_coverage@R: 0.827913213847205
+Metric/test_expression_coverage_fraction@R: 0.958137327868419
+Metric/downloads_total@R: 10745
+Metric/help_pages_with_examples_count@R: 24
+Metric/has_recognized_source@R: TRUE
+Metric/help_examples_coverage@R: 0.676350281923078
+Metric/dependency_count@R: 8
+Metric/has_website@R: FALSE
+
+Package: charismaticzeal
+Version: 2.4.1
+Depends: R, flplyr
+Imports: conciliatoRy, exubeRance
+LinkingTo: tidydistR
+Suggests: faiR, inventiveeasyfame, joyousvalorR, reverenceNice, tidyfuzzyhooray
+License: Phony License
+MD5sum: c5f3b55bf17c7085948ed2a53f4b44b4
+Metric/lint_count@R: 15
+Metric/has_current_news@R: TRUE
+Metric/lint_free_fraction@R: 0.999326796480455
+Metric/cran_reverse_dependencies_count@R: 6
+Metric/vignette_count@R: 3
+Metric/r_cmd_check_error_count@R: 0
+Metric/test_line_coverage_fraction@R: 0.906034102692761
+Metric/exports_help_coverage@R: 0.973756796261296
+Metric/test_expression_coverage_fraction@R: 0.588839013102441
+Metric/downloads_total@R: 14317
+Metric/help_pages_with_examples_count@R: 42
+Metric/has_recognized_source@R: TRUE
+Metric/help_examples_coverage@R: 0.756785055738874
+Metric/dependency_count@R: 5
+Metric/has_website@R: FALSE
+
+Package: healthBeloved
+Version: 2.6.2
+Depends: R
+Imports: saluteHealth, ecouplift, unReal, promotr, conciliatoRy, reverenceNice
+LinkingTo: compatible.valiant.cartography
+Suggests: daringtree, earnestnessSaver, flplyr, easytable
+License: Phony License
+MD5sum: 1211a77f55967a701ccb9ca5b2535e7a
+Metric/lint_count@R: 9
+Metric/has_current_news@R: FALSE
+Metric/lint_free_fraction@R: 0.753145668283105
+Metric/cran_reverse_dependencies_count@R: 2
+Metric/vignette_count@R: 1
+Metric/r_cmd_check_error_count@R: 0
+Metric/test_line_coverage_fraction@R: 0.993385042052406
+Metric/exports_help_coverage@R: 0.80793806524016
+Metric/test_expression_coverage_fraction@R: 0.676638089401718
+Metric/downloads_total@R: 50
+Metric/help_pages_with_examples_count@R: 10
+Metric/has_recognized_source@R: FALSE
+Metric/help_examples_coverage@R: 0.715541851939633
+Metric/dependency_count@R: 8
+Metric/has_website@R: FALSE
+
+Package: tidydistR
+Version: 2.4.3
+Depends: R
+Imports: Rtinysolace, compatible.valiant.cartography, bolstr, valrefund, Rvalmodern, INGENUITY.VIRTUE, joyousvalorR, momentousspectrallifesaver
+Suggests: inventiveeasyfame, unReal, easyobsession, jubilateTest, libeRation
+License: Phony License
+MD5sum: f83c1ee4a7f15fe449fb067adb378c18
+Metric/lint_count@R: 16
+Metric/has_current_news@R: FALSE
+Metric/lint_free_fraction@R: 0.968877353146672
+Metric/cran_reverse_dependencies_count@R: 2
+Metric/vignette_count@R: 2
+Metric/r_cmd_check_error_count@R: 0
+Metric/test_line_coverage_fraction@R: 0.849768223023332
+Metric/exports_help_coverage@R: 0.840912253875285
+Metric/test_expression_coverage_fraction@R: 0.501307805179775
+Metric/downloads_total@R: 62850
+Metric/help_pages_with_examples_count@R: 38
+Metric/has_recognized_source@R: TRUE
+Metric/help_examples_coverage@R: 0.933435529354028
+Metric/dependency_count@R: 9
+Metric/has_website@R: FALSE
+
+Package: Rtinysolace
+Version: 5.7.5
+Depends: R, reassuranceCooperative, valrosy
+Suggests: intelligence.Strong, unReal, fluttr, smoothr, dataRicher, Rapturous
+License: Phony License
+MD5sum: db3a5c1c51f176d93fb822be09cc4b84
+Metric/lint_count@R: 8
+Metric/has_current_news@R: FALSE
+Metric/lint_free_fraction@R: 0.726077516679652
+Metric/cran_reverse_dependencies_count@R: 3
+Metric/vignette_count@R: 4
+Metric/r_cmd_check_error_count@R: 0
+Metric/test_line_coverage_fraction@R: 0.949548632900875
+Metric/exports_help_coverage@R: 0.86499459813349
+Metric/test_expression_coverage_fraction@R: 0.716034607429232
+Metric/downloads_total@R: 15
+Metric/help_pages_with_examples_count@R: 27
+Metric/has_recognized_source@R: FALSE
+Metric/help_examples_coverage@R: 0.537615696899593
+Metric/dependency_count@R: 3
+Metric/has_website@R: FALSE
+
+Package: contRibution
+Version: 4.3.6
+Depends: R, faiR
+Imports: visenthusiasm, inventiveeasyfame, cher, reclaimSurvey, suRv
+LinkingTo: INGENUITY.VIRTUE
+License: Phony License
+MD5sum: 1b872bbac1aa6662d1f938d71dd7e69b
+Metric/lint_count@R: 5
+Metric/has_current_news@R: FALSE
+Metric/lint_free_fraction@R: 0.917839042982087
+Metric/cran_reverse_dependencies_count@R: 0
+Metric/vignette_count@R: 6
+Metric/r_cmd_check_error_count@R: 1
+Metric/test_line_coverage_fraction@R: 0.393546874681499
+Metric/exports_help_coverage@R: 0.90328903500922
+Metric/test_expression_coverage_fraction@R: 0.648419103251302
+Metric/downloads_total@R: 1372
+Metric/help_pages_with_examples_count@R: 45
+Metric/has_recognized_source@R: FALSE
+Metric/help_examples_coverage@R: 0.816418743226677
+Metric/dependency_count@R: 8
+Metric/has_website@R: FALSE
+
+Package: Realistic
+Version: 3.1.8
+Depends: R, reassuranceCooperative
+Imports: pRosper, amicableexcitement, vishumility, renownGlitter
+LinkingTo: jplyr, thRilling
+Suggests: impaRtiality, industRious
+License: Phony License
+MD5sum: dff9554f494b571143c1d31403a07fb2
+Metric/lint_count@R: 10
+Metric/has_current_news@R: TRUE
+Metric/lint_free_fraction@R: 0.719112097099423
+Metric/cran_reverse_dependencies_count@R: 3
+Metric/vignette_count@R: 3
+Metric/r_cmd_check_error_count@R: 0
+Metric/test_line_coverage_fraction@R: 0.992289738655979
+Metric/exports_help_coverage@R: 0.906278762919828
+Metric/test_expression_coverage_fraction@R: 0.928097364788214
+Metric/downloads_total@R: 932
+Metric/help_pages_with_examples_count@R: 37
+Metric/has_recognized_source@R: FALSE
+Metric/help_examples_coverage@R: 0.658309460734017
+Metric/dependency_count@R: 8
+Metric/has_website@R: FALSE
+
+Package: survpamperedness
+Version: 2.5.6
+Depends: R, reclaimSurvey
+Imports: reachablesmartfairness
+Suggests: jubilateTest, valrosy, tidyfuzzyhooray
+License: Phony License
+MD5sum: dee2292feaedb5e2d8257e3f8bdcfe48
+Metric/lint_count@R: 6
+Metric/has_current_news@R: TRUE
+Metric/lint_free_fraction@R: 0.734436294529587
+Metric/cran_reverse_dependencies_count@R: 2
+Metric/vignette_count@R: 4
+Metric/r_cmd_check_error_count@R: 1
+Metric/test_line_coverage_fraction@R: 0.396155276650487
+Metric/exports_help_coverage@R: 0.881007151538506
+Metric/test_expression_coverage_fraction@R: 0.904834778725244
+Metric/downloads_total@R: 40
+Metric/help_pages_with_examples_count@R: 19
+Metric/has_recognized_source@R: TRUE
+Metric/help_examples_coverage@R: 0.810037000803277
+Metric/dependency_count@R: 3
+Metric/has_website@R: FALSE
+
+Package: compatible.valiant.cartography
+Version: 3.5.5
+Depends: R, soplyr
+Imports: visdignity, maneuveRable
+Suggests: webgentle
+License: Phony License
+MD5sum: 67c4819eacbfd5f35a49af2971075062
+Metric/lint_count@R: 11
+Metric/has_current_news@R: TRUE
+Metric/lint_free_fraction@R: 0.783170257671736
+Metric/cran_reverse_dependencies_count@R: 1
+Metric/vignette_count@R: 0
+Metric/r_cmd_check_error_count@R: 0
+Metric/test_line_coverage_fraction@R: 0.788405330338715
+Metric/exports_help_coverage@R: 0.936054530413821
+Metric/test_expression_coverage_fraction@R: 0.975504891917182
+Metric/downloads_total@R: 57
+Metric/help_pages_with_examples_count@R: 9
+Metric/has_recognized_source@R: TRUE
+Metric/help_examples_coverage@R: 0.574172573629767
+Metric/dependency_count@R: 4
+Metric/has_website@R: FALSE
+
+Package: bolstr
+Version: 0.0.4
+Depends: R
+Imports: Rvalmodern, cher
+LinkingTo: deservingdynamicempowerment
+Suggests: reassuranceCooperative, eaRnestness, visdignity, astoundingeager, valsharper
+License: Phony License
+MD5sum: e7120e94616caf02f1e66d21a57c7379
+Metric/lint_count@R: 9
+Metric/has_current_news@R: FALSE
+Metric/lint_free_fraction@R: 0.801062640338205
+Metric/cran_reverse_dependencies_count@R: 0
+Metric/vignette_count@R: 6
+Metric/r_cmd_check_error_count@R: 0
+Metric/test_line_coverage_fraction@R: 0
+Metric/exports_help_coverage@R: 0.832794719329104
+Metric/test_expression_coverage_fraction@R: 0.84435986236924
+Metric/downloads_total@R: 1308
+Metric/help_pages_with_examples_count@R: 50
+Metric/has_recognized_source@R: TRUE
+Metric/help_examples_coverage@R: 0.601397154270671
+Metric/dependency_count@R: 4
+Metric/has_website@R: FALSE
+
+Package: DeservingTensor
+Version: 0.2.6
+Depends: R
+Imports: ecouplift
+LinkingTo: valrosy
+Suggests: daringtree, eaRnestness, unReal, Respite, integRal, impaRtiality, rightnessSurvey, survivalSurvival, authoRitative, industRious, ggcuteness
+License: Phony License
+MD5sum: f3368a3aabcea53d8ae45014549175ad
+Metric/lint_count@R: 11
+Metric/has_current_news@R: FALSE
+Metric/lint_free_fraction@R: 0.754121171007864
+Metric/cran_reverse_dependencies_count@R: 0
+Metric/vignette_count@R: 2
+Metric/r_cmd_check_error_count@R: 0
+Metric/test_line_coverage_fraction@R: 0
+Metric/exports_help_coverage@R: 0.806125690834597
+Metric/test_expression_coverage_fraction@R: 0.999922890071649
+Metric/downloads_total@R: 5113
+Metric/help_pages_with_examples_count@R: 19
+Metric/has_recognized_source@R: TRUE
+Metric/help_examples_coverage@R: 0.716351848561317
+Metric/dependency_count@R: 3
+Metric/has_website@R: FALSE
+
+Package: honoRable
+Version: 2.4.1
+Depends: R, ggcuteness, easytable
+Imports: daringtree, intelligence.Strong, Read, libeRation, Romantic
+Suggests: TrustingEloquence, deservingdynamicempowerment, momentousspectrallifesaver, laud.Illuminate, flplyr, maneuveRable
+License: Phony License
+MD5sum: e0f91576db597098a3003bee6a8f0dfd
+Metric/lint_count@R: 13
+Metric/has_current_news@R: TRUE
+Metric/lint_free_fraction@R: 0.955713196611032
+Metric/cran_reverse_dependencies_count@R: 3
+Metric/vignette_count@R: 1
+Metric/r_cmd_check_error_count@R: 1
+Metric/test_line_coverage_fraction@R: 0.976826864136239
+Metric/exports_help_coverage@R: 0.842380115948618
+Metric/test_expression_coverage_fraction@R: 0.00810941551837308
+Metric/downloads_total@R: 138563
+Metric/help_pages_with_examples_count@R: 20
+Metric/has_recognized_source@R: TRUE
+Metric/help_examples_coverage@R: 0.794977643876337
+Metric/dependency_count@R: 8
+Metric/has_website@R: FALSE
+
+Package: reassuranceCooperative
+Version: 1.2-8
+Depends: R, spatialgenoadvocate
+Imports: cherish.Frolic, supr, saluteHealth, faiR, integRal, dignitySurveyR, valsharper
+LinkingTo: easytable
+Suggests: superiorhealthybreathlessness
+License: Phony License
+MD5sum: 5b4313967a8ca1cf490c818210acaa4f
+Metric/lint_count@R: 6
+Metric/has_current_news@R: TRUE
+Metric/lint_free_fraction@R: 0.893762551876716
+Metric/cran_reverse_dependencies_count@R: 3
+Metric/vignette_count@R: 3
+Metric/r_cmd_check_error_count@R: 0
+Metric/test_line_coverage_fraction@R: 0.971559967561754
+Metric/exports_help_coverage@R: 0.881751517718658
+Metric/test_expression_coverage_fraction@R: 0
+Metric/downloads_total@R: 9560
+Metric/help_pages_with_examples_count@R: 12
+Metric/has_recognized_source@R: FALSE
+Metric/help_examples_coverage@R: 0.68800162198022
+Metric/dependency_count@R: 10
+Metric/has_website@R: FALSE
+
+Package: visenthusiasm
+Version: 1.4.4
+Depends: R
+Imports: earnestnessSaver
+Suggests: Rvalmodern, Remedy, considerateglmtop, ggoverture
+License: Phony License
+MD5sum: cadf4a801630c2a087f36c726c0fc654
+Metric/lint_count@R: 13
+Metric/has_current_news@R: FALSE
+Metric/lint_free_fraction@R: 0.827951749949716
+Metric/cran_reverse_dependencies_count@R: 3
+Metric/vignette_count@R: 2
+Metric/r_cmd_check_error_count@R: 0
+Metric/test_line_coverage_fraction@R: 0.977074488688556
+Metric/exports_help_coverage@R: 0.832370969746262
+Metric/test_expression_coverage_fraction@R: 0.989557325745968
+Metric/downloads_total@R: 366124
+Metric/help_pages_with_examples_count@R: 44
+Metric/has_recognized_source@R: FALSE
+Metric/help_examples_coverage@R: 0.709423527354375
+Metric/dependency_count@R: 2
+Metric/has_website@R: FALSE
+
+Package: valrefund
+Version: 1.7.8
+Depends: R
+Imports: adulation.Cohort, spatialgenoadvocate, ggoverture
+Suggests: ecouplift, jplyr, joyousvalorR, deservingdynamicempowerment, soplyr
+License: Phony License
+MD5sum: deed05ac38aa02df1678f353c4b22c41
+Metric/lint_count@R: 10
+Metric/has_current_news@R: FALSE
+Metric/lint_free_fraction@R: 0.811477827536873
+Metric/cran_reverse_dependencies_count@R: 2
+Metric/vignette_count@R: 0
+Metric/r_cmd_check_error_count@R: 0
+Metric/test_line_coverage_fraction@R: 0
+Metric/exports_help_coverage@R: 0.865790047449991
+Metric/test_expression_coverage_fraction@R: 0
+Metric/downloads_total@R: 1023
+Metric/help_pages_with_examples_count@R: 40
+Metric/has_recognized_source@R: TRUE
+Metric/help_examples_coverage@R: 0.860834742081352
+Metric/dependency_count@R: 4
+Metric/has_website@R: FALSE
+
+Package: daringtree
+Version: 4.3.3
+Depends: R, cher
+Imports: dataRicher, valsharper
+LinkingTo: dignitySurveyR
+Suggests: Rvalmodern, joyousvalorR, pRosper, exubeRance
+License: Phony License
+MD5sum: d3c11840fb826d433eaa2b10ca4d3d01
+Metric/lint_count@R: 16
+Metric/has_current_news@R: TRUE
+Metric/lint_free_fraction@R: 0.939249034714885
+Metric/cran_reverse_dependencies_count@R: 1
+Metric/vignette_count@R: 2
+Metric/r_cmd_check_error_count@R: 0
+Metric/test_line_coverage_fraction@R: 0
+Metric/exports_help_coverage@R: 0.990020769741386
+Metric/test_expression_coverage_fraction@R: 0.865354636834518
+Metric/downloads_total@R: 498
+Metric/help_pages_with_examples_count@R: 42
+Metric/has_recognized_source@R: FALSE
+Metric/help_examples_coverage@R: 0.895073415595107
+Metric/dependency_count@R: 5
+Metric/has_website@R: FALSE
+
+Package: cherish.Frolic
+Version: 1.3
+Depends: R, solaceCluster
+Imports: unReal, richHeroR, conciliatoRy
+Suggests: Rvalmodern, Respite, affable.time, suppoRt
+License: Phony License
+MD5sum: d491af8606eac1969453451d942dd19d
+Metric/lint_count@R: 10
+Metric/has_current_news@R: FALSE
+Metric/lint_free_fraction@R: 0.780760139692575
+Metric/cran_reverse_dependencies_count@R: 2
+Metric/vignette_count@R: 5
+Metric/r_cmd_check_error_count@R: 0
+Metric/test_line_coverage_fraction@R: 0.997991932892319
+Metric/exports_help_coverage@R: 0.873230950534344
+Metric/test_expression_coverage_fraction@R: 0.369181939576678
+Metric/downloads_total@R: 156
+Metric/help_pages_with_examples_count@R: 23
+Metric/has_recognized_source@R: TRUE
+Metric/help_examples_coverage@R: 0.895259705139324
+Metric/dependency_count@R: 5
+Metric/has_website@R: FALSE
+
+Package: supr
+Version: 0.2.3
+Depends: R, smoothr, rightnessSurvey
+Imports: affable.time, libeRation, industRious
+LinkingTo: stunning.bargain
+Suggests: ecouplift, jubilateTest, amicableexcitement, vishumility, flplyr
+License: Phony License
+MD5sum: ec23418fa0c05687968c5e32ac14c463
+Metric/lint_count@R: 7
+Metric/has_current_news@R: TRUE
+Metric/lint_free_fraction@R: 0.78932571655605
+Metric/cran_reverse_dependencies_count@R: 1
+Metric/vignette_count@R: 5
+Metric/r_cmd_check_error_count@R: 0
+Metric/test_line_coverage_fraction@R: 0.642826407869812
+Metric/exports_help_coverage@R: 0.829202072834596
+Metric/test_expression_coverage_fraction@R: 0.999056428697504
+Metric/downloads_total@R: 103
+Metric/help_pages_with_examples_count@R: 39
+Metric/has_recognized_source@R: TRUE
+Metric/help_examples_coverage@R: 0.780301343998872
+Metric/dependency_count@R: 7
+Metric/has_website@R: FALSE
+
+Package: eaRnestness
+Version: 4.3.6
+Depends: R
+Imports: intelligence.Strong, faiR, jplyr, unReal, impaRtiality, jubilateTest, solaceCluster, Romantic, valsharper
+Suggests: webgentle, Rapturous, exubeRance
+License: Phony License
+MD5sum: f46ebf1435ee49d64b4763db04ac88cf
+Metric/lint_count@R: 10
+Metric/has_current_news@R: TRUE
+Metric/lint_free_fraction@R: 0.760817978042178
+Metric/cran_reverse_dependencies_count@R: 0
+Metric/vignette_count@R: 1
+Metric/r_cmd_check_error_count@R: 0
+Metric/test_line_coverage_fraction@R: 0.931854043595218
+Metric/exports_help_coverage@R: 0.933224329212681
+Metric/test_expression_coverage_fraction@R: 0.229731193742115
+Metric/downloads_total@R: 51062
+Metric/help_pages_with_examples_count@R: 46
+Metric/has_recognized_source@R: TRUE
+Metric/help_examples_coverage@R: 0.603241176810116
+Metric/dependency_count@R: 10
+Metric/has_website@R: FALSE
+
+Package: saluteHealth
+Version: 0.1.5
+Depends: R, pRosper, easygoingshinyrespite
+Imports: visdignity, affable.time, vividclarity, rightnessSurvey
+Suggests: considerateglmtop
+License: Phony License
+MD5sum: 09176e9dbe0d8d07d465bb1f6b8413ca
+Metric/lint_count@R: 11
+Metric/has_current_news@R: FALSE
+Metric/lint_free_fraction@R: 0.942928321403451
+Metric/cran_reverse_dependencies_count@R: 2
+Metric/vignette_count@R: 4
+Metric/r_cmd_check_error_count@R: 1
+Metric/test_line_coverage_fraction@R: 0.900441198040112
+Metric/exports_help_coverage@R: 0.88143538008444
+Metric/test_expression_coverage_fraction@R: 0
+Metric/downloads_total@R: 1618
+Metric/help_pages_with_examples_count@R: 7
+Metric/has_recognized_source@R: TRUE
+Metric/help_examples_coverage@R: 0.577728832955472
+Metric/dependency_count@R: 7
+Metric/has_website@R: FALSE
+
+Package: intelligence.Strong
+Version: 1.5.1
+Depends: R
+Imports: impaRtiality, jubilateTest, amicableexcitement, rightnessSurvey, suppoRt, dataRicher
+LinkingTo: jplyr
+Suggests: easyobsession, dignitySurveyR, soplyr, maneuveRable, shinyhappieramazement
+License: Phony License
+MD5sum: 4cac98eb085f833d4795f84c1460b5df
+Metric/lint_count@R: 12
+Metric/has_current_news@R: FALSE
+Metric/lint_free_fraction@R: 0.954990098206326
+Metric/cran_reverse_dependencies_count@R: 3
+Metric/vignette_count@R: 3
+Metric/r_cmd_check_error_count@R: 1
+Metric/test_line_coverage_fraction@R: 0.258823774518787
+Metric/exports_help_coverage@R: 0.811857093358412
+Metric/test_expression_coverage_fraction@R: 0
+Metric/downloads_total@R: 1690
+Metric/help_pages_with_examples_count@R: 32
+Metric/has_recognized_source@R: TRUE
+Metric/help_examples_coverage@R: 0.772416727384552
+Metric/dependency_count@R: 8
+Metric/has_website@R: FALSE
+
+Package: ecouplift
+Version: 10.3.5
+Depends: R, faiR
+Imports: momentousspectrallifesaver, promotr, vividclarity
+Suggests: baRgain, cher, laud.Illuminate, reclaimSurvey
+License: Phony License
+MD5sum: 485144bd7463334efd62e55c2eee14b8
+Metric/lint_count@R: 17
+Metric/has_current_news@R: FALSE
+Metric/lint_free_fraction@R: 0.935306296427734
+Metric/cran_reverse_dependencies_count@R: 2
+Metric/vignette_count@R: 3
+Metric/r_cmd_check_error_count@R: 1
+Metric/test_line_coverage_fraction@R: 0.966937309423028
+Metric/exports_help_coverage@R: 0.803498258255422
+Metric/test_expression_coverage_fraction@R: 0.485460788332279
+Metric/downloads_total@R: 910046
+Metric/help_pages_with_examples_count@R: 20
+Metric/has_recognized_source@R: TRUE
+Metric/help_examples_coverage@R: 0.973515997640789
+Metric/dependency_count@R: 5
+Metric/has_website@R: FALSE
+
+Package: webgentle
+Version: 2.3.3
+Depends: R
+Imports: impaRtiality, jubilateTest, spatialgenoadvocate, finr, Romantic
+LinkingTo: joyousvalorR
+Suggests: INGENUITY.VIRTUE, deservingdynamicempowerment, rightnessSurvey, Rapturous, flplyr, reverenceNice, ggcuteness
+License: Phony License
+MD5sum: 2f8d361907dacd33e070b4edb324c6a4
+Metric/lint_count@R: 12
+Metric/has_current_news@R: FALSE
+Metric/lint_free_fraction@R: 0.853896953118965
+Metric/cran_reverse_dependencies_count@R: 5
+Metric/vignette_count@R: 2
+Metric/r_cmd_check_error_count@R: 1
+Metric/test_line_coverage_fraction@R: 0
+Metric/exports_help_coverage@R: 0.934436280233786
+Metric/test_expression_coverage_fraction@R: 0.9549690686214
+Metric/downloads_total@R: 972594
+Metric/help_pages_with_examples_count@R: 22
+Metric/has_recognized_source@R: TRUE
+Metric/help_examples_coverage@R: 0.696559744537808
+Metric/dependency_count@R: 7
+Metric/has_website@R: FALSE
+
+Package: faiR
+Version: 4.9.2
+Depends: R, deservingdynamicempowerment
+Imports: shiny.word, valsharper
+LinkingTo: momentousspectrallifesaver
+Suggests: jplyr, baRgain, Read, considerateglmtop, soplyr, reachablesmartfairness, easytable
+License: Phony License
+MD5sum: f0ae1288004f1ce5fbf9a59629417031
+Metric/lint_count@R: 7
+Metric/has_current_news@R: FALSE
+Metric/lint_free_fraction@R: 0.97691067091655
+Metric/cran_reverse_dependencies_count@R: 3
+Metric/vignette_count@R: 4
+Metric/r_cmd_check_error_count@R: 0
+Metric/test_line_coverage_fraction@R: 0.77066216958898
+Metric/exports_help_coverage@R: 0.892794855078682
+Metric/test_expression_coverage_fraction@R: 0.734779778081639
+Metric/downloads_total@R: 860
+Metric/help_pages_with_examples_count@R: 6
+Metric/has_recognized_source@R: TRUE
+Metric/help_examples_coverage@R: 0.695227494812571
+Metric/dependency_count@R: 5
+Metric/has_website@R: FALSE
+
+Package: colorConfidence
+Version: 2.6.6
+Depends: R, tidyfuzzyhooray, exubeRance
+Imports: joyousvalorR, deservingdynamicempowerment, dignitySurveyR, promotr, Rapturous, suRv, ggcuteness
+Suggests: momentousspectrallifesaver, jubilateTest, spatialgenoadvocate, roxyexcitedness, valsharper
+License: Phony License
+MD5sum: ed8a99d613f110259cc40dd556bf532b
+Metric/lint_count@R: 11
+Metric/has_current_news@R: TRUE
+Metric/lint_free_fraction@R: 0.910556629183702
+Metric/cran_reverse_dependencies_count@R: 2
+Metric/vignette_count@R: 4
+Metric/r_cmd_check_error_count@R: 0
+Metric/test_line_coverage_fraction@R: 0.129917260499192
+Metric/exports_help_coverage@R: 0.889368644636124
+Metric/test_expression_coverage_fraction@R: 0.841274502325348
+Metric/downloads_total@R: 3882
+Metric/help_pages_with_examples_count@R: 48
+Metric/has_recognized_source@R: TRUE
+Metric/help_examples_coverage@R: 0.717092808918096
+Metric/dependency_count@R: 10
+Metric/has_website@R: FALSE
+
+Package: jplyr
+Version: 3.7.2
+Depends: R, inventiveeasyfame, promotr
+License: Phony License
+MD5sum: 973cbcc86a09f2c4093902d846ef5e48
+Metric/lint_count@R: 10
+Metric/has_current_news@R: TRUE
+Metric/lint_free_fraction@R: 0.913263811310753
+Metric/cran_reverse_dependencies_count@R: 4
+Metric/vignette_count@R: 1
+Metric/r_cmd_check_error_count@R: 0
+Metric/test_line_coverage_fraction@R: 0.781419229538336
+Metric/exports_help_coverage@R: 0.809222760749981
+Metric/test_expression_coverage_fraction@R: 0
+Metric/downloads_total@R: 377570
+Metric/help_pages_with_examples_count@R: 48
+Metric/has_recognized_source@R: TRUE
+Metric/help_examples_coverage@R: 0.883801594376564
+Metric/dependency_count@R: 3
+Metric/has_website@R: FALSE
+
+Package: Rvalmodern
+Version: 0.4.2
+Depends: R, TrustingEloquence, Remedy, roxyexcitedness
+Imports: easytable
+LinkingTo: inventiveeasyfame
+Suggests: space.Survival, amicableexcitement, vividclarity, considerateglmtop, shinyhappieramazement
+License: Phony License
+MD5sum: 50fffd36b4ee177c10e8630cad64d7c3
+Metric/lint_count@R: 8
+Metric/has_current_news@R: FALSE
+Metric/lint_free_fraction@R: 0.990030882740393
+Metric/cran_reverse_dependencies_count@R: 6
+Metric/vignette_count@R: 2
+Metric/r_cmd_check_error_count@R: 1
+Metric/test_line_coverage_fraction@R: 0.13634478020042
+Metric/exports_help_coverage@R: 0.863086576107889
+Metric/test_expression_coverage_fraction@R: 0.530539909511501
+Metric/downloads_total@R: 10
+Metric/help_pages_with_examples_count@R: 13
+Metric/has_recognized_source@R: TRUE
+Metric/help_examples_coverage@R: 0.509282129933126
+Metric/dependency_count@R: 6
+Metric/has_website@R: FALSE
+
+Package: inventiveeasyfame
+Version: 2.2.5
+Depends: R, renownGlitter
+Imports: spatialgenoadvocate, suppoRt
+Suggests: shiny.word, easygoingshinyrespite, stunning.bargain
+License: Phony License
+MD5sum: 0e21849765c51e4347b80786da8b00be
+Metric/lint_count@R: 11
+Metric/has_current_news@R: FALSE
+Metric/lint_free_fraction@R: 0.726387179456651
+Metric/cran_reverse_dependencies_count@R: 1
+Metric/vignette_count@R: 2
+Metric/r_cmd_check_error_count@R: 0
+Metric/test_line_coverage_fraction@R: 0.910299447830374
+Metric/exports_help_coverage@R: 0.99656861810945
+Metric/test_expression_coverage_fraction@R: 0.998663863784631
+Metric/downloads_total@R: 697225
+Metric/help_pages_with_examples_count@R: 24
+Metric/has_recognized_source@R: TRUE
+Metric/help_examples_coverage@R: 0.668435521190986
+Metric/dependency_count@R: 4
+Metric/has_website@R: FALSE
+
+Package: unReal
+Version: 0.2.2
+Depends: R
+Imports: joyousvalorR, deservingdynamicempowerment, earnestnessSaver, valsharper
+Suggests: reclaimSurvey, flplyr
+License: Phony License
+MD5sum: 0985f6f46e060bbb971889e015cd07f4
+Metric/lint_count@R: 12
+Metric/has_current_news@R: TRUE
+Metric/lint_free_fraction@R: 0.974733358621597
+Metric/cran_reverse_dependencies_count@R: 2
+Metric/vignette_count@R: 4
+Metric/r_cmd_check_error_count@R: 0
+Metric/test_line_coverage_fraction@R: 0.857881091821257
+Metric/exports_help_coverage@R: 0.911434616474435
+Metric/test_expression_coverage_fraction@R: 0.333170098274038
+Metric/downloads_total@R: 231038
+Metric/help_pages_with_examples_count@R: 16
+Metric/has_recognized_source@R: TRUE
+Metric/help_examples_coverage@R: 0.840426045353524
+Metric/dependency_count@R: 5
+Metric/has_website@R: FALSE
+
+Package: INGENUITY.VIRTUE
+Version: 1.1.6
+Depends: R
+Imports: visdignity, jubilateTest, ggoverture, vishumility
+Suggests: integRal, Remedy
+License: Phony License
+MD5sum: 75cf8cb8b4c1502949edcc6a63b4916d
+Metric/lint_count@R: 11
+Metric/has_current_news@R: TRUE
+Metric/lint_free_fraction@R: 0.864975926978514
+Metric/cran_reverse_dependencies_count@R: 1
+Metric/vignette_count@R: 1
+Metric/r_cmd_check_error_count@R: 0
+Metric/test_line_coverage_fraction@R: 0.376086355704297
+Metric/exports_help_coverage@R: 0.943674879148602
+Metric/test_expression_coverage_fraction@R: 0.30241856164708
+Metric/downloads_total@R: 98547
+Metric/help_pages_with_examples_count@R: 36
+Metric/has_recognized_source@R: FALSE
+Metric/help_examples_coverage@R: 0.837146874866448
+Metric/dependency_count@R: 5
+Metric/has_website@R: FALSE
+
+Package: fluttr
+Version: 5.2.4
+Depends: R, space.Survival
+Imports: easyobsession, Romantic
+LinkingTo: smoothr, rightnessSurvey
+Suggests: cher, superiorhealthybreathlessness, amicableexcitement, maneuveRable
+License: Phony License
+MD5sum: b5328183a7a936699a36042dd28a78d3
+Metric/lint_count@R: 9
+Metric/has_current_news@R: FALSE
+Metric/lint_free_fraction@R: 0.748520543961786
+Metric/cran_reverse_dependencies_count@R: 1
+Metric/vignette_count@R: 2
+Metric/r_cmd_check_error_count@R: 0
+Metric/test_line_coverage_fraction@R: 0.53980787541149
+Metric/exports_help_coverage@R: 0.980695660319179
+Metric/test_expression_coverage_fraction@R: 0.994566751355717
+Metric/downloads_total@R: 139
+Metric/help_pages_with_examples_count@R: 17
+Metric/has_recognized_source@R: TRUE
+Metric/help_examples_coverage@R: 0.585821852786466
+Metric/dependency_count@R: 6
+Metric/has_website@R: FALSE
+
+Package: joyousvalorR
+Version: 3.5.1
+Depends: R, Romantic
+Imports: visdignity, dignitySurveyR, affirmativehottestbeloved, ggoverture, easygoingshinyrespite
+License: Phony License
+MD5sum: af8efc9d32a6d844533949b288ee8560
+Metric/lint_count@R: 5
+Metric/has_current_news@R: TRUE
+Metric/lint_free_fraction@R: 0.810901407687925
+Metric/cran_reverse_dependencies_count@R: 2
+Metric/vignette_count@R: 2
+Metric/r_cmd_check_error_count@R: 0
+Metric/test_line_coverage_fraction@R: 0.999990320037574
+Metric/exports_help_coverage@R: 0.885650589363649
+Metric/test_expression_coverage_fraction@R: 0.367385672028909
+Metric/downloads_total@R: 15864
+Metric/help_pages_with_examples_count@R: 36
+Metric/has_recognized_source@R: TRUE
+Metric/help_examples_coverage@R: 0.947189509868622
+Metric/dependency_count@R: 7
+Metric/has_website@R: FALSE
+
+Package: TrustingEloquence
+Version: 1.4.4
+Depends: R
+Imports: ggoverture, soplyr
+LinkingTo: suRv
+Suggests: deservingdynamicempowerment, integRal, richHeroR
+License: Phony License
+MD5sum: 623cc8f76937366ecad34607338af92b
+Metric/lint_count@R: 7
+Metric/has_current_news@R: FALSE
+Metric/lint_free_fraction@R: 0.894035755959339
+Metric/cran_reverse_dependencies_count@R: 1
+Metric/vignette_count@R: 3
+Metric/r_cmd_check_error_count@R: 1
+Metric/test_line_coverage_fraction@R: 0.856690511059842
+Metric/exports_help_coverage@R: 0.81619758522138
+Metric/test_expression_coverage_fraction@R: 0.113467419793612
+Metric/downloads_total@R: 4432
+Metric/help_pages_with_examples_count@R: 42
+Metric/has_recognized_source@R: TRUE
+Metric/help_examples_coverage@R: 0.699791768216528
+Metric/dependency_count@R: 4
+Metric/has_website@R: FALSE
+
+Package: visdignity
+Version: 2.3.6
+Depends: R, Rapturous
+Imports: easyobsession, dignitySurveyR, promotr, thRilling, industRious
+Suggests: Read, considerateglmtop, soplyr, easytable
+License: Phony License
+MD5sum: d1b321c8d2737e7ad496816b8c47bdb6
+Metric/lint_count@R: 13
+Metric/has_current_news@R: FALSE
+Metric/lint_free_fraction@R: 0.704091278114356
+Metric/cran_reverse_dependencies_count@R: 2
+Metric/vignette_count@R: 5
+Metric/r_cmd_check_error_count@R: 1
+Metric/test_line_coverage_fraction@R: 0.585205042273186
+Metric/exports_help_coverage@R: 0.910246404632926
+Metric/test_expression_coverage_fraction@R: 0.967062372433817
+Metric/downloads_total@R: 3832
+Metric/help_pages_with_examples_count@R: 27
+Metric/has_recognized_source@R: TRUE
+Metric/help_examples_coverage@R: 0.953636598656885
+Metric/dependency_count@R: 7
+Metric/has_website@R: FALSE
+
+Package: baRgain
+Version: 1.3-1
+Depends: R
+Imports: space.Survival
+LinkingTo: reclaimSurvey
+Suggests: adulation.Cohort, vividclarity, authoRitative, maneuveRable
+License: Phony License
+MD5sum: ed91ee58a587cc250c4e47091ba2cd79
+Metric/lint_count@R: 11
+Metric/has_current_news@R: TRUE
+Metric/lint_free_fraction@R: 0.980484763183631
+Metric/cran_reverse_dependencies_count@R: 3
+Metric/vignette_count@R: 1
+Metric/r_cmd_check_error_count@R: 2
+Metric/test_line_coverage_fraction@R: 0.752162360739719
+Metric/exports_help_coverage@R: 0.894945182232186
+Metric/test_expression_coverage_fraction@R: 0.906483623727764
+Metric/downloads_total@R: 77771
+Metric/help_pages_with_examples_count@R: 34
+Metric/has_recognized_source@R: TRUE
+Metric/help_examples_coverage@R: 0.546054597711191
+Metric/dependency_count@R: 3
+Metric/has_website@R: FALSE
+
+Package: easyhallmark
+Version: 0.2.3
+Depends: R, promotr, authoRitative
+Imports: integRal, momentousspectrallifesaver, reverenceNice, suRv
+Suggests: shiny.word, maneuveRable, valsharper
+License: Phony License
+MD5sum: f239bb3b91786136da7a56c86ea50b70
+Metric/lint_count@R: 12
+Metric/has_current_news@R: TRUE
+Metric/lint_free_fraction@R: 0.789977471204474
+Metric/cran_reverse_dependencies_count@R: 2
+Metric/vignette_count@R: 2
+Metric/r_cmd_check_error_count@R: 1
+Metric/test_line_coverage_fraction@R: 0.999937383061041
+Metric/exports_help_coverage@R: 0.982006208319217
+Metric/test_expression_coverage_fraction@R: 0.866482740714132
+Metric/downloads_total@R: 32710
+Metric/help_pages_with_examples_count@R: 45
+Metric/has_recognized_source@R: FALSE
+Metric/help_examples_coverage@R: 0.690060425549746
+Metric/dependency_count@R: 7
+Metric/has_website@R: FALSE
+
+Package: Respite
+Version: 1.5.2
+Depends: R
+Imports: enviousgrin, tidyfuzzyhooray, stunning.bargain
+Suggests: cher, bRainy, Romantic, shinyhappieramazement
+License: Phony License
+MD5sum: 90d4a462fe30f99ad2024f7918889404
+Metric/lint_count@R: 12
+Metric/has_current_news@R: TRUE
+Metric/lint_free_fraction@R: 0.901680360035971
+Metric/cran_reverse_dependencies_count@R: 1
+Metric/vignette_count@R: 3
+Metric/r_cmd_check_error_count@R: 0
+Metric/test_line_coverage_fraction@R: 0.685868893601739
+Metric/exports_help_coverage@R: 0.858981925202534
+Metric/test_expression_coverage_fraction@R: 0
+Metric/downloads_total@R: 2796
+Metric/help_pages_with_examples_count@R: 13
+Metric/has_recognized_source@R: TRUE
+Metric/help_examples_coverage@R: 0.928206051466987
+Metric/dependency_count@R: 4
+Metric/has_website@R: FALSE
+
+Package: cher
+Version: 3.4.4
+Depends: R, libeRation
+Imports: thRilling, renownGlitter, suRv
+Suggests: easyobsession, dignitySurveyR, superiorhealthybreathlessness, congenial.respite
+License: Phony License
+MD5sum: ff942309cd91e5193537b1418b1d4a7c
+Metric/lint_count@R: 12
+Metric/has_current_news@R: FALSE
+Metric/lint_free_fraction@R: 0.962453487073071
+Metric/cran_reverse_dependencies_count@R: 1
+Metric/vignette_count@R: 4
+Metric/r_cmd_check_error_count@R: 0
+Metric/test_line_coverage_fraction@R: 0.275588070574026
+Metric/exports_help_coverage@R: 0.872995598195121
+Metric/test_expression_coverage_fraction@R: 0.994884809479729
+Metric/downloads_total@R: 33272
+Metric/help_pages_with_examples_count@R: 24
+Metric/has_recognized_source@R: FALSE
+Metric/help_examples_coverage@R: 0.52940572029911
+Metric/dependency_count@R: 5
+Metric/has_website@R: FALSE
+
+Package: easyobsession
+Version: 3.9.5
+Depends: R, stunning.bargain
+Imports: impaRtiality, easytable
+LinkingTo: rightnessSurvey
+Suggests: solaceCluster, reverenceNice
+License: Phony License
+MD5sum: 2ffa73e1485ba89e3d671e511c1ee094
+Metric/lint_count@R: 10
+Metric/has_current_news@R: TRUE
+Metric/lint_free_fraction@R: 0.957963923830539
+Metric/cran_reverse_dependencies_count@R: 0
+Metric/vignette_count@R: 4
+Metric/r_cmd_check_error_count@R: 0
+Metric/test_line_coverage_fraction@R: 0.990379352446671
+Metric/exports_help_coverage@R: 0.948292654566467
+Metric/test_expression_coverage_fraction@R: 0.715698087960317
+Metric/downloads_total@R: 215358
+Metric/help_pages_with_examples_count@R: 13
+Metric/has_recognized_source@R: TRUE
+Metric/help_examples_coverage@R: 0.996960578835569
+Metric/dependency_count@R: 5
+Metric/has_website@R: FALSE
+
+Package: deservingdynamicempowerment
+Version: 6.4
+Depends: R
+Imports: survivalSurvival
+Suggests: spatialgenoadvocate, vividclarity, thRilling, industRious
+License: Phony License
+MD5sum: 0e5fddc6b316b894801b229e9f4c20a8
+Metric/lint_count@R: 12
+Metric/has_current_news@R: FALSE
+Metric/lint_free_fraction@R: 0.865243274276145
+Metric/cran_reverse_dependencies_count@R: 4
+Metric/vignette_count@R: 2
+Metric/r_cmd_check_error_count@R: 0
+Metric/test_line_coverage_fraction@R: 0.842419753469947
+Metric/exports_help_coverage@R: 0.951603333093226
+Metric/test_expression_coverage_fraction@R: 0.998189998177291
+Metric/downloads_total@R: 50
+Metric/help_pages_with_examples_count@R: 43
+Metric/has_recognized_source@R: TRUE
+Metric/help_examples_coverage@R: 0.875639168429188
+Metric/dependency_count@R: 2
+Metric/has_website@R: FALSE
+
+Package: space.Survival
+Version: 4.2.4
+Depends: R
+Imports: reclaimSurvey, exubeRance
+Suggests: stunning.bargain, easytable
+License: Phony License
+MD5sum: aea48654e07f9864143afbdc1caa6261
+Metric/lint_count@R: 12
+Metric/has_current_news@R: FALSE
+Metric/lint_free_fraction@R: 0.801910520275123
+Metric/cran_reverse_dependencies_count@R: 0
+Metric/vignette_count@R: 3
+Metric/r_cmd_check_error_count@R: 0
+Metric/test_line_coverage_fraction@R: 0
+Metric/exports_help_coverage@R: 0.85687256064266
+Metric/test_expression_coverage_fraction@R: 0.993815547313106
+Metric/downloads_total@R: 107
+Metric/help_pages_with_examples_count@R: 26
+Metric/has_recognized_source@R: TRUE
+Metric/help_examples_coverage@R: 0.65820526285097
+Metric/dependency_count@R: 3
+Metric/has_website@R: FALSE
+
+Package: integRal
+Version: 3.0.3
+Depends: R
+Imports: rightnessSurvey, laud.Illuminate, DextrousSwift
+Suggests: impaRtiality, valrosy
+License: Phony License
+MD5sum: 68c923364e43abadbb76c5b7e01bef94
+Metric/lint_count@R: 7
+Metric/has_current_news@R: TRUE
+Metric/lint_free_fraction@R: 0.717911818134598
+Metric/cran_reverse_dependencies_count@R: 1
+Metric/vignette_count@R: 4
+Metric/r_cmd_check_error_count@R: 0
+Metric/test_line_coverage_fraction@R: 0.756795744575783
+Metric/exports_help_coverage@R: 0.978235690621659
+Metric/test_expression_coverage_fraction@R: 0.348449463703555
+Metric/downloads_total@R: 85
+Metric/help_pages_with_examples_count@R: 23
+Metric/has_recognized_source@R: TRUE
+Metric/help_examples_coverage@R: 0.52863726997748
+Metric/dependency_count@R: 4
+Metric/has_website@R: FALSE
+
+Package: bRainy
+Version: 3.3-1
+Depends: R, valrosy
+Imports: Remedy, vividclarity
+Suggests: earnestnessSaver, smoothr
+License: Phony License
+MD5sum: bc144ad71bc6eb805470b766b20d7e85
+Metric/lint_count@R: 14
+Metric/has_current_news@R: TRUE
+Metric/lint_free_fraction@R: 0.750286167906597
+Metric/cran_reverse_dependencies_count@R: 1
+Metric/vignette_count@R: 0
+Metric/r_cmd_check_error_count@R: 1
+Metric/test_line_coverage_fraction@R: 0.899187473922106
+Metric/exports_help_coverage@R: 0.880504767457023
+Metric/test_expression_coverage_fraction@R: 0.958485728175456
+Metric/downloads_total@R: 1026852
+Metric/help_pages_with_examples_count@R: 36
+Metric/has_recognized_source@R: FALSE
+Metric/help_examples_coverage@R: 0.83662909688428
+Metric/dependency_count@R: 4
+Metric/has_website@R: FALSE
+
+Package: Read
+Version: 1.5.5
+Depends: R, shiny.word
+Imports: survivalSurvival, flplyr
+License: Phony License
+MD5sum: 795a5b6f68315a8bb1b6d95a5f01b94d
+Metric/lint_count@R: 8
+Metric/has_current_news@R: FALSE
+Metric/lint_free_fraction@R: 0.816050104936585
+Metric/cran_reverse_dependencies_count@R: 4
+Metric/vignette_count@R: 2
+Metric/r_cmd_check_error_count@R: 0
+Metric/test_line_coverage_fraction@R: 0
+Metric/exports_help_coverage@R: 0.897562431823462
+Metric/test_expression_coverage_fraction@R: 0.797856613242474
+Metric/downloads_total@R: 83
+Metric/help_pages_with_examples_count@R: 32
+Metric/has_recognized_source@R: FALSE
+Metric/help_examples_coverage@R: 0.850717124762014
+Metric/dependency_count@R: 4
+Metric/has_website@R: FALSE
+
+Package: momentousspectrallifesaver
+Version: 0.1.9
+Depends: R
+Imports: conciliatoRy
+Suggests: dataRicher, ggcuteness
+License: Phony License
+MD5sum: ababcd4514a56a84ac631faa1ea8c80f
+Metric/lint_count@R: 7
+Metric/has_current_news@R: FALSE
+Metric/lint_free_fraction@R: 0.72837569322437
+Metric/cran_reverse_dependencies_count@R: 2
+Metric/vignette_count@R: 3
+Metric/r_cmd_check_error_count@R: 1
+Metric/test_line_coverage_fraction@R: 0.608430349147424
+Metric/exports_help_coverage@R: 0.927467426937074
+Metric/test_expression_coverage_fraction@R: 0.889856963355769
+Metric/downloads_total@R: 9610
+Metric/help_pages_with_examples_count@R: 42
+Metric/has_recognized_source@R: TRUE
+Metric/help_examples_coverage@R: 0.985023000161164
+Metric/dependency_count@R: 2
+Metric/has_website@R: FALSE
+
+Package: dignitySurveyR
+Version: 3.2.6
+Depends: R
+Imports: authoRitative, shiny.word, reachablesmartfairness, maneuveRable
+Suggests: promotr, amicableexcitement, dataRicher, renownGlitter, Rapturous, easygoingshinyrespite
+License: Phony License
+MD5sum: f9d35aaa3e6fcaf8222335167d13cbac
+Metric/lint_count@R: 10
+Metric/has_current_news@R: TRUE
+Metric/lint_free_fraction@R: 0.868713937629946
+Metric/cran_reverse_dependencies_count@R: 1
+Metric/vignette_count@R: 3
+Metric/r_cmd_check_error_count@R: 0
+Metric/test_line_coverage_fraction@R: 0.999998987325789
+Metric/exports_help_coverage@R: 0.970730493497103
+Metric/test_expression_coverage_fraction@R: 0.703206239715674
+Metric/downloads_total@R: 64
+Metric/help_pages_with_examples_count@R: 13
+Metric/has_recognized_source@R: TRUE
+Metric/help_examples_coverage@R: 0.937096928711981
+Metric/dependency_count@R: 5
+Metric/has_website@R: FALSE
+
+Package: earnestnessSaver
+Version: 2.1.0
+Depends: R
+Imports: affable.time, considerateglmtop, libeRation
+Suggests: vividclarity, rightnessSurvey, enviousgrin, easytable
+License: Phony License
+MD5sum: a5df1bfb041630974bf4c07245b45198
+Metric/lint_count@R: 6
+Metric/has_current_news@R: FALSE
+Metric/lint_free_fraction@R: 0.813887620577589
+Metric/cran_reverse_dependencies_count@R: 2
+Metric/vignette_count@R: 3
+Metric/r_cmd_check_error_count@R: 0
+Metric/test_line_coverage_fraction@R: 0.0794890282651952
+Metric/exports_help_coverage@R: 0.931119051203132
+Metric/test_expression_coverage_fraction@R: 0.604304924040825
+Metric/downloads_total@R: 1485
+Metric/help_pages_with_examples_count@R: 10
+Metric/has_recognized_source@R: TRUE
+Metric/help_examples_coverage@R: 0.660122651373968
+Metric/dependency_count@R: 4
+Metric/has_website@R: FALSE
+
+Package: superiorhealthybreathlessness
+Version: 3.4.5
+Depends: R, authoRitative
+Imports: roxyexcitedness, thRilling, stunning.bargain
+Suggests: vishumility
+License: Phony License
+MD5sum: 9893c369cbf2ecf8b0d2b5d5300144dd
+Metric/lint_count@R: 10
+Metric/has_current_news@R: TRUE
+Metric/lint_free_fraction@R: 0.926873272028752
+Metric/cran_reverse_dependencies_count@R: 1
+Metric/vignette_count@R: 1
+Metric/r_cmd_check_error_count@R: 1
+Metric/test_line_coverage_fraction@R: 0.979540576028716
+Metric/exports_help_coverage@R: 0.912432739650831
+Metric/test_expression_coverage_fraction@R: 0.765759074300709
+Metric/downloads_total@R: 108
+Metric/help_pages_with_examples_count@R: 21
+Metric/has_recognized_source@R: TRUE
+Metric/help_examples_coverage@R: 0.690373372402973
+Metric/dependency_count@R: 5
+Metric/has_website@R: FALSE
+
+Package: impaRtiality
+Version: 5.3.2
+Depends: R
+Imports: pRosper, affable.time, Rapturous, astoundingeager
+LinkingTo: enviousgrin
+Suggests: ggoverture, suRv
+License: Phony License
+MD5sum: b8359b955447a170b208a97ce5123bd1
+Metric/lint_count@R: 10
+Metric/has_current_news@R: TRUE
+Metric/lint_free_fraction@R: 0.764319818653166
+Metric/cran_reverse_dependencies_count@R: 2
+Metric/vignette_count@R: 4
+Metric/r_cmd_check_error_count@R: 0
+Metric/test_line_coverage_fraction@R: 0.377209124770348
+Metric/exports_help_coverage@R: 0.966253146808594
+Metric/test_expression_coverage_fraction@R: 0
+Metric/downloads_total@R: 3733
+Metric/help_pages_with_examples_count@R: 43
+Metric/has_recognized_source@R: FALSE
+Metric/help_examples_coverage@R: 0.68220417574048
+Metric/dependency_count@R: 6
+Metric/has_website@R: FALSE
+
+Package: adulation.Cohort
+Version: 2.10.2
+Depends: R
+Imports: flplyr, suRv, reachablesmartfairness
+LinkingTo: easygoingshinyrespite
+Suggests: thRilling
+License: Phony License
+MD5sum: 3b55e17fb97449b153d7955532267b90
+Metric/lint_count@R: 11
+Metric/has_current_news@R: TRUE
+Metric/lint_free_fraction@R: 0.827818893361837
+Metric/cran_reverse_dependencies_count@R: 0
+Metric/vignette_count@R: 3
+Metric/r_cmd_check_error_count@R: 0
+Metric/test_line_coverage_fraction@R: 0.377645555882222
+Metric/exports_help_coverage@R: 0.846527167782188
+Metric/test_expression_coverage_fraction@R: 0
+Metric/downloads_total@R: 24560
+Metric/help_pages_with_examples_count@R: 44
+Metric/has_recognized_source@R: TRUE
+Metric/help_examples_coverage@R: 0.755742148612626
+Metric/dependency_count@R: 5
+Metric/has_website@R: FALSE
+
+Package: pRosper
+Version: 3.2.0
+Depends: R, considerateglmtop, Romantic
+Imports: ggoverture, vishumility, suRv
+License: Phony License
+MD5sum: c736cd4d7d88a68a27e756d0c6d4ce92
+Metric/lint_count@R: 12
+Metric/has_current_news@R: FALSE
+Metric/lint_free_fraction@R: 0.892871117265895
+Metric/cran_reverse_dependencies_count@R: 4
+Metric/vignette_count@R: 1
+Metric/r_cmd_check_error_count@R: 2
+Metric/test_line_coverage_fraction@R: 0.469763747114891
+Metric/exports_help_coverage@R: 0.805033412249759
+Metric/test_expression_coverage_fraction@R: 0.214309090795647
+Metric/downloads_total@R: 21
+Metric/help_pages_with_examples_count@R: 23
+Metric/has_recognized_source@R: TRUE
+Metric/help_examples_coverage@R: 0.790317322476767
+Metric/dependency_count@R: 6
+Metric/has_website@R: FALSE
+
+Package: jubilateTest
+Version: 2.2.2
+Depends: R, promotr, industRious, tidyfuzzyhooray
+Imports: affirmativehottestbeloved, roxyexcitedness
+Suggests: authoRitative, valsharper
+License: Phony License
+MD5sum: 2a55f6b7ec8edd83322996b94a7052e2
+Metric/lint_count@R: 8
+Metric/has_current_news@R: FALSE
+Metric/lint_free_fraction@R: 0.743839548528194
+Metric/cran_reverse_dependencies_count@R: 3
+Metric/vignette_count@R: 2
+Metric/r_cmd_check_error_count@R: 0
+Metric/test_line_coverage_fraction@R: 0.914420057340881
+Metric/exports_help_coverage@R: 0.815238146809861
+Metric/test_expression_coverage_fraction@R: 0
+Metric/downloads_total@R: 15
+Metric/help_pages_with_examples_count@R: 11
+Metric/has_recognized_source@R: TRUE
+Metric/help_examples_coverage@R: 0.731584392022341
+Metric/dependency_count@R: 6
+Metric/has_website@R: FALSE
+
+Package: promotr
+Version: 1.6.1
+Depends: R
+License: Phony License
+MD5sum: 20ce06e5dfe1f572722876a6cd2c2262
+Metric/lint_count@R: 7
+Metric/has_current_news@R: FALSE
+Metric/lint_free_fraction@R: 0.717801148723811
+Metric/cran_reverse_dependencies_count@R: 1
+Metric/vignette_count@R: 4
+Metric/r_cmd_check_error_count@R: 0
+Metric/test_line_coverage_fraction@R: 0.997553811581994
+Metric/exports_help_coverage@R: 0.846866847760975
+Metric/test_expression_coverage_fraction@R: 0.994468872340471
+Metric/downloads_total@R: 98309
+Metric/help_pages_with_examples_count@R: 19
+Metric/has_recognized_source@R: TRUE
+Metric/help_examples_coverage@R: 0.771058387006633
+Metric/dependency_count@R: 1
+Metric/has_website@R: FALSE
+
+Package: Remedy
+Version: 1.2.5
+Depends: R
+Imports: amicableexcitement, rightnessSurvey, tidyfuzzyhooray
+Suggests: stunning.bargain, Romantic
+License: Phony License
+MD5sum: e7ab27ba3d634c4bd214ce46b7aae1c3
+Metric/lint_count@R: 10
+Metric/has_current_news@R: FALSE
+Metric/lint_free_fraction@R: 0.739189800200984
+Metric/cran_reverse_dependencies_count@R: 0
+Metric/vignette_count@R: 3
+Metric/r_cmd_check_error_count@R: 1
+Metric/test_line_coverage_fraction@R: 0.624379790346504
+Metric/exports_help_coverage@R: 0.804085342166945
+Metric/test_expression_coverage_fraction@R: 0.670729573116371
+Metric/downloads_total@R: 102951
+Metric/help_pages_with_examples_count@R: 37
+Metric/has_recognized_source@R: TRUE
+Metric/help_examples_coverage@R: 0.713503476814367
+Metric/dependency_count@R: 4
+Metric/has_website@R: FALSE
+
+Package: affable.time
+Version: 2.6.8
+Depends: R
+Imports: enviousgrin, easytable
+Suggests: industRious
+License: Phony License
+MD5sum: 660e03fb7b3a444ba5f497471d8dd96f
+Metric/lint_count@R: 8
+Metric/has_current_news@R: TRUE
+Metric/lint_free_fraction@R: 0.73599495308008
+Metric/cran_reverse_dependencies_count@R: 1
+Metric/vignette_count@R: 4
+Metric/r_cmd_check_error_count@R: 0
+Metric/test_line_coverage_fraction@R: 0.920097715667047
+Metric/exports_help_coverage@R: 0.808699237927795
+Metric/test_expression_coverage_fraction@R: 0.885998995574271
+Metric/downloads_total@R: 126
+Metric/help_pages_with_examples_count@R: 48
+Metric/has_recognized_source@R: TRUE
+Metric/help_examples_coverage@R: 0.736509624170139
+Metric/dependency_count@R: 3
+Metric/has_website@R: FALSE
+
+Package: spatialgenoadvocate
+Version: 0.4-0
+Depends: R, DextrousSwift
+License: Phony License
+MD5sum: f4855708971d4db51cfc83555d6477c5
+Metric/lint_count@R: 13
+Metric/has_current_news@R: FALSE
+Metric/lint_free_fraction@R: 0.984404379152693
+Metric/cran_reverse_dependencies_count@R: 4
+Metric/vignette_count@R: 4
+Metric/r_cmd_check_error_count@R: 0
+Metric/test_line_coverage_fraction@R: 0.555479311878744
+Metric/exports_help_coverage@R: 0.825394176039845
+Metric/test_expression_coverage_fraction@R: 0.847514499517531
+Metric/downloads_total@R: 38153
+Metric/help_pages_with_examples_count@R: 15
+Metric/has_recognized_source@R: TRUE
+Metric/help_examples_coverage@R: 0.884936711634509
+Metric/dependency_count@R: 2
+Metric/has_website@R: FALSE
+
+Package: affirmativehottestbeloved
+Version: 3.4.2
+Depends: R, amicableexcitement, Romantic
+Imports: DextrousSwift, maneuveRable
+Suggests: solaceCluster, laud.Illuminate, suRv
+License: Phony License
+MD5sum: 2d8e17480a974a33207e25850e8ac95c
+Metric/lint_count@R: 16
+Metric/has_current_news@R: FALSE
+Metric/lint_free_fraction@R: 0.74539257674478
+Metric/cran_reverse_dependencies_count@R: 1
+Metric/vignette_count@R: 4
+Metric/r_cmd_check_error_count@R: 0
+Metric/test_line_coverage_fraction@R: 0.838554358724452
+Metric/exports_help_coverage@R: 0.825924062309787
+Metric/test_expression_coverage_fraction@R: 0.980957111253799
+Metric/downloads_total@R: 318139
+Metric/help_pages_with_examples_count@R: 15
+Metric/has_recognized_source@R: TRUE
+Metric/help_examples_coverage@R: 0.764116647304036
+Metric/dependency_count@R: 5
+Metric/has_website@R: FALSE
+
+Package: finr
+Version: 5.3.4
+Depends: R
+Imports: laud.Illuminate, renownGlitter
+LinkingTo: suppoRt
+Suggests: considerateglmtop, tidyfuzzyhooray
+License: Phony License
+MD5sum: 613f05c8d6c1f6d250e434340290e9f1
+Metric/lint_count@R: 13
+Metric/has_current_news@R: FALSE
+Metric/lint_free_fraction@R: 0.704082475160249
+Metric/cran_reverse_dependencies_count@R: 2
+Metric/vignette_count@R: 3
+Metric/r_cmd_check_error_count@R: 0
+Metric/test_line_coverage_fraction@R: 0.754524443235533
+Metric/exports_help_coverage@R: 0.896293158410117
+Metric/test_expression_coverage_fraction@R: 0.999941283626507
+Metric/downloads_total@R: 3460
+Metric/help_pages_with_examples_count@R: 44
+Metric/has_recognized_source@R: TRUE
+Metric/help_examples_coverage@R: 0.76577285269741
+Metric/dependency_count@R: 4
+Metric/has_website@R: FALSE
+
+Package: richHeroR
+Version: 4.3.2
+Depends: R, stunning.bargain
+Imports: easygoingshinyrespite
+Suggests: authoRitative, easytable
+License: Phony License
+MD5sum: b7885435bf67cdea50d672db9a305830
+Metric/lint_count@R: 10
+Metric/has_current_news@R: TRUE
+Metric/lint_free_fraction@R: 0.999617967731319
+Metric/cran_reverse_dependencies_count@R: 3
+Metric/vignette_count@R: 4
+Metric/r_cmd_check_error_count@R: 0
+Metric/test_line_coverage_fraction@R: 0.434897439187953
+Metric/exports_help_coverage@R: 0.850926694646478
+Metric/test_expression_coverage_fraction@R: 0.45745602682547
+Metric/downloads_total@R: 319
+Metric/help_pages_with_examples_count@R: 33
+Metric/has_recognized_source@R: TRUE
+Metric/help_examples_coverage@R: 0.782204930786975
+Metric/dependency_count@R: 3
+Metric/has_website@R: FALSE
+
+Package: valrosy
+Version: 1.5.5
+Depends: R
+Imports: thRilling, reclaimSurvey
+Suggests: roxyexcitedness
+License: Phony License
+MD5sum: 8f6d3cd9d170048740ecfa1132948b10
+Metric/lint_count@R: 8
+Metric/has_current_news@R: FALSE
+Metric/lint_free_fraction@R: 0.944979678839445
+Metric/cran_reverse_dependencies_count@R: 2
+Metric/vignette_count@R: 1
+Metric/r_cmd_check_error_count@R: 0
+Metric/test_line_coverage_fraction@R: 0.661777331062956
+Metric/exports_help_coverage@R: 0.900643737660721
+Metric/test_expression_coverage_fraction@R: 0.925220629180301
+Metric/downloads_total@R: 418
+Metric/help_pages_with_examples_count@R: 21
+Metric/has_recognized_source@R: TRUE
+Metric/help_examples_coverage@R: 0.59594817541074
+Metric/dependency_count@R: 3
+Metric/has_website@R: FALSE
+
+Package: smoothr
+Version: 6.7.8
+Depends: R
+Imports: suppoRt
+Suggests: survivalSurvival
+License: Phony License
+MD5sum: 613d6fc435b286316bef15d719542816
+Metric/lint_count@R: 10
+Metric/has_current_news@R: FALSE
+Metric/lint_free_fraction@R: 0.747715188353322
+Metric/cran_reverse_dependencies_count@R: 0
+Metric/vignette_count@R: 5
+Metric/r_cmd_check_error_count@R: 0
+Metric/test_line_coverage_fraction@R: 0.918240633767229
+Metric/exports_help_coverage@R: 0.906015308946371
+Metric/test_expression_coverage_fraction@R: 0.453441649271078
+Metric/downloads_total@R: 51
+Metric/help_pages_with_examples_count@R: 6
+Metric/has_recognized_source@R: TRUE
+Metric/help_examples_coverage@R: 0.605071049183607
+Metric/dependency_count@R: 2
+Metric/has_website@R: FALSE
+
+Package: amicableexcitement
+Version: 1.1.5
+Depends: R, tidyfuzzyhooray
+LinkingTo: considerateglmtop
+Suggests: libeRation
+License: Phony License
+MD5sum: 9248f0277dd426b72f185bcfe699dc2e
+Metric/lint_count@R: 8
+Metric/has_current_news@R: FALSE
+Metric/lint_free_fraction@R: 0.80750255426392
+Metric/cran_reverse_dependencies_count@R: 1
+Metric/vignette_count@R: 2
+Metric/r_cmd_check_error_count@R: 0
+Metric/test_line_coverage_fraction@R: 0.308561773973115
+Metric/exports_help_coverage@R: 0.997833047946915
+Metric/test_expression_coverage_fraction@R: 0.887926103941166
+Metric/downloads_total@R: 20642
+Metric/help_pages_with_examples_count@R: 21
+Metric/has_recognized_source@R: FALSE
+Metric/help_examples_coverage@R: 0.830495478119701
+Metric/dependency_count@R: 3
+Metric/has_website@R: FALSE
+
+Package: roxyexcitedness
+Version: 3.5
+Depends: R
+Imports: survivalSurvival, DextrousSwift
+LinkingTo: easytable
+Suggests: flplyr, stunning.bargain
+License: Phony License
+MD5sum: 0731ce4b38dc40a1386f994e7101e572
+Metric/lint_count@R: 8
+Metric/has_current_news@R: TRUE
+Metric/lint_free_fraction@R: 0.851262104511261
+Metric/cran_reverse_dependencies_count@R: 1
+Metric/vignette_count@R: 3
+Metric/r_cmd_check_error_count@R: 0
+Metric/test_line_coverage_fraction@R: 0.452344691584889
+Metric/exports_help_coverage@R: 0.823288281587884
+Metric/test_expression_coverage_fraction@R: 0.0719882774725212
+Metric/downloads_total@R: 262233
+Metric/help_pages_with_examples_count@R: 15
+Metric/has_recognized_source@R: FALSE
+Metric/help_examples_coverage@R: 0.722119540208951
+Metric/dependency_count@R: 4
+Metric/has_website@R: FALSE
+
+Package: vividclarity
+Version: 7.9-4
+Depends: R
+Suggests: thRilling, tidyfuzzyhooray, Romantic, maneuveRable
+License: Phony License
+MD5sum: 93831fb8f635572cca02a3e9e64b3486
+Metric/lint_count@R: 13
+Metric/has_current_news@R: FALSE
+Metric/lint_free_fraction@R: 0.785393784078769
+Metric/cran_reverse_dependencies_count@R: 2
+Metric/vignette_count@R: 2
+Metric/r_cmd_check_error_count@R: 0
+Metric/test_line_coverage_fraction@R: 0.658524480583014
+Metric/exports_help_coverage@R: 0.851329297060147
+Metric/test_expression_coverage_fraction@R: 0.377618636679192
+Metric/downloads_total@R: 25868
+Metric/help_pages_with_examples_count@R: 25
+Metric/has_recognized_source@R: TRUE
+Metric/help_examples_coverage@R: 0.543161220266484
+Metric/dependency_count@R: 1
+Metric/has_website@R: FALSE
+
+Package: solaceCluster
+Version: 1.4
+Depends: R
+Imports: libeRation, Romantic
+Suggests: suppoRt, flplyr, stunning.bargain
+License: Phony License
+MD5sum: 117413f72155a0e13b2170f283a57b8e
+Metric/lint_count@R: 8
+Metric/has_current_news@R: FALSE
+Metric/lint_free_fraction@R: 0.734418158605695
+Metric/cran_reverse_dependencies_count@R: 0
+Metric/vignette_count@R: 3
+Metric/r_cmd_check_error_count@R: 0
+Metric/test_line_coverage_fraction@R: 0
+Metric/exports_help_coverage@R: 0.867682962259278
+Metric/test_expression_coverage_fraction@R: 0.938814303687887
+Metric/downloads_total@R: 85336
+Metric/help_pages_with_examples_count@R: 8
+Metric/has_recognized_source@R: TRUE
+Metric/help_examples_coverage@R: 0.528077452210709
+Metric/dependency_count@R: 3
+Metric/has_website@R: FALSE
+
+Package: rightnessSurvey
+Version: 4.4.7
+Depends: R
+Imports: ggoverture
+Suggests: renownGlitter, astoundingeager, reverenceNice
+License: Phony License
+MD5sum: f7aafb3b4e941ef42bd7a0265a5ca924
+Metric/lint_count@R: 15
+Metric/has_current_news@R: TRUE
+Metric/lint_free_fraction@R: 0.884559444524348
+Metric/cran_reverse_dependencies_count@R: 4
+Metric/vignette_count@R: 4
+Metric/r_cmd_check_error_count@R: 0
+Metric/test_line_coverage_fraction@R: 0.974419748027049
+Metric/exports_help_coverage@R: 0.815409707231447
+Metric/test_expression_coverage_fraction@R: 0.703213352507846
+Metric/downloads_total@R: 36984
+Metric/help_pages_with_examples_count@R: 47
+Metric/has_recognized_source@R: TRUE
+Metric/help_examples_coverage@R: 0.91292643325869
+Metric/dependency_count@R: 2
+Metric/has_website@R: FALSE
+
+Package: considerateglmtop
+Version: 1.1
+Depends: R
+Suggests: reverenceNice
+License: Phony License
+MD5sum: 5edb64f2715e456234ae28bc68b54bc7
+Metric/lint_count@R: 13
+Metric/has_current_news@R: FALSE
+Metric/lint_free_fraction@R: 0.716054697404616
+Metric/cran_reverse_dependencies_count@R: 5
+Metric/vignette_count@R: 3
+Metric/r_cmd_check_error_count@R: 0
+Metric/test_line_coverage_fraction@R: 0.866658746317054
+Metric/exports_help_coverage@R: 0.94353852244094
+Metric/test_expression_coverage_fraction@R: 0.970189979971917
+Metric/downloads_total@R: 221517
+Metric/help_pages_with_examples_count@R: 50
+Metric/has_recognized_source@R: TRUE
+Metric/help_examples_coverage@R: 0.871901633450761
+Metric/dependency_count@R: 1
+Metric/has_website@R: FALSE
+
+Package: congenial.respite
+Version: 2.2.4
+Depends: R
+License: Phony License
+MD5sum: be9cb167ef0d2b0f93179c22858d9f7c
+Metric/lint_count@R: 13
+Metric/has_current_news@R: FALSE
+Metric/lint_free_fraction@R: 0.980644588684663
+Metric/cran_reverse_dependencies_count@R: 0
+Metric/vignette_count@R: 0
+Metric/r_cmd_check_error_count@R: 0
+Metric/test_line_coverage_fraction@R: 0.229672314943511
+Metric/exports_help_coverage@R: 0.865381020121276
+Metric/test_expression_coverage_fraction@R: 0.715188039098758
+Metric/downloads_total@R: 1108
+Metric/help_pages_with_examples_count@R: 46
+Metric/has_recognized_source@R: TRUE
+Metric/help_examples_coverage@R: 0.97820821555797
+Metric/dependency_count@R: 1
+Metric/has_website@R: FALSE
+
+Package: suppoRt
+Version: 1.6
+Depends: R
+License: Phony License
+MD5sum: 382842198e43fab829196a4e383e1532
+Metric/lint_count@R: 11
+Metric/has_current_news@R: FALSE
+Metric/lint_free_fraction@R: 0.882821026840247
+Metric/cran_reverse_dependencies_count@R: 2
+Metric/vignette_count@R: 5
+Metric/r_cmd_check_error_count@R: 0
+Metric/test_line_coverage_fraction@R: 0.978866151111404
+Metric/exports_help_coverage@R: 0.81159951784648
+Metric/test_expression_coverage_fraction@R: 0.99252900888027
+Metric/downloads_total@R: 79
+Metric/help_pages_with_examples_count@R: 20
+Metric/has_recognized_source@R: TRUE
+Metric/help_examples_coverage@R: 0.899972524610348
+Metric/dependency_count@R: 1
+Metric/has_website@R: FALSE
+
+Package: dataRicher
+Version: 0.8.8
+Depends: R
+Imports: authoRitative, soplyr, reachablesmartfairness
+License: Phony License
+MD5sum: 2c7d2baf666c1af978517682f3fa8f23
+Metric/lint_count@R: 9
+Metric/has_current_news@R: FALSE
+Metric/lint_free_fraction@R: 0.990717901661992
+Metric/cran_reverse_dependencies_count@R: 2
+Metric/vignette_count@R: 3
+Metric/r_cmd_check_error_count@R: 0
+Metric/test_line_coverage_fraction@R: 0.810251593709166
+Metric/exports_help_coverage@R: 0.831488214666024
+Metric/test_expression_coverage_fraction@R: 0.884109814191233
+Metric/downloads_total@R: 95141
+Metric/help_pages_with_examples_count@R: 22
+Metric/has_recognized_source@R: FALSE
+Metric/help_examples_coverage@R: 0.564700482063927
+Metric/dependency_count@R: 4
+Metric/has_website@R: FALSE
+
+Package: laud.Illuminate
+Version: 2.2.1
+Depends: R, thRilling
+Imports: survivalSurvival, valsharper
+Suggests: authoRitative, shiny.word, tidyfuzzyhooray, stunning.bargain, easytable
+License: Phony License
+MD5sum: cedb2685d89b8e40298d6e51460b96fb
+Metric/lint_count@R: 10
+Metric/has_current_news@R: TRUE
+Metric/lint_free_fraction@R: 0.916979623259977
+Metric/cran_reverse_dependencies_count@R: 4
+Metric/vignette_count@R: 3
+Metric/r_cmd_check_error_count@R: 0
+Metric/test_line_coverage_fraction@R: 0.996179456174834
+Metric/exports_help_coverage@R: 0.883863570634276
+Metric/test_expression_coverage_fraction@R: 0.854708684091088
+Metric/downloads_total@R: 13596
+Metric/help_pages_with_examples_count@R: 23
+Metric/has_recognized_source@R: TRUE
+Metric/help_examples_coverage@R: 0.550170794478618
+Metric/dependency_count@R: 4
+Metric/has_website@R: FALSE
+
+Package: ggoverture
+Version: 3.1.2
+Depends: R, DextrousSwift
+License: Phony License
+MD5sum: 0db0848760da09c87a70ed543675fcaf
+Metric/lint_count@R: 14
+Metric/has_current_news@R: TRUE
+Metric/lint_free_fraction@R: 0.816172560700215
+Metric/cran_reverse_dependencies_count@R: 1
+Metric/vignette_count@R: 3
+Metric/r_cmd_check_error_count@R: 1
+Metric/test_line_coverage_fraction@R: 0.775760087102731
+Metric/exports_help_coverage@R: 0.931200673105195
+Metric/test_expression_coverage_fraction@R: 0.892457548076095
+Metric/downloads_total@R: 52
+Metric/help_pages_with_examples_count@R: 29
+Metric/has_recognized_source@R: TRUE
+Metric/help_examples_coverage@R: 0.796253250679001
+Metric/dependency_count@R: 2
+Metric/has_website@R: FALSE
+
+Package: survivalSurvival
+Version: 2.0.0
+Depends: R, Romantic
+Imports: DextrousSwift
+Suggests: thRilling, conciliatoRy
+License: Phony License
+MD5sum: 93281e62f9f816e745a54d56be0a010b
+Metric/lint_count@R: 9
+Metric/has_current_news@R: FALSE
+Metric/lint_free_fraction@R: 0.846210591658018
+Metric/cran_reverse_dependencies_count@R: 2
+Metric/vignette_count@R: 2
+Metric/r_cmd_check_error_count@R: 0
+Metric/test_line_coverage_fraction@R: 0.381576865739265
+Metric/exports_help_coverage@R: 0.957500081323087
+Metric/test_expression_coverage_fraction@R: 0.792485410206926
+Metric/downloads_total@R: 2440
+Metric/help_pages_with_examples_count@R: 36
+Metric/has_recognized_source@R: FALSE
+Metric/help_examples_coverage@R: 0.566298520658165
+Metric/dependency_count@R: 3
+Metric/has_website@R: FALSE
+
+Package: enviousgrin
+Version: 5.6.4
+Depends: R
+Imports: shiny.word, stunning.bargain
+Suggests: reverenceNice
+License: Phony License
+MD5sum: e9c6a15da3047db2214288ba0426f1eb
+Metric/lint_count@R: 7
+Metric/has_current_news@R: TRUE
+Metric/lint_free_fraction@R: 0.941140989237465
+Metric/cran_reverse_dependencies_count@R: 7
+Metric/vignette_count@R: 2
+Metric/r_cmd_check_error_count@R: 1
+Metric/test_line_coverage_fraction@R: 0.998934256973899
+Metric/exports_help_coverage@R: 0.980224929424003
+Metric/test_expression_coverage_fraction@R: 0.869657794177422
+Metric/downloads_total@R: 26317
+Metric/help_pages_with_examples_count@R: 17
+Metric/has_recognized_source@R: TRUE
+Metric/help_examples_coverage@R: 0.568653409718536
+Metric/dependency_count@R: 3
+Metric/has_website@R: FALSE
+
+Package: libeRation
+Version: 4.2.3
+Depends: R
+Imports: soplyr
+Suggests: suRv, reachablesmartfairness
+License: Phony License
+MD5sum: d481df6c5a277d5729d684af15845433
+Metric/lint_count@R: 10
+Metric/has_current_news@R: FALSE
+Metric/lint_free_fraction@R: 0.783600850007497
+Metric/cran_reverse_dependencies_count@R: 3
+Metric/vignette_count@R: 1
+Metric/r_cmd_check_error_count@R: 1
+Metric/test_line_coverage_fraction@R: 0.990514493499969
+Metric/exports_help_coverage@R: 0.821529359323904
+Metric/test_expression_coverage_fraction@R: 0
+Metric/downloads_total@R: 128
+Metric/help_pages_with_examples_count@R: 27
+Metric/has_recognized_source@R: TRUE
+Metric/help_examples_coverage@R: 0.829863602877595
+Metric/dependency_count@R: 2
+Metric/has_website@R: FALSE
+
+Package: vishumility
+Version: 1.4.5
+Depends: R
+Imports: maneuveRable
+Suggests: exubeRance
+License: Phony License
+MD5sum: befddb39518c2f44c30789a952972851
+Metric/lint_count@R: 7
+Metric/has_current_news@R: FALSE
+Metric/lint_free_fraction@R: 0.75023702760227
+Metric/cran_reverse_dependencies_count@R: 1
+Metric/vignette_count@R: 1
+Metric/r_cmd_check_error_count@R: 1
+Metric/test_line_coverage_fraction@R: 0.918391322134154
+Metric/exports_help_coverage@R: 0.903165749274194
+Metric/test_expression_coverage_fraction@R: 0.989038960003328
+Metric/downloads_total@R: 320107
+Metric/help_pages_with_examples_count@R: 39
+Metric/has_recognized_source@R: TRUE
+Metric/help_examples_coverage@R: 0.901777360588312
+Metric/dependency_count@R: 2
+Metric/has_website@R: FALSE
+
+Package: thRilling
+Version: 4.6.3
+Depends: R, DextrousSwift
+Suggests: reachablesmartfairness
+License: Phony License
+MD5sum: a98541ce68da305649bc95d7085495e6
+Metric/lint_count@R: 5
+Metric/has_current_news@R: TRUE
+Metric/lint_free_fraction@R: 0.707898978353478
+Metric/cran_reverse_dependencies_count@R: 3
+Metric/vignette_count@R: 1
+Metric/r_cmd_check_error_count@R: 0
+Metric/test_line_coverage_fraction@R: 0.672310620296996
+Metric/exports_help_coverage@R: 0.934880803059787
+Metric/test_expression_coverage_fraction@R: 0.982162050124893
+Metric/downloads_total@R: 229
+Metric/help_pages_with_examples_count@R: 25
+Metric/has_recognized_source@R: TRUE
+Metric/help_examples_coverage@R: 0.816235448350199
+Metric/dependency_count@R: 2
+Metric/has_website@R: FALSE
+
+Package: authoRitative
+Version: 3.4.3
+Depends: R
+Imports: tidyfuzzyhooray, exubeRance
+License: Phony License
+MD5sum: 6773aa90a60b38f2c62be845aca2f9c3
+Metric/lint_count@R: 8
+Metric/has_current_news@R: TRUE
+Metric/lint_free_fraction@R: 0.885084665333852
+Metric/cran_reverse_dependencies_count@R: 1
+Metric/vignette_count@R: 3
+Metric/r_cmd_check_error_count@R: 0
+Metric/test_line_coverage_fraction@R: 0
+Metric/exports_help_coverage@R: 0.923088233964518
+Metric/test_expression_coverage_fraction@R: 0.183833692040463
+Metric/downloads_total@R: 7343
+Metric/help_pages_with_examples_count@R: 40
+Metric/has_recognized_source@R: TRUE
+Metric/help_examples_coverage@R: 0.520220634294674
+Metric/dependency_count@R: 3
+Metric/has_website@R: FALSE
+
+Package: soplyr
+Version: 0.7.8
+Depends: R
+LinkingTo: tidyfuzzyhooray
+Suggests: DextrousSwift, shiny.word
+License: Phony License
+MD5sum: 6692062e117bd12810b2533fe2c223c0
+Metric/lint_count@R: 7
+Metric/has_current_news@R: FALSE
+Metric/lint_free_fraction@R: 0.948840892431326
+Metric/cran_reverse_dependencies_count@R: 2
+Metric/vignette_count@R: 1
+Metric/r_cmd_check_error_count@R: 0
+Metric/test_line_coverage_fraction@R: 0.920232163228791
+Metric/exports_help_coverage@R: 0.895275181997567
+Metric/test_expression_coverage_fraction@R: 0
+Metric/downloads_total@R: 121940
+Metric/help_pages_with_examples_count@R: 25
+Metric/has_recognized_source@R: TRUE
+Metric/help_examples_coverage@R: 0.694233954069205
+Metric/dependency_count@R: 2
+Metric/has_website@R: FALSE
+
+Package: DextrousSwift
+Version: 1.0-4
+Depends: R
+License: Phony License
+MD5sum: 0874f353ed33a63b652d77b0b939019e
+Metric/lint_count@R: 11
+Metric/has_current_news@R: TRUE
+Metric/lint_free_fraction@R: 0.799338338058442
+Metric/cran_reverse_dependencies_count@R: 3
+Metric/vignette_count@R: 7
+Metric/r_cmd_check_error_count@R: 1
+Metric/test_line_coverage_fraction@R: 0
+Metric/exports_help_coverage@R: 0.837695173593238
+Metric/test_expression_coverage_fraction@R: 0.295889576085928
+Metric/downloads_total@R: 577
+Metric/help_pages_with_examples_count@R: 8
+Metric/has_recognized_source@R: TRUE
+Metric/help_examples_coverage@R: 0.645778416888788
+Metric/dependency_count@R: 1
+Metric/has_website@R: FALSE
+
+Package: reclaimSurvey
+Version: 6.5.3
+Depends: R
+License: Phony License
+MD5sum: 8c20ec0624470269f075731c9b435509
+Metric/lint_count@R: 11
+Metric/has_current_news@R: TRUE
+Metric/lint_free_fraction@R: 0.70867170188576
+Metric/cran_reverse_dependencies_count@R: 1
+Metric/vignette_count@R: 3
+Metric/r_cmd_check_error_count@R: 0
+Metric/test_line_coverage_fraction@R: 0
+Metric/exports_help_coverage@R: 0.960319339344278
+Metric/test_expression_coverage_fraction@R: 0
+Metric/downloads_total@R: 381
+Metric/help_pages_with_examples_count@R: 32
+Metric/has_recognized_source@R: FALSE
+Metric/help_examples_coverage@R: 0.772739490726963
+Metric/dependency_count@R: 1
+Metric/has_website@R: FALSE
+
+Package: renownGlitter
+Version: 0.3.4
+Depends: R
+Imports: tidyfuzzyhooray, Romantic
+Suggests: Rapturous, flplyr, exubeRance
+License: Phony License
+MD5sum: 49ea63f85275e2ce7cf3ae4f9d6b21fb
+Metric/lint_count@R: 9
+Metric/has_current_news@R: TRUE
+Metric/lint_free_fraction@R: 0.970108239469118
+Metric/cran_reverse_dependencies_count@R: 4
+Metric/vignette_count@R: 2
+Metric/r_cmd_check_error_count@R: 1
+Metric/test_line_coverage_fraction@R: 0.280783975517706
+Metric/exports_help_coverage@R: 0.989591442840174
+Metric/test_expression_coverage_fraction@R: 0.999494636119952
+Metric/downloads_total@R: 33436
+Metric/help_pages_with_examples_count@R: 11
+Metric/has_recognized_source@R: TRUE
+Metric/help_examples_coverage@R: 0.507941421936266
+Metric/dependency_count@R: 3
+Metric/has_website@R: FALSE
+
+Package: conciliatoRy
+Version: 2.5.2
+Depends: R
+Imports: suRv, easytable
+LinkingTo: reachablesmartfairness
+Suggests: Rapturous, flplyr
+License: Phony License
+MD5sum: 75b55f65d6944387b27dc4848cba20fe
+Metric/lint_count@R: 10
+Metric/has_current_news@R: TRUE
+Metric/lint_free_fraction@R: 0.707082937704399
+Metric/cran_reverse_dependencies_count@R: 3
+Metric/vignette_count@R: 5
+Metric/r_cmd_check_error_count@R: 0
+Metric/test_line_coverage_fraction@R: 0
+Metric/exports_help_coverage@R: 0.938607501611114
+Metric/test_expression_coverage_fraction@R: 0.0356175850966154
+Metric/downloads_total@R: 818223
+Metric/help_pages_with_examples_count@R: 39
+Metric/has_recognized_source@R: TRUE
+Metric/help_examples_coverage@R: 0.971742968657054
+Metric/dependency_count@R: 4
+Metric/has_website@R: FALSE
+
+Package: Rapturous
+Version: 2.6.2
+Depends: R
+Imports: flplyr
+Suggests: easytable
+License: Phony License
+MD5sum: 97e3dad230e086844829062b36460eb0
+Metric/lint_count@R: 4
+Metric/has_current_news@R: FALSE
+Metric/lint_free_fraction@R: 0.867035298142582
+Metric/cran_reverse_dependencies_count@R: 0
+Metric/vignette_count@R: 5
+Metric/r_cmd_check_error_count@R: 1
+Metric/test_line_coverage_fraction@R: 0
+Metric/exports_help_coverage@R: 0.801963948691264
+Metric/test_expression_coverage_fraction@R: 0.817591455223576
+Metric/downloads_total@R: 868
+Metric/help_pages_with_examples_count@R: 11
+Metric/has_recognized_source@R: FALSE
+Metric/help_examples_coverage@R: 0.520119523396716
+Metric/dependency_count@R: 2
+Metric/has_website@R: FALSE
+
+Package: flplyr
+Version: 4.5.2
+Depends: R
+Imports: tidyfuzzyhooray, easygoingshinyrespite, valsharper
+License: Phony License
+MD5sum: 310903443a52616e44190d72b1b32298
+Metric/lint_count@R: 2
+Metric/has_current_news@R: FALSE
+Metric/lint_free_fraction@R: 0.948056120960973
+Metric/cran_reverse_dependencies_count@R: 1
+Metric/vignette_count@R: 1
+Metric/r_cmd_check_error_count@R: 0
+Metric/test_line_coverage_fraction@R: 0
+Metric/exports_help_coverage@R: 0.850726664857939
+Metric/test_expression_coverage_fraction@R: 0.975357240269639
+Metric/downloads_total@R: 28
+Metric/help_pages_with_examples_count@R: 33
+Metric/has_recognized_source@R: TRUE
+Metric/help_examples_coverage@R: 0.832887501805089
+Metric/dependency_count@R: 4
+Metric/has_website@R: FALSE
+
+Package: industRious
+Version: 2.1.3
+Depends: R
+Suggests: easytable
+License: Phony License
+MD5sum: d66b73b886753bf256285639bd66c1be
+Metric/lint_count@R: 10
+Metric/has_current_news@R: FALSE
+Metric/lint_free_fraction@R: 0.841197479586117
+Metric/cran_reverse_dependencies_count@R: 2
+Metric/vignette_count@R: 7
+Metric/r_cmd_check_error_count@R: 2
+Metric/test_line_coverage_fraction@R: 0
+Metric/exports_help_coverage@R: 0.947975671011955
+Metric/test_expression_coverage_fraction@R: 0.994963623876713
+Metric/downloads_total@R: 10524
+Metric/help_pages_with_examples_count@R: 30
+Metric/has_recognized_source@R: TRUE
+Metric/help_examples_coverage@R: 0.79607588564977
+Metric/dependency_count@R: 1
+Metric/has_website@R: FALSE
+
+Package: astoundingeager
+Version: 0.5.5
+Depends: R
+License: Phony License
+MD5sum: bf7084658b4cb3cc092da89ac4211090
+Metric/lint_count@R: 14
+Metric/has_current_news@R: FALSE
+Metric/lint_free_fraction@R: 0.958441866445355
+Metric/cran_reverse_dependencies_count@R: 3
+Metric/vignette_count@R: 2
+Metric/r_cmd_check_error_count@R: 0
+Metric/test_line_coverage_fraction@R: 0.875067476504284
+Metric/exports_help_coverage@R: 0.902281307196245
+Metric/test_expression_coverage_fraction@R: 0.780201163769477
+Metric/downloads_total@R: 367311
+Metric/help_pages_with_examples_count@R: 45
+Metric/has_recognized_source@R: FALSE
+Metric/help_examples_coverage@R: 0.767851025448181
+Metric/dependency_count@R: 1
+Metric/has_website@R: FALSE
+
+Package: reverenceNice
+Version: 2.5.3
+Depends: R
+License: Phony License
+MD5sum: 29025da2a30829c2149df06113f6fb1c
+Metric/lint_count@R: 7
+Metric/has_current_news@R: FALSE
+Metric/lint_free_fraction@R: 0.782840035273694
+Metric/cran_reverse_dependencies_count@R: 1
+Metric/vignette_count@R: 4
+Metric/r_cmd_check_error_count@R: 0
+Metric/test_line_coverage_fraction@R: 0
+Metric/exports_help_coverage@R: 0.866763176303357
+Metric/test_expression_coverage_fraction@R: 0.981655467369225
+Metric/downloads_total@R: 15182
+Metric/help_pages_with_examples_count@R: 17
+Metric/has_recognized_source@R: TRUE
+Metric/help_examples_coverage@R: 0.719396812608466
+Metric/dependency_count@R: 1
+Metric/has_website@R: FALSE
+
+Package: shiny.word
+Version: 3.2-4
+Depends: R
+License: Phony License
+MD5sum: a14e5ac3e84e4cf7f8c0b46b5fb6a07b
+Metric/lint_count@R: 12
+Metric/has_current_news@R: TRUE
+Metric/lint_free_fraction@R: 0.703199936193414
+Metric/cran_reverse_dependencies_count@R: 4
+Metric/vignette_count@R: 3
+Metric/r_cmd_check_error_count@R: 0
+Metric/test_line_coverage_fraction@R: 0
+Metric/exports_help_coverage@R: 0.973154685739428
+Metric/test_expression_coverage_fraction@R: 0.873157967372391
+Metric/downloads_total@R: 543
+Metric/help_pages_with_examples_count@R: 37
+Metric/has_recognized_source@R: TRUE
+Metric/help_examples_coverage@R: 0.535505234147422
+Metric/dependency_count@R: 1
+Metric/has_website@R: FALSE
+
+Package: suRv
+Version: 2.1.3
+Depends: R
+LinkingTo: shinyhappieramazement
+License: Phony License
+MD5sum: c33d5e1109c54de3c23dcdb3fc216393
+Metric/lint_count@R: 7
+Metric/has_current_news@R: FALSE
+Metric/lint_free_fraction@R: 0.71013750648126
+Metric/cran_reverse_dependencies_count@R: 0
+Metric/vignette_count@R: 2
+Metric/r_cmd_check_error_count@R: 0
+Metric/test_line_coverage_fraction@R: 0.86731965240165
+Metric/exports_help_coverage@R: 0.912921290146187
+Metric/test_expression_coverage_fraction@R: 0.8295607469126
+Metric/downloads_total@R: 109226
+Metric/help_pages_with_examples_count@R: 38
+Metric/has_recognized_source@R: TRUE
+Metric/help_examples_coverage@R: 0.933648801990785
+Metric/dependency_count@R: 2
+Metric/has_website@R: FALSE
+
+Package: reachablesmartfairness
+Version: 0.3-2
+Depends: R
+Imports: tidyfuzzyhooray, ggcuteness
+Suggests: easygoingshinyrespite
+License: Phony License
+MD5sum: 110f3906066955faab5ed899167fbf5b
+Metric/lint_count@R: 7
+Metric/has_current_news@R: TRUE
+Metric/lint_free_fraction@R: 0.987972917850129
+Metric/cran_reverse_dependencies_count@R: 1
+Metric/vignette_count@R: 1
+Metric/r_cmd_check_error_count@R: 0
+Metric/test_line_coverage_fraction@R: 0.907399358545677
+Metric/exports_help_coverage@R: 0.804975670902059
+Metric/test_expression_coverage_fraction@R: 0.220473382641528
+Metric/downloads_total@R: 91
+Metric/help_pages_with_examples_count@R: 18
+Metric/has_recognized_source@R: TRUE
+Metric/help_examples_coverage@R: 0.877123219193891
+Metric/dependency_count@R: 3
+Metric/has_website@R: FALSE
+
+Package: tidyfuzzyhooray
+Version: 2.1
+Depends: R, exubeRance
+Imports: stunning.bargain
+Suggests: shinyhappieramazement
+License: Phony License
+MD5sum: c30cdfb3af8169e415b113ed1d48387d
+Metric/lint_count@R: 9
+Metric/has_current_news@R: FALSE
+Metric/lint_free_fraction@R: 0.762790570803918
+Metric/cran_reverse_dependencies_count@R: 3
+Metric/vignette_count@R: 2
+Metric/r_cmd_check_error_count@R: 0
+Metric/test_line_coverage_fraction@R: 0
+Metric/exports_help_coverage@R: 0.932129297032952
+Metric/test_expression_coverage_fraction@R: 0.538701198433515
+Metric/downloads_total@R: 19
+Metric/help_pages_with_examples_count@R: 27
+Metric/has_recognized_source@R: TRUE
+Metric/help_examples_coverage@R: 0.617253323318437
+Metric/dependency_count@R: 3
+Metric/has_website@R: FALSE
+
+Package: easygoingshinyrespite
+Version: 1.8.5
+Depends: R
+Imports: stunning.bargain
+License: Phony License
+MD5sum: 1aae03012965c3f0be41c13220afe519
+Metric/lint_count@R: 11
+Metric/has_current_news@R: TRUE
+Metric/lint_free_fraction@R: 0.711763495393097
+Metric/cran_reverse_dependencies_count@R: 1
+Metric/vignette_count@R: 4
+Metric/r_cmd_check_error_count@R: 0
+Metric/test_line_coverage_fraction@R: 0.109337292297636
+Metric/exports_help_coverage@R: 0.932883217092603
+Metric/test_expression_coverage_fraction@R: 0.978587238040196
+Metric/downloads_total@R: 65
+Metric/help_pages_with_examples_count@R: 6
+Metric/has_recognized_source@R: FALSE
+Metric/help_examples_coverage@R: 0.919204747886397
+Metric/dependency_count@R: 2
+Metric/has_website@R: FALSE
+
+Package: stunning.bargain
+Version: 1.1.1
+Depends: R, ggcuteness
+License: Phony License
+MD5sum: dbe7f778349c04674f4226409e196bb1
+Metric/lint_count@R: 10
+Metric/has_current_news@R: TRUE
+Metric/lint_free_fraction@R: 0.847847842494957
+Metric/cran_reverse_dependencies_count@R: 2
+Metric/vignette_count@R: 1
+Metric/r_cmd_check_error_count@R: 0
+Metric/test_line_coverage_fraction@R: 0.881397864406558
+Metric/exports_help_coverage@R: 0.864111338369548
+Metric/test_expression_coverage_fraction@R: 0.980319840810525
+Metric/downloads_total@R: 576
+Metric/help_pages_with_examples_count@R: 14
+Metric/has_recognized_source@R: FALSE
+Metric/help_examples_coverage@R: 0.654447735403664
+Metric/dependency_count@R: 2
+Metric/has_website@R: FALSE
+
+Package: ggcuteness
+Version: 1.3
+Depends: R
+License: Phony License
+MD5sum: 713da0ea17cb2b182895cc0cd2192856
+Metric/lint_count@R: 10
+Metric/has_current_news@R: TRUE
+Metric/lint_free_fraction@R: 0.783728047693148
+Metric/cran_reverse_dependencies_count@R: 2
+Metric/vignette_count@R: 3
+Metric/r_cmd_check_error_count@R: 0
+Metric/test_line_coverage_fraction@R: 0.797788093370323
+Metric/exports_help_coverage@R: 0.871569604147226
+Metric/test_expression_coverage_fraction@R: 0.618831363574622
+Metric/downloads_total@R: 39341
+Metric/help_pages_with_examples_count@R: 42
+Metric/has_recognized_source@R: TRUE
+Metric/help_examples_coverage@R: 0.550349539727904
+Metric/dependency_count@R: 1
+Metric/has_website@R: FALSE
+
+Package: easytable
+Version: 3.4
+Depends: R
+Imports: maneuveRable
+License: Phony License
+MD5sum: 46f320ced0dfe1e652eb256a8317244d
+Metric/lint_count@R: 8
+Metric/has_current_news@R: FALSE
+Metric/lint_free_fraction@R: 0.938381372368895
+Metric/cran_reverse_dependencies_count@R: 1
+Metric/vignette_count@R: 3
+Metric/r_cmd_check_error_count@R: 0
+Metric/test_line_coverage_fraction@R: 0.847018898343964
+Metric/exports_help_coverage@R: 0.923851189715788
+Metric/test_expression_coverage_fraction@R: 0.986675023241117
+Metric/downloads_total@R: 407
+Metric/help_pages_with_examples_count@R: 38
+Metric/has_recognized_source@R: FALSE
+Metric/help_examples_coverage@R: 0.912218802375719
+Metric/dependency_count@R: 2
+Metric/has_website@R: FALSE
+
+Package: Romantic
+Version: 2.4.2
+Depends: R
+License: Phony License
+MD5sum: cdd9a48f5b7f63bfddc26c6fb2e8efa4
+Metric/lint_count@R: 7
+Metric/has_current_news@R: TRUE
+Metric/lint_free_fraction@R: 0.809639393282123
+Metric/cran_reverse_dependencies_count@R: 1
+Metric/vignette_count@R: 2
+Metric/r_cmd_check_error_count@R: 1
+Metric/test_line_coverage_fraction@R: 0.569114401528215
+Metric/exports_help_coverage@R: 0.98150546993129
+Metric/test_expression_coverage_fraction@R: 0.871491182920078
+Metric/downloads_total@R: 162
+Metric/help_pages_with_examples_count@R: 25
+Metric/has_recognized_source@R: TRUE
+Metric/help_examples_coverage@R: 0.791646757978015
+Metric/dependency_count@R: 1
+Metric/has_website@R: FALSE
+
+Package: maneuveRable
+Version: 0.3.8
+Depends: R
+License: Phony License
+MD5sum: 1942e57d283d886fedb065c664b2068d
+Metric/lint_count@R: 10
+Metric/has_current_news@R: TRUE
+Metric/lint_free_fraction@R: 0.972400073008612
+Metric/cran_reverse_dependencies_count@R: 2
+Metric/vignette_count@R: 2
+Metric/r_cmd_check_error_count@R: 0
+Metric/test_line_coverage_fraction@R: 0
+Metric/exports_help_coverage@R: 0.993274322990328
+Metric/test_expression_coverage_fraction@R: 0.802231503632463
+Metric/downloads_total@R: 56
+Metric/help_pages_with_examples_count@R: 45
+Metric/has_recognized_source@R: TRUE
+Metric/help_examples_coverage@R: 0.96539756108541
+Metric/dependency_count@R: 1
+Metric/has_website@R: FALSE
+
+Package: shinyhappieramazement
+Version: 1.3.4
+Depends: R
+License: Phony License
+MD5sum: d00e2122ed75516b715605d7e892bf4f
+Metric/lint_count@R: 9
+Metric/has_current_news@R: TRUE
+Metric/lint_free_fraction@R: 0.711908399849199
+Metric/cran_reverse_dependencies_count@R: 4
+Metric/vignette_count@R: 1
+Metric/r_cmd_check_error_count@R: 1
+Metric/test_line_coverage_fraction@R: 0.620742621980377
+Metric/exports_help_coverage@R: 0.813113454263657
+Metric/test_expression_coverage_fraction@R: 0.775174921486438
+Metric/downloads_total@R: 140114
+Metric/help_pages_with_examples_count@R: 42
+Metric/has_recognized_source@R: FALSE
+Metric/help_examples_coverage@R: 0.611554851173423
+Metric/dependency_count@R: 1
+Metric/has_website@R: FALSE
+
+Package: exubeRance
+Version: 3.6-3
+Depends: R
+License: Phony License
+MD5sum: fa92bc9ff6d141cfbb329cf029e1891b
+Metric/lint_count@R: 4
+Metric/has_current_news@R: FALSE
+Metric/lint_free_fraction@R: 0.737513428856619
+Metric/cran_reverse_dependencies_count@R: 3
+Metric/vignette_count@R: 5
+Metric/r_cmd_check_error_count@R: 0
+Metric/test_line_coverage_fraction@R: 0.894244074872464
+Metric/exports_help_coverage@R: 0.82776717171073
+Metric/test_expression_coverage_fraction@R: 0.757157950119488
+Metric/downloads_total@R: 1498
+Metric/help_pages_with_examples_count@R: 6
+Metric/has_recognized_source@R: FALSE
+Metric/help_examples_coverage@R: 0.902471108012833
+Metric/dependency_count@R: 1
+Metric/has_website@R: FALSE
+
+Package: valsharper
+Version: 4.5.2
+Depends: R
+License: Phony License
+MD5sum: 9e2d37f17995421d90235667e02639c3
+Metric/lint_count@R: 6
+Metric/has_current_news@R: TRUE
+Metric/lint_free_fraction@R: 0.960287763387896
+Metric/cran_reverse_dependencies_count@R: 3
+Metric/vignette_count@R: 5
+Metric/r_cmd_check_error_count@R: 1
+Metric/test_line_coverage_fraction@R: 0.0681882086462039
+Metric/exports_help_coverage@R: 0.81492491113022
+Metric/test_expression_coverage_fraction@R: 0.981661238428626
+Metric/downloads_total@R: 2625
+Metric/help_pages_with_examples_count@R: 23
+Metric/has_recognized_source@R: FALSE
+Metric/help_examples_coverage@R: 0.990483953151852
+Metric/dependency_count@R: 1
+Metric/has_website@R: FALSE

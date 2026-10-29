@@ -1,0 +1,107 @@
+[
+  {
+    "name": "lint_count",
+    "title": "Lint Count",
+    "description": "<p>Count of lints identified by <span class=\"pkg\">lintr<\/span>. The set of linters applied is controlled by the <code>lint_linters<\/code> option, which defaults to linters from the <em>correctness<\/em>, <em>common_mistakes<\/em>, and <em>robustness<\/em> tags excluding those that require configuration or are environment-dependent. Lower counts indicate higher code quality.",
+    "tags": ["best practice"],
+    "permissions": []
+  },
+  {
+    "name": "has_current_news",
+    "title": "Up to date NEWS",
+    "description": "<p>a NEWS file exists and is synced with the current package version",
+    "tags": [],
+    "permissions": []
+  },
+  {
+    "name": "lint_free_fraction",
+    "title": "Lint-Free Fraction",
+    "description": "<p>Fraction of R code lines that are free of lints. Code lines are defined as lines containing executable R tokens (excluding comments and blank lines) across the standard package directories (<code>R/<\/code>, <code>tests/<\/code>, <code>inst/<\/code>, <code>vignettes/<\/code>, <code>data-raw/<\/code>, <code>demo/<\/code>, <code>exec/<\/code>). A value of 1 means no linted lines; lower values indicate more pervasive lint issues. The set of linters applied is controlled by the <code>lint_linters<\/code> option.",
+    "tags": ["best practice"],
+    "permissions": []
+  },
+  {
+    "name": "cran_reverse_dependencies_count",
+    "title": "CRAN Reverse Dependencies Count",
+    "description": "<p>The number of packages on <abbr><span class=\"acronym\">CRAN<\/span><\/abbr> that directly depend on this package through <code>Depends<\/code>, <code>Imports<\/code>, or <code>LinkingTo<\/code> fields. This metric reflects adoption within the CRAN ecosystem and indicates how many packages would be affected by breaking changes. Higher counts suggest wider usage and community trust, but also greater responsibility for maintaining backward compatibility.",
+    "tags": ["adoption", "transient"],
+    "permissions": []
+  },
+  {
+    "name": "vignette_count",
+    "title": "Total Vignettes",
+    "description": "<p>total number of vignettes",
+    "tags": [],
+    "permissions": []
+  },
+  {
+    "name": "r_cmd_check_error_count",
+    "title": "R CMD check Error Count",
+    "description": "<p>the number of errors produced when running <code>R CMD check<\/code>",
+    "tags": ["execution"],
+    "permissions": ["execution"]
+  },
+  {
+    "name": "test_line_coverage_fraction",
+    "title": "Test coverage of package code by line",
+    "description": "<p>The fraction of lines of package code that are evaluated by any test",
+    "tags": [],
+    "permissions": ["execution"]
+  },
+  {
+    "name": "exports_help_coverage",
+    "title": "Exports Help Coverage",
+    "description": "<p>The fraction of exported objects that have help pages. Calculated by matching package exports against <code>\\alias<\/code> tags in help pages. Values range from 0.0 (no exports documented) to 1.0 (all exports have help pages).",
+    "tags": ["best practice"],
+    "permissions": []
+  },
+  {
+    "name": "test_expression_coverage_fraction",
+    "title": "Test coverage of package code by expression",
+    "description": "<p>The fraction of expressions of package code that are evaluated by any test",
+    "tags": [],
+    "permissions": ["execution"]
+  },
+  {
+    "name": "downloads_total",
+    "title": "Total Downloads",
+    "description": "<p>total number of lifetime downloads, as reported by the Posit CRAN mirror through the <a href=\"https://cranlogs.rpkg.org\">cranlogs<\/a> API",
+    "tags": ["adoption", "transient", "version-independent"],
+    "permissions": ["network"]
+  },
+  {
+    "name": "help_pages_with_examples_count",
+    "title": "Help Pages with Examples Count",
+    "description": "<p>The number of help pages that include an <code>\\examples<\/code> section. This provides an absolute count of how many documentation pages demonstrate the package functionality with example code.",
+    "tags": ["best practice"],
+    "permissions": []
+  },
+  {
+    "name": "has_recognized_source",
+    "title": "Has Recognized Source Repository",
+    "description": "<p>Indicates whether the package has a source code repository on a recognized hosting platform from an allow-list of known domains. Inferred from the <abbr><span class=\"acronym\">URL<\/span><\/abbr> and <code>BugReports<\/code> fields in the <code>DESCRIPTION<\/code> file. See <code>?options<\/code> for customizing the allow-list.",
+    "tags": ["best practice"],
+    "permissions": []
+  },
+  {
+    "name": "help_examples_coverage",
+    "title": "Help Pages Examples Coverage",
+    "description": "<p>The fraction of help pages that include an <code>\\examples<\/code> section. Calculated as the number of help pages with examples divided by the total number of help pages. Values range from 0.0 (no examples) to 1.0 (all pages have examples).",
+    "tags": ["best practice"],
+    "permissions": []
+  },
+  {
+    "name": "dependency_count",
+    "title": "Dependency Count",
+    "description": "<p>the number of required dependencies",
+    "tags": ["best practice"],
+    "permissions": []
+  },
+  {
+    "name": "has_website",
+    "title": "Has Website",
+    "description": "<p>a logical indicating whether the package has a website",
+    "tags": [],
+    "permissions": []
+  }
+]
